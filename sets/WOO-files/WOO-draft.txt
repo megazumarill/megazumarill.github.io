@@ -1571,13 +1571,13 @@
 			}
 		},
 		{
-			"name": "Triumph of the Mighty",
+			"name": "Triumph of Justice",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/36_Triumph of the Mighty.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/36_Triumph of Justice.png"
 			}
 		},
 		{
@@ -2237,9 +2237,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "247",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/247_Twin-Construction Workers.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/249_Twin-Construction Workers.png"
 			}
 		},
 		{
@@ -2247,9 +2247,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct Scout",
-			"collector_number": "243",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/243_Scapwork Venturer.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/245_Scapwork Venturer.png"
 			}
 		},
 		{
@@ -2257,9 +2257,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct Soldier",
-			"collector_number": "241",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/241_Mechanical Sentinel.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/243_Mechanical Sentinel.png"
 			}
 		},
 		{
@@ -2287,16 +2287,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "244",
+			"collector_number": "246",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/244_Sheltering Cloak_back.png"
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/246_Sheltering Cloak_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/244_Sheltering Cloak_front.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/246_Sheltering Cloak_front.png"
 			}
 		},
 		{
@@ -2304,9 +2304,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct Scout",
-			"collector_number": "246",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/246_Treasure Delver.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/248_Treasure Delver.png"
 			}
 		},
 		{
@@ -2354,9 +2354,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/258_Sealed Gateway.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/260_Sealed Gateway.png"
 			}
 		},
 		{
@@ -2364,9 +2364,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "255",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/255_Nedrule, Curious Capital.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/257_Nedrule, Curious Capital.png"
 			}
 		},
 		{
@@ -2374,9 +2374,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/260_Soulcaller's Sanctuary.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/262_Soulcaller's Sanctuary.png"
 			}
 		},
 		{
@@ -2467,13 +2467,13 @@
 			}
 		},
 		{
-			"name": "Eileen, Priestess of the Dawn",
+			"name": "Eileen, Herald of the Dawn",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
-			"type": "Legendary Creature — Angel Cleric",
+			"type": "Legendary Creature — Spirit Angel",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/189_Eileen, Priestess of the Dawn.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/189_Eileen, Herald of the Dawn.png"
 			}
 		},
 		{
@@ -2538,9 +2538,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/251_Desolate Grove.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/253_Desolate Grove.png"
 			}
 		},
 		{
@@ -2548,9 +2548,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/249_Banished Bog.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/251_Banished Bog.png"
 			}
 		},
 		{
@@ -2558,9 +2558,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/250_Creeping Woodland.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/252_Creeping Woodland.png"
 			}
 		},
 		{
@@ -2568,9 +2568,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/254_Geist Geysers.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/256_Geist Geysers.png"
 			}
 		},
 		{
@@ -2578,9 +2578,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/252_Dragonfire Shrine.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/254_Dragonfire Shrine.png"
 			}
 		},
 		{
@@ -2588,9 +2588,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/261_Stargazer's Shoal.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/263_Stargazer's Shoal.png"
 			}
 		},
 		{
@@ -2598,9 +2598,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/262_Temple of the Second Dawn.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/264_Temple of the Second Dawn.png"
 			}
 		},
 		{
@@ -2608,9 +2608,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/259_Serene Spring.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/261_Serene Spring.png"
 			}
 		},
 		{
@@ -2618,9 +2618,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/263_Vhewter Night Market.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/265_Vhewter Night Market.png"
 			}
 		},
 		{
@@ -2628,9 +2628,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/257_Rotfield Grove.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/259_Rotfield Grove.png"
 			}
 		},
 		{
@@ -2638,9 +2638,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/253_Dragonflame Campsite.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/255_Dragonflame Campsite.png"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "245",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/245_Throwing Hammer.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/247_Throwing Hammer.png"
 			}
 		},
 		{
@@ -2765,16 +2765,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "242",
+			"collector_number": "244",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/242_Ritual Staff_back.png"
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/244_Ritual Staff_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/242_Ritual Staff_front.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/244_Ritual Staff_front.png"
 			}
 		},
 		{
@@ -2799,16 +2799,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "240",
+			"collector_number": "242",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/240_Manasteel Greaves_back.png"
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/242_Manasteel Greaves_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/240_Manasteel Greaves_front.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/242_Manasteel Greaves_front.png"
 			}
 		},
 		{
@@ -2843,9 +2843,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/256_Propagating Rotland.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/258_Propagating Rotland.png"
 			}
 		},
 		{
@@ -2853,9 +2853,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "248",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/248_Twinning Blade.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/250_Twinning Blade.png"
 			}
 		},
 		{
@@ -2867,6 +2867,300 @@
 			"image_uris": {
 				"en": "https://megazumarill.github.io/sets/WOO-files/img/140_Thrown into the Forge.png"
 			}
+		},
+		{
+			"name": "Artificer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Artificer",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/5_Artificer.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/8_Clue.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/1_Copy.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/278_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/279_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/280_Forest.png"
+			}
+		},
+		{
+			"name": "Incubator",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Incubator",
+			"collector_number": "240",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/240_Incubator_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/240_Incubator_front.png"
+			}
+		},
+		{
+			"name": "Incubator",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Incubator",
+			"collector_number": "241",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/241_Incubator_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/241_Incubator_front.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/269_Island.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/270_Island.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/271_Island.png"
+			}
+		},
+		{
+			"name": "Junk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Junk",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/9_Junk.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/6_Knight.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/275_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/276_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/277_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/266_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/267_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/268_Plains.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/2_Spirit.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/3_Spirit.png"
+			}
+		},
+		{
+			"name": "Spirit Angel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Angel",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/4_Spirit Angel.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/273_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/274_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/272_Swamp.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/10_Thopter.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/11_Treasure.png"
+			}
+		},
+		{
+			"name": "Veles, Justice Restored",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Token Creature — Spirit Angel",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/7_Veles, Justice Restored.png"
+			}
 		}
 	]
 
@@ -2874,7 +3168,7 @@
 	2 Thought Extinction
 	2 Nature's Fury
 	2 Dawn of Courage
-	2 Triumph of the Mighty
+	2 Triumph of Justice
 	2 Call of the Order
 	2 Farmland Raider
 	2 Flamewing Angel
@@ -2937,7 +3231,7 @@
 	1 Ochiro, Final Flame
 	1 Ghonil, Essence Thief
 	1 The Shattered Cycle
-	1 Eileen, Priestess of the Dawn
+	1 Eileen, Herald of the Dawn
 	1 The Genesis Engine
 	2 Goblin Reiterator
 	2 Wildbloom Helix
@@ -3136,6 +3430,8 @@
 	8 Wildgrowth Crawler
 	8 Throwing Hammer
 	8 Thrown into the Forge
+	8 Incubator
+	8 Incubator
 [foil(1)]
 	12 Blossoming Soul
 	6 Fanatic Summoner
@@ -3280,7 +3576,7 @@
 	6 Seed of Corruption
 	2 Nature's Fury
 	2 Dawn of Courage
-	2 Triumph of the Mighty
+	2 Triumph of Justice
 	2 Call of the Order
 	2 Farmland Raider
 	2 Flamewing Angel
@@ -3364,7 +3660,7 @@
 	1 Ochiro, Final Flame
 	1 Ghonil, Essence Thief
 	1 The Shattered Cycle
-	1 Eileen, Priestess of the Dawn
+	1 Eileen, Herald of the Dawn
 	1 The Genesis Engine
 	12 Splicing Station
 	12 Spectral Pontiff
@@ -3400,6 +3696,8 @@
 	1 Propagating Rotland
 	1 Twinning Blade
 	12 Thrown into the Forge
+	12 Incubator
+	12 Incubator
 [wildcard(1)]
 	6 Blossoming Soul
 	15 Fanatic Summoner
@@ -3544,7 +3842,7 @@
 	15 Seed of Corruption
 	7 Nature's Fury
 	7 Dawn of Courage
-	7 Triumph of the Mighty
+	7 Triumph of Justice
 	7 Call of the Order
 	7 Farmland Raider
 	7 Flamewing Angel
@@ -3628,7 +3926,7 @@
 	4 Ochiro, Final Flame
 	4 Ghonil, Essence Thief
 	4 The Shattered Cycle
-	4 Eileen, Priestess of the Dawn
+	4 Eileen, Herald of the Dawn
 	4 The Genesis Engine
 	6 Splicing Station
 	6 Spectral Pontiff
@@ -3664,3 +3962,5 @@
 	4 Propagating Rotland
 	4 Twinning Blade
 	6 Thrown into the Forge
+	6 Incubator
+	6 Incubator

@@ -1,4 +1,120 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Triumph of Justice added.
+Eileen, Herald of the Dawn added.
+Artificer added.
+Clue added.
+Copy added.
+Incubator added.
+Incubator added.
+Junk added.
+Knight added.
+Spirit added.
+Spirit added.
+Spirit Angel added.
+Thopter added.
+Treasure added.
+Veles, Justice Restored added.
+
+Triumph of the Mighty removed.
+Eileen, Priestess of the Dawn removed.
+
+Caretaker of the Frightful
+
+Banish to Solitude
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+Whenever this enchantment enters, exile up to three target cards from graveyards. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+When this enchantment enters, exile up to three target cards from graveyards.
+
+Pledge to the Order
+rules_text: Enchant creature
+Enchanted creature has +2/+2 if it's a token.
+If enchanted creature isn't a token, it can't attack or block, and its activated abilities can't be activated. => Enchant creature
+Enchanted creature gets +3/+3 if it's a token, otherwise it can't attack or block, and its activated abilities can't be activated.
+
+Order Soulsmith
+rules_text: When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+As long as you control a token, this creature has +1/+1. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+As long as you control a token, this creature gets +1/+1.
+
+Dawnrider of Hope
+
+Second Dawn Illuminator
+
+Accursed Noble
+rules_text: Lifelink
+Whenever you put a finality counter on a permanent you control, You lose 1 life and create a tapped treasure token.
+Onslaught {1}{B} [i]({1}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => Lifelink
+Whenever you put a finality counter on a permanent you control, you lose 1 life and create a tapped treasure token.
+Onslaught {1}{B} [i]({1}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Keeper of the Sealed
+rules_text: When Keeper of the Sealed attacks, target player discards a card, then that player investigates.
+If this creature would enter from a graveyard, it instead enters transformed.
+Onslaught {4}{B}{B} [i]({4}{B}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => Whenever Keeper of the Sealed attacks, target player discards a card, then that player investigates.
+If this creature would enter from a graveyard, it instead enters transformed.
+Onslaught {4}{B}{B} [i]({4}{B}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Artificial Citizen
+rules_text: {T}: Add {R}.
+Whenever you sacrifice this creature, choose one—
+• Create a tapped treasure token.
+• Engineer 2. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => {T}: Add {R}.
+Whenever you sacrifice this creature, choose one—
+• Create a tapped Treasure token.
+• Engineer 2. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i]
+
+Imprecise Strike
+rules_text: This spell deals 5 damage to target creature and 2 damage to you. If excess damage is dealt this way, create a 1/1 red Artificer token with “{T}: Engineer 1. Activate only as a sorcery.” [i](To Engineer 1, put a +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => This spell deals 4 damage to target creature and 2 damage to you. If excess damage is dealt this way, create a 1/1 red Artificer token with “{T}: Engineer 1. Activate only as a sorcery.” [i](To Engineer 1, put a +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i]
+
+Bonds of the Wild
+rules_text: Enchant creature
+When this enchantment enters, enchanted creature fights another target creature.
+Enchanted creature gets +3/+3 and can't be blocked by more than one creature.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Enchant creature
+When this enchantment enters, enchanted creature fights up to one other target creature.
+Enchanted creature gets +3/+3 and can't be blocked by more than one creature.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Rise of the Second Dawn
+
+Illusory Seal
+rules_text: Flash, flying
+When this creature enters, return another target spell or nonland permanent to its owner's hand. That spell or permanent's controller investigates.
+When this creature becomes the target of the spell or ability, sacrifice it.
+Disturb {3}{U}{U} => Flash
+Flying
+When this creature enters, return another target spell or nonland permanent to its owner's hand. That spell or permanent's controller investigates.
+When this creature becomes the target of the spell or ability, sacrifice it.
+Disturb {3}{U}{U}
+
+Breath of Ochiro
+rules_text: If {W} was spent to cast this spell, you gain X life.
+If {B} was spent to cast this spell, each opponent loses X life.
+This spell deals X damage to any target that isn't a player. => If {W} was spent to cast this spell, you gain X life.
+If {B} was spent to cast this spell, each opponent loses X life.
+This spell deals X damage to any nonplayer target.
+
+Awakener of the Accursed
+rules_text: When this creature enters, put a +1/+1 counter on up to two target creatures.
+[i][i]Restless[/i]—[/i]Whenever one or more cards leave your graveyard, you gain 1 life. This ability triggers only once per turn. => When this creature enters, put a +1/+1 counter on each of up to two target creatures.
+[i][i]Restless[/i]—[/i]Whenever one or more cards leave your graveyard, you gain 1 life. This ability triggers only once per turn.
+
+Accursed Reconciler
+rules_text: When this creature enters, target player sacrifices a creature. If you controlled that creature, draw two cards.
+Spells you cost from your graveyard cost {1} less to cast. => When this creature enters, target player sacrifices a creature. If you controlled that creature, draw two cards.
+Spells you cast from your graveyard cost {1} less to cast.
+
+Deserted Mortuary
+rules_text: If a card would be put into an opponents graveyard from that player's hand or library, exile that card instead.
+{1}, Sacrifice this artifact: Exile target card from a graveyard. Draw a card. => If a card would be put into an opponent's graveyard from that player's hand or library, exile that card instead.
+{1}, Sacrifice this artifact: Exile target card from a graveyard. Draw a card.
+
+Ritual Staff
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

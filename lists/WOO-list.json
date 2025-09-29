@@ -210,7 +210,7 @@
         "set": "WOO"
     },
     {
-        "card_name": "Triumph of the Mighty",
+        "card_name": "Triumph of Justice",
         "number": 36,
         "shape": "normal",
         "set": "WOO"
@@ -1291,7 +1291,7 @@
         "set": "WOO"
     },
     {
-        "card_name": "Eileen, Priestess of the Dawn",
+        "card_name": "Eileen, Herald of the Dawn",
         "number": 189,
         "shape": "normal",
         "set": "WOO"
@@ -1437,7 +1437,7 @@
     "a->colorless",
     {
         "card_name": "Twinning Blade",
-        "number": 248,
+        "number": 250,
         "shape": "normal",
         "set": "WOO"
     },
@@ -1485,25 +1485,25 @@
     },
     {
         "card_name": "Manasteel Greaves",
-        "number": 240,
-        "shape": "transform double faced",
-        "set": "WOO"
-    },
-    {
-        "card_name": "Ritual Staff",
         "number": 242,
         "shape": "transform double faced",
         "set": "WOO"
     },
     {
-        "card_name": "Sheltering Cloak",
+        "card_name": "Ritual Staff",
         "number": 244,
         "shape": "transform double faced",
         "set": "WOO"
     },
     {
-        "card_name": "Treasure Delver",
+        "card_name": "Sheltering Cloak",
         "number": 246,
+        "shape": "transform double faced",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Treasure Delver",
+        "number": 248,
         "shape": "normal",
         "set": "WOO"
     },
@@ -1520,31 +1520,34 @@
         "set": "WOO"
     },
     {
-        "card_name": "Mechanical Sentinel",
+        "card_name": "Incubator",
         "number": 241,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "WOO"
     },
     {
-        "card_name": "Scapwork Venturer",
+        "card_name": "Mechanical Sentinel",
         "number": 243,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "Throwing Hammer",
+        "card_name": "Scapwork Venturer",
         "number": 245,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "Twin-Construction Workers",
+        "card_name": "Throwing Hammer",
         "number": 247,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "e"
+        "card_name": "Twin-Construction Workers",
+        "number": 249,
+        "shape": "normal",
+        "set": "WOO"
     },
     {
         "card_name": "e"
@@ -1566,93 +1569,289 @@
     },
     {
         "card_name": "Propagating Rotland",
-        "number": 256,
-        "shape": "normal",
-        "set": "WOO"
-    },
-    {
-        "card_name": "Nedrule, Curious Capital",
-        "number": 255,
-        "shape": "normal",
-        "set": "WOO"
-    },
-    {
-        "card_name": "Sealed Gateway",
         "number": 258,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "Soulcaller's Sanctuary",
-        "number": 260,
-        "shape": "normal",
-        "set": "WOO"
-    },
-    {
-        "card_name": "Dragonflame Campsite",
-        "number": 253,
-        "shape": "normal",
-        "set": "WOO"
-    },
-    {
-        "card_name": "Rotfield Grove",
+        "card_name": "Nedrule, Curious Capital",
         "number": 257,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "Serene Spring",
-        "number": 259,
+        "card_name": "Sealed Gateway",
+        "number": 260,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "Temple of the Second Dawn",
+        "card_name": "Soulcaller's Sanctuary",
         "number": 262,
         "shape": "normal",
         "set": "WOO"
     },
     {
+        "card_name": "Dragonflame Campsite",
+        "number": 255,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Rotfield Grove",
+        "number": 259,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Serene Spring",
+        "number": 261,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Temple of the Second Dawn",
+        "number": 264,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
         "card_name": "Vhewter Night Market",
-        "number": 263,
+        "number": 265,
         "shape": "normal",
         "set": "WOO"
     },
     {
         "card_name": "Banished Bog",
-        "number": 249,
-        "shape": "normal",
-        "set": "WOO"
-    },
-    {
-        "card_name": "Creeping Woodland",
-        "number": 250,
-        "shape": "normal",
-        "set": "WOO"
-    },
-    {
-        "card_name": "Desolate Grove",
         "number": 251,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "Dragonfire Shrine",
+        "card_name": "Creeping Woodland",
         "number": 252,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "Geist Geysers",
+        "card_name": "Desolate Grove",
+        "number": 253,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Dragonfire Shrine",
         "number": 254,
         "shape": "normal",
         "set": "WOO"
     },
     {
-        "card_name": "Stargazer's Shoal",
-        "number": 261,
+        "card_name": "Geist Geysers",
+        "number": 256,
         "shape": "normal",
         "set": "WOO"
+    },
+    {
+        "card_name": "Stargazer's Shoal",
+        "number": 263,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest",
+        "number": 278,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Forest",
+        "number": 279,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Forest",
+        "number": 280,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Island",
+        "number": 269,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Island",
+        "number": 270,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Island",
+        "number": 271,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 275,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 276,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 277,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Plains",
+        "number": 266,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Plains",
+        "number": 267,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Plains",
+        "number": 268,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 273,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 274,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 272,
+        "shape": "normal",
+        "set": "WOO"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Copy",
+        "number": 1,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 2,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Clue",
+        "number": 8,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Junk",
+        "number": 9,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Thopter",
+        "number": 10,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 11,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 3,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Spirit Angel",
+        "number": 4,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Artificer",
+        "number": 5,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Knight",
+        "number": 6,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Veles, Justice Restored",
+        "number": 7,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
