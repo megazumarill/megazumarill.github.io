@@ -1,4 +1,148 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Eclipse Strike
+rules_text: Eclipse Strike deals 3 damage to target attacking or blocking creature. Put a finality counter on up to one target creature. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => Put a finality counter on up to one target creature. Then Eclipse Strike deals 3 damage to target attacking or blocking creature.
+
+Expel the Outsider
+
+Disassemble
+rules_text: As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Destroy target creature.
+{1}{B}, Exile this card from your graveyard: Surveil 2. => As an additional cost to cast this spell, sacrifice a creature or discard a card and pay {1}.
+Destroy target creature.
+{1}{B}, Exile this card from your graveyard: Surveil 2.
+
+Splinterblade Shaman
+rules_text: When this creature enters from a graveyard, create a token that's a copy of it. If this creature is attacking, that token enters tapped and attacking.
+At the beginning of combat on your turn, target creature you control gets +1/+0 and first strike until end of turn.
+Onslaught {3}{R}{R} => When this creature enters from a graveyard, create a token that's a copy of it. If this creature is attacking, that token enters tapped and attacking.
+At the beginning of combat on your turn, target creature you control gets +1/+0 and first strike until end of turn.
+Onslaught {3}{R}{R} [i]({3}{R}{R}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Angel of Binding
+rules_text: Flying
+When this creature enters, exile target artifact or creature an opponent controls until this creature leaves the battlefield.
+Onslaught {3}{W} [i]({3}{W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+Plainscycling {2} => Flying
+When this creature enters, exile target artifact or creature an opponent controls until this creature leaves the battlefield.
+Onslaught {3}{W} [i]({3}{W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Skeletal Siphoner
+pt: 2/1 => 1/1
+
+Accursed Noble
+
+Shadowbone Reaper
+rules_text: [i][i]Restless[/i]—[/i]At the beginning of your end step, if a card left your graveyard this turn, you draw a card and lose 1 life.
+Onslaught {2}{B}{B} [i]({2}{B}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+Swampcycling {2} => [i][i]Restless[/i]—[/i]At the beginning of your end step, if a card left your graveyard this turn, you draw a card and lose 1 life.
+Onslaught {2}{B}{B} [i]({2}{B}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Raid the Tomb
+rules_text: Mill five cards. Put a creature card or a double faced card among them into your hand. For each creature card or double faced card milled this way, each opponent loses 1 life and you gain 1 life.
+Disturb— {2}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Mill five cards. Put a creature card or a double faced card among them into your hand. For each creature card or double faced card milled this way, each opponent loses 1 life and you gain 1 life.
+Disturb {2}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Night Market Gardener
+rules_text: When this creature enters, draw a card if you control a transformed permanent, otherwise surveil 1.
+At the beginning of combat on your turn, if you control a transformed permanent with power greater than this creature's power, put a +1/+1 counter on this creature. => When Night Market Gardener enters, surveil 1. If you control a transformed permanent, instead draw a card.
+At the beginning of combat on your turn, if you control a transformed permanent with power greater than this creature's power, put a +1/+1 counter on this creature.
+
+Farmland Raider
+rules_text: Flying
+Whenever this creature or another creature enters under your control, you gain 1 life. If that creature entered from a graveyard or was cast from a graveyard, put a +1/+1 counter on this creature. 
+Onslaught {2}{W} [i]({2}{W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => Flying
+Whenever this creature or another creature you control enters, you gain 1 life. If that creature entered from a graveyard or was cast from a graveyard, put a +1/+1 counter on this creature. 
+Onslaught {2}{W} [i]({2}{W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Drown in Knowledge
+rules_text: Choose one—
+• Counter target spell unless its controller pays {3}.
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Entwine {2} [i](Choose both if you pay the entwine cost.)[/i] => Choose one—
+• Counter target spell unless its controller pays {2}.
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Entwine {2} [i](Choose both if you pay the entwine cost.)[/i]
+
+Illusory Seal
+rules_text: Flash
+Flying
+When this creature enters, return another target spell or nonland permanent to its owner's hand. That spell or permanent's controller investigates.
+When this creature becomes the target of the spell or ability, sacrifice it.
+Disturb {3}{U}{U} => Flash
+When this creature enters, return another target spell or nonland permanent to its owner's hand. That spell or permanent's controller investigates.
+When this creature becomes the target of the spell or ability, sacrifice it.
+Disturb {3}{U}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Forsaken Prophet
+rules_text: Ward—Discard a card.
+[i][i]Restless[/i]—[/i]When this creature deals combat damage to a player, if a card left your graveyard this turn, that player loses half their life, rounded up.
+Disturb {5}{B}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Ward—Discard a card.
+[i][i]Restless[/i]—[/i]Whenever this creature deals combat damage to a player, if a card left your graveyard this turn, that player loses half their life, rounded up.
+Disturb {5}{B}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Omen of Ochiro
+
+Abandoned Sentinel
+rules_text: Reach
+When this creature enters or deals combat damage to a player, discard a card. Create a Junk token.
+Onslaught {2}{R} [i]({2}{R}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => Reach
+Whenever this creature enters or deals combat damage to a player, discard a card, then create a Junk token.
+Onslaught {2}{R} [i]({2}{R}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Chief Recruiter
+rules_text: Whenever you attack, create a colorless 1/1 Spirit creature token that's tapped and attacking.
+At the beginning of combat on each opponent's turn. if you control more creatures than that player, creatures can't attack you this turn. => Whenever you attack, create a colorless 1/1 Spirit creature token that's tapped and attacking.
+At the beginning of combat on each opponent's turn. if you control more creatures than that player, tap target creature that player controls.
+
+Vhewter Spymaster
+rules_text: Flash, flying
+As a token you control enters, you may have it become a 1/1 Thopter artifact creature in addition to its other types. If you do, it gains flying. => Flash
+Flying
+As a token you control enters, you may have it become a 1/1 Thopter artifact creature in addition to its other types. If you do, that token gains flying.
+
+Spoils of Battle
+rules_text: Whenever one or more creatures you control deal combat damage to a player, draw a card and create a treasure token. => Whenever one or more creatures you control deal combat damage to a player, draw a card and create a Treasure token.
+
+Vhewter Sky Scout
+rules_text: Flying
+Whenever an incubator or a transformed permanent enters the battlefield under your control, draw a card. This ability only triggers once each turn. => Flying
+Whenever an Incubator or a transformed permanent enters the battlefield under your control, draw a card. This ability only triggers once each turn.
+
+Professor Sona
+rules_text: Artifact creatures you control have trample.
+Whenever you cast an artifact spell, create a 1/1 red Artificer creature token with “{T}: Engineer 1. Activate only a sorcery.” [i](To Engineer 1, put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i] => Artifact creatures you control have trample.
+Whenever you cast your first artifact spell each turn, create a 1/1 red Artificer creature token with “{T}: Engineer 1. Activate only a sorcery.” [i](To Engineer 1, put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i]
+
+The Wildlight Elemental
+cost: {W}{B}{G} => {1}{W}{B}{G}
+
+Ochiro's Soulcaller
+rules_text: First strike
+Whenever you sacrifice another nontoken permanent, create two colorless 1/1 Spirit creature tokens.
+Onslaught {1}{W} [i]({1}{W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => First strike
+Whenever you sacrifice another nontoken permanent, create two colorless 1/1 Spirit creature tokens. This ability triggers only once each turn.
+Onslaught {1}{W} [i]({1}{W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Ghonil, Essence Thief
+
+Eileen, Herald of the Dawn
+cost: {1}{U}{R}{W} => {2}{U}{R}{W}
+rules_text: Flying, vigilance
+Creature tokens you control get +2/+2.
+Noncreature tokens you control have hexproof.
+At the beginning of your upkeep, create a 1/1 white Spirit creature token with flying. => Flying, vigilance
+Creature tokens you control get +1/+1 and flying.
+Noncreature tokens you control have hexproof.
+At the beginning of your upkeep, create a colorless 1/1 Spirit creature token.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Triumph of Justice added.

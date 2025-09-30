@@ -2178,7 +2178,7 @@
 		{
 			"name": "The Wildlight Elemental",
 			"rarity": "rare",
-			"mana_cost": "{W}{B}{G}",
+			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — Elder Elemental",
 			"collector_number": "222",
 			"image_uris": {
@@ -2469,7 +2469,7 @@
 		{
 			"name": "Eileen, Herald of the Dawn",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}{R}{W}",
+			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Legendary Creature — Spirit Angel",
 			"collector_number": "189",
 			"image_uris": {
