@@ -1,4 +1,149 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Revenant of Famine added.
+Servo added.
+Angelic Judge added.
+Order's Barrier added.
+Fanatic Piper added.
+Molten Refuse added.
+Carnivorous Gardening added.
+
+Tides of Famine removed.
+
+Reduce to Scrap
+rules_text: Destroy target nonland permanent an opponent controls. Its controller creates a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Exile target nonland permanent an opponent controls. Its controller creates a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Incinerate the Accursed
+rules_text: Choose one—
+• This spell deals 2 damage to each creature that entered this turn.
+• This spell deals 2 damage to each creature that didn't enter this turn. => Choose one or both—
+• This spell deals 2 damage to each creature that entered this turn.
+• This spell deals 2 damage to each creature that didn't enter this turn.
+
+Rootwire Bioengineer
+rules_text: {T}: Target land you control becomes an artifact with all basic land types in addition to its other types until end of turn.
+If you tap an artifact for mana, it produces twice that much of that mana instead. => {T}: Target land you control becomes an artifact with all basic land types in addition to its other types until end of turn.
+Whenever you tap an artifact for mana, add one mana of any type that permanent produced.
+
+Spellbind
+rules_text: Return target spell that targets you or a permanent you control to its owner's hand.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Exile target spell that targets you or a permanent you control. Its owner may cast it on a later turn for as long as it remains exiled.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Rise of the Second Dawn
+cost: {3}{U}{U}{U} => {4}{U}{U}
+rules_text: For each of up to two target creatures, create a token that's a copy of that creature, except if {W} was spent to cast this spell, that token is a 4/4 white Spirit Angel creature with flying and vigilance in addition to its other colors and types.
+Creatures you control gain haste until end of turn if {R} was spent to cast this spell. => For each of up to 2 target creatures, create a token that's a copy of that creature, except if {W} was spent to cast this spell, that token is a 4/4 white Spirit Angel creature with flying and vigilance in addition to its other colors and types.
+Creatures you control gain haste until end of turn if {R} was spent to cast this spell.
+
+Drown in Knowledge
+rules_text: Choose one—
+• Counter target spell unless its controller pays {2}.
+• Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Entwine {2} [i](Choose both if you pay the entwine cost.)[/i] => Choose one—
+• Counter target spell unless its controller pays {2}.
+• Look at the top two cards of your library. Put up to one of them into your hand and the rest into your graveyard.
+Entwine {2} [i](Choose both if you pay the entwine cost.)[/i]
+
+Scheming of the Vhewter
+cost: {3}{B}{B} => {2}{B}
+rules_text: Target opponent exiles a card from their hand. If a nonland card wasn't exiled this way, Incubate Horrors 2. Repeat this process once. If {U} was spent to cast this spell, repeat this process twice instead.
+If {G} was spent to cast this spell, put a +1/+1 counter on each Incubator and each transformed permanent you control. => Target opponent exiles a card from their hand. If a nonland card wasn't exiled this way, Incubate Horrors 2. If {U} was spent to cast this spell, repeat this process once.
+If {G} was spent to cast this spell, put a +1/+1 counter on each Incubator and each transformed permanent you control.
+
+Fanatical Forerunner
+rules_text: Menace
+Each creature card in your graveyard has onslaught. Their onslaught cost is equal to their mana cost. 
+Whenever a creature you control enters, if it entered from a graveyard or was cast from a graveyard, you draw a card and lose 1 life. => Menace
+Each creature card in your graveyard has onslaught. Their onslaught cost is equal to their mana cost. [i](Pay their mana cost and sacrifice an unblocked attacker: Return them from the graveyard to the battlefield tapped and attacking with a finality counter.)[/i]
+Whenever a creature you control enters, if it entered from a graveyard or was cast from a graveyard, you draw a card and lose 1 life.
+
+Defense of Nedrule
+cost: {2}{G} => {X}{1}{G}
+
+Natural Wish
+rules_text: Choose one—
+• Destroy target artifact or enchantment.
+• You may reveal a permanent card you own from outside the game and put it into your hand. Exile this spell. => Choose one—
+• Exile target noncreature, nonland permanent.
+• You may reveal a permanent card you own from outside the game and put it into your hand. Exile this spell.
+
+Vhewter Grovetender
+rules_text: Vigilance
+Whenever you draw a card, you may Incubate Plants X, where X is the number of cards you've drawn this turn. Do this only once each turn. [i](Create an Incubator token with X +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i] => Vigilance, reach
+Whenever you draw a card, Incubate Plants 1 if it's the first time this ability has resolved this turn. Then put a +1/+1 counter on each Incubator and transformed creature you control. [i](To Incubate Plants 1, create an Incubator token with a +1/+1 counter on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i]
+pt: 3/3 => 2/4
+
+Nedrulean Tinkerer
+rules_text: When this creature enters, you may search your library for an artifact card with mana value 4 or less, put it into your graveyard, then shuffle.
+{R}, {T}, Sacrifice an artifact: Engineer 3. Activate only as a sorcery. [i](Put three +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => When this creature enters, you may discard a card. If you do, draw a card. If you discarded an artifact card this way, draw two cards instead.
+{R}, {T}, Sacrifice an artifact: Engineer 3. Activate only as a sorcery. [i](Put three +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i]
+
+Construction Bay
+rules_text: Whenever this artifact another nontoken artifact you control enters, put a +1/+1 counter on both of those artifacts. [i](Just put one counter on this artifact when it enters.)[/i]
+{T}, Remove X +1/+1 counters from this artifact: Engineer X. Activate only as a sorcery. [i](Put X +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Whenever this artifact or another nontoken artifact you control enters, put a +1/+1 counter on both of those artifacts. [i](Just put one counter on this artifact when it enters.)[/i]
+{T}, Remove X +1/+1 counters from this artifact: Engineer X. Activate only as a sorcery. [i](Put X +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i]
+
+Horizon Hatchery
+
+Sealed Gateway
+rules_text: {T}: Add {C}.
+Landcycling {3} [i]({3}, Discard this card: Search your library for a land card, reveal it, and put it into your hand, then shuffle.)[/i] => {T}: Add {C}.
+Landcycling {2} [i]({2}, Discard this card: Search your library for a land card, reveal it, and put it into your hand, then shuffle.)[/i]
+
+Nedrule, Curious Capital
+rules_text: {T}: Add {C}.
+{T}: Choose a color of a permanent you control. Add one mana of that color. => {T}: Add one mana of any color. If you don't control a permanent of that color, you lose 2 life.
+
+Veles, Order Initiate
+rules_text: {W}{U}: Choose a card name. Your opponents can't cast spells with the chosen name until Veles leaves the battlefield. Put a vigilance counter on Veles. Activate only once.
+{3}{U}{R}{W}: If Veles has a vigilance counter on her, exile her. If you do, create Veles, Justice Restored, a legendary 5/5 blue, red, and white Spirit Angel creature token with flying, vigilance, double strike, and haste. => As Veles enters, choose a card name. 
+Spells your opponents cast with the chosen name cost {3} more to cast.
+{3}{U}{R}{W}: The next time Veles would die this turn, exile her instead. When you do, create Veles, Justice Restored, a legendary 5/5 blue, red, and white Spirit Angel creature token with flying, vigilance, double strike, and haste. Activate only as a sorcery.
+
+Ochiro, Final Flame
+rules_text: Flying, haste
+When Ochiro, Final Flame enters from a graveyard or attacks, it deals 3 damage to each creature your opponent's control.
+If a creature an opponent controls would die, exile it instead.
+Onslaught {2}{R}{W}{B} => Flying, haste
+When Ochiro, Final Flame enters from a graveyard or attacks, it deals 3 damage to each creature your opponent's control. If a creature dealt damage this way would die, exile it instead.
+Onslaught {2}{R}{W}{B} [i]({2}{R}{W}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Ghonil, Essence Thief
+
+Eileen, Herald of the Dawn
+cost: {2}{U}{R}{W} => {U}{R}{W}
+rules_text: Flying, vigilance
+Creature tokens you control get +1/+1 and flying.
+Noncreature tokens you control have hexproof.
+At the beginning of your upkeep, create a colorless 1/1 Spirit creature token. => Flying, vigilance
+Creature tokens you control get +1/+1 and flying.
+At the beginning of your upkeep, if you control a token, create a colorless 1/1 Spirit creature token.
+pt: 2/4 => 2/2
+
+Manamimic Swarmer
+rules_text: Flash
+Flying
+When this creature enters, if it was cast, create a token that's a copy of target artifact or creature you control with mana value X. => Flying
+When this creature enters, create a token of target nonland permanent you control with mana value X or less.
+
+Propagating Rotland
+rules_text: {T}: Add {C}.
+{2}: This land becomes an 2/2 Elemental creature until end of turn. It's still a land.
+Whenever this land deals combat damage to a player, create a tapped token that's a copy of it. [i](The token is not a creature.)[/i] => {T}: Add {C}.
+{3}: This land becomes an 2/2 Elemental creature until end of turn. It's still a land.
+Whenever this land deals combat damage to a player, create a tapped token that's a copy of it. [i](The token is not a creature.)[/i]
+
+Incubator
+
+Incubator
+
+Treasure
+pt: 1/1 => 
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
