@@ -165,9 +165,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/U}{2/R}{2/W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/213_Pledge to the Order.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/214_Pledge to the Order.png"
 			}
 		},
 		{
@@ -239,9 +239,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Bird Construct",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/40_Clockwork Familliar.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/39_Clockwork Familliar.png"
 			}
 		},
 		{
@@ -329,13 +329,13 @@
 			}
 		},
 		{
-			"name": "Change to Crow",
+			"name": "Corvid Curse",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/39_Change to Crow.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/40_Corvid Curse.png"
 			}
 		},
 		{
@@ -383,9 +383,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{2/W}{2/B}{2/G}",
 			"type": "Creature — Spirit",
-			"collector_number": "203",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/203_Jungle Geist.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/205_Jungle Geist.png"
 			}
 		},
 		{
@@ -591,9 +591,9 @@
 			"rarity": "common",
 			"mana_cost": "{2/R}{2/W}{2/B}",
 			"type": "Creature — Goblin Shaman",
-			"collector_number": "196",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/196_Fanatic Goblin.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/198_Fanatic Goblin.png"
 			}
 		},
 		{
@@ -798,9 +798,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/151_Blossom Shaman.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/152_Blossom Shaman.png"
 			}
 		},
 		{
@@ -871,7 +871,7 @@
 			"name": "Synthvine Colossus",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
-			"type": "Artifact Creature — Plant Golem",
+			"type": "Artifact Creature — Elemental Golem",
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://megazumarill.github.io/sets/WOO-files/img/179_Synthvine Colossus.png"
@@ -882,16 +882,16 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "153",
+			"collector_number": "154",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/153_Burst from the Woods_back.png"
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/154_Burst from the Woods_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/153_Burst from the Woods_front.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/154_Burst from the Woods_front.png"
 			}
 		},
 		{
@@ -1173,13 +1173,13 @@
 			}
 		},
 		{
-			"name": "Constructed Countdown",
+			"name": "Gradual Assembly",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Artifact",
-			"collector_number": "41",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/41_Constructed Countdown.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/49_Gradual Assembly.png"
 			}
 		},
 		{
@@ -1200,13 +1200,13 @@
 			}
 		},
 		{
-			"name": "Thought Extinction",
+			"name": "Thought Fracture",
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/110_Thought Extinction.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/110_Thought Fracture.png"
 			}
 		},
 		{
@@ -1434,13 +1434,13 @@
 			}
 		},
 		{
-			"name": "Mossclaim Mech",
+			"name": "Mossclaimed Golem",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/169_Mossclaim Mech.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/169_Mossclaimed Golem.png"
 			}
 		},
 		{
@@ -1478,9 +1478,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/156_Deliah Jui, Famed Crafter.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/157_Deliah Jui, Famed Crafter.png"
 			}
 		},
 		{
@@ -1498,9 +1498,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/152_Bonds of the Wild.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/153_Bonds of the Wild.png"
 			}
 		},
 		{
@@ -1601,13 +1601,13 @@
 			}
 		},
 		{
-			"name": "Flamewing Angel",
+			"name": "Dragonflame Blade",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}{W}",
-			"type": "Creature — Spirit Angel",
-			"collector_number": "197",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/197_Flamewing Angel.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/193_Dragonflame Blade.png"
 			}
 		},
 		{
@@ -1661,20 +1661,13 @@
 			}
 		},
 		{
-			"name": "Illusory Seal",
+			"name": "Dawnweaver Illusionist",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Illusion Seal",
-			"collector_number": "49",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/49_Illusory Seal_back.png"
-				}
-			},
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/49_Illusory Seal_front.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/41_Dawnweaver Illusionist.png"
 			}
 		},
 		{
@@ -1856,9 +1849,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{1}{G}",
 			"type": "Instant",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/155_Defense of Nedrule.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/156_Defense of Nedrule.png"
 			}
 		},
 		{
@@ -1876,9 +1869,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elk Spirit",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/150_Ancestral Stag.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/151_Ancestral Stag.png"
 			}
 		},
 		{
@@ -1899,23 +1892,6 @@
 			"collector_number": "170",
 			"image_uris": {
 				"en": "https://megazumarill.github.io/sets/WOO-files/img/170_Natural Wish.png"
-			}
-		},
-		{
-			"name": "Earthen Vessel",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}",
-			"type": "Artifact — Incubator",
-			"collector_number": "157",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/157_Earthen Vessel_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/157_Earthen Vessel_front.png"
 			}
 		},
 		{
@@ -1959,13 +1935,13 @@
 			}
 		},
 		{
-			"name": "Spoils of Battle",
+			"name": "Scholar's Spoils",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "219",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/219_Spoils of Battle.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/216_Scholar's Spoils.png"
 			}
 		},
 		{
@@ -1983,9 +1959,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Assasin",
-			"collector_number": "204",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/204_Midnight Soulthief.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/206_Midnight Soulthief.png"
 			}
 		},
 		{
@@ -1999,13 +1975,13 @@
 			}
 		},
 		{
-			"name": "Ochiro's Suncaller",
+			"name": "Fanatic Suncaller",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "212",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/212_Ochiro's Suncaller.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/199_Fanatic Suncaller.png"
 			}
 		},
 		{
@@ -2013,19 +1989,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/149_Ageless Golem.png"
-			}
-		},
-		{
-			"name": "Unleashed Rotmaw",
-			"rarity": "mythic",
-			"mana_cost": "{X}{B}{G}",
-			"type": "Creature — Ooze",
-			"collector_number": "220",
-			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/220_Unleashed Rotmaw.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/150_Ageless Golem.png"
 			}
 		},
 		{
@@ -2043,9 +2009,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/199_Genetic Bloom.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/201_Genetic Bloom.png"
 			}
 		},
 		{
@@ -2063,9 +2029,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact",
-			"collector_number": "207",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/207_Nedrulean Wall Core.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/209_Nedrulean Wall Core.png"
 			}
 		},
 		{
@@ -2073,9 +2039,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "193",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/193_Dynamo Discharge.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/195_Dynamo Discharge.png"
 			}
 		},
 		{
@@ -2083,9 +2049,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "216",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/216_Shadowflame Shaman.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/218_Shadowflame Shaman.png"
 			}
 		},
 		{
@@ -2101,7 +2067,7 @@
 		{
 			"name": "Vhewter Sky Scout",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{G}{U}",
+			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Creature — Bird Horror Scout",
 			"collector_number": "225",
 			"image_uris": {
@@ -2143,9 +2109,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Creature — Bird Horror Asssassin",
-			"collector_number": "218",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/218_Sinoas, Syndicate Blade.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/220_Sinoas, Syndicate Blade.png"
 			}
 		},
 		{
@@ -2153,9 +2119,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Siren Wizard",
-			"collector_number": "208",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/208_Neshai, Ochiro's Hand.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/210_Neshai, Ochiro's Hand.png"
 			}
 		},
 		{
@@ -2163,9 +2129,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/214_Professor Sona.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/215_Professor Sona.png"
 			}
 		},
 		{
@@ -2190,7 +2156,7 @@
 		},
 		{
 			"name": "Bloom Anew",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "189",
@@ -2213,16 +2179,16 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Artifact — Incubator",
-			"collector_number": "202",
+			"collector_number": "204",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/202_Horizon Hatchery_back.png"
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/204_Horizon Hatchery_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/202_Horizon Hatchery_front.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/204_Horizon Hatchery_front.png"
 			}
 		},
 		{
@@ -2316,7 +2282,7 @@
 			"name": "Granite Sentinel",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
-			"type": "Artifact Creature — Dog",
+			"type": "Artifact — Vehicle",
 			"collector_number": "243",
 			"image_uris": {
 				"en": "https://megazumarill.github.io/sets/WOO-files/img/243_Granite Sentinel.png"
@@ -2387,9 +2353,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Goblin Warrior",
-			"collector_number": "211",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/211_Ochiro's Frontliner.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/213_Ochiro's Frontliner.png"
 			}
 		},
 		{
@@ -2397,9 +2363,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Dwarf Artificer",
-			"collector_number": "205",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/205_Monis, Genesis Sculptor.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/207_Monis, Genesis Sculptor.png"
 			}
 		},
 		{
@@ -2407,9 +2373,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "195",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/195_Excise Imperfection.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/197_Excise Imperfection.png"
 			}
 		},
 		{
@@ -2427,26 +2393,26 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}{B}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "209",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/209_Ochiro, Final Flame.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/211_Ochiro, Final Flame.png"
 			}
 		},
 		{
 			"name": "Ghonil, Essence Thief",
 			"rarity": "mythic",
-			"mana_cost": "{B}{G}{U}",
+			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Legendary Creature — Horror Assasin",
-			"collector_number": "200",
+			"collector_number": "202",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/200_Ghonil, Essence Thief_back.png"
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/202_Ghonil, Essence Thief_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/200_Ghonil, Essence Thief_front.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/202_Ghonil, Essence Thief_front.png"
 			}
 		},
 		{
@@ -2454,9 +2420,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}{W}{B}{G}",
 			"type": "Legendary Enchantment",
-			"collector_number": "217",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/217_The Shattered Cycle.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/219_The Shattered Cycle.png"
 			}
 		},
 		{
@@ -2464,9 +2430,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Spirit Angel",
-			"collector_number": "194",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/194_Eileen, Herald of the Dawn.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/196_Eileen, Herald of the Dawn.png"
 			}
 		},
 		{
@@ -2474,9 +2440,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{U}{R}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "198",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/198_The Genesis Engine.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/200_The Genesis Engine.png"
 			}
 		},
 		{
@@ -2651,9 +2617,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Goblin Artificer",
-			"collector_number": "201",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/201_Goblin Reiterator.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/203_Goblin Reiterator.png"
 			}
 		},
 		{
@@ -2698,9 +2664,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2/G}{2/U}{2/R}",
 			"type": "Instant",
-			"collector_number": "206",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/206_Nedrulean Charm.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/208_Nedrulean Charm.png"
 			}
 		},
 		{
@@ -2718,9 +2684,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2/U}{2/R}{2/W}",
 			"type": "Instant",
-			"collector_number": "215",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/215_Second Dawn Charm.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/217_Second Dawn Charm.png"
 			}
 		},
 		{
@@ -2728,9 +2694,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2/R}{2/W}{2/B}",
 			"type": "Instant",
-			"collector_number": "210",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/210_Ochiro's Charm.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/212_Ochiro's Charm.png"
 			}
 		},
 		{
@@ -2844,7 +2810,7 @@
 		{
 			"name": "Twinning Blade",
 			"rarity": "mythic",
-			"mana_cost": "{4}",
+			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
 			"collector_number": "255",
 			"image_uris": {
@@ -2866,9 +2832,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Artificer",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/5_Artificer.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/6_Artificer.png"
 			}
 		},
 		{
@@ -2876,9 +2842,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/8_Clue.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/9_Clue.png"
 			}
 		},
 		{
@@ -2889,6 +2855,16 @@
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://megazumarill.github.io/sets/WOO-files/img/1_Copy.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/284_Forest.png"
 			}
 		},
 		{
@@ -2912,13 +2888,20 @@
 			}
 		},
 		{
-			"name": "Forest",
+			"name": "Incubator",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "284",
+			"type": "Token Artifact — Incubator",
+			"collector_number": "245",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/WOO-files/img/245_Incubator_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/284_Forest.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/245_Incubator_front.png"
 			}
 		},
 		{
@@ -2939,20 +2922,13 @@
 			}
 		},
 		{
-			"name": "Incubator",
+			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Incubator",
-			"collector_number": "245",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://megazumarill.github.io/sets/WOO-files/img/245_Incubator_back.png"
-				}
-			},
+			"type": "Basic Land — Island",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/245_Incubator_front.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/276_Island.png"
 			}
 		},
 		{
@@ -2976,23 +2952,13 @@
 			}
 		},
 		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "276",
-			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/276_Island.png"
-			}
-		},
-		{
 			"name": "Junk",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Junk",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/9_Junk.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/10_Junk.png"
 			}
 		},
 		{
@@ -3000,9 +2966,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Knight",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/6_Knight.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/7_Knight.png"
 			}
 		},
 		{
@@ -3020,9 +2986,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "282",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/282_Mountain.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/281_Mountain.png"
 			}
 		},
 		{
@@ -3030,19 +2996,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/281_Mountain.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "271",
-			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/271_Plains.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/282_Mountain.png"
 			}
 		},
 		{
@@ -3053,6 +3009,16 @@
 			"collector_number": "272",
 			"image_uris": {
 				"en": "https://megazumarill.github.io/sets/WOO-files/img/272_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/271_Plains.png"
 			}
 		},
 		{
@@ -3100,9 +3066,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "278",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/278_Swamp.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/277_Swamp.png"
 			}
 		},
 		{
@@ -3110,9 +3076,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/277_Swamp.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/278_Swamp.png"
 			}
 		},
 		{
@@ -3130,9 +3096,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/11_Thopter.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/12_Thopter.png"
 			}
 		},
 		{
@@ -3140,9 +3106,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/12_Treasure.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/13_Treasure.png"
 			}
 		},
 		{
@@ -3150,9 +3116,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Token Creature — Spirit Angel",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/7_Veles, Justice Restored.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/8_Veles, Justice Restored.png"
 			}
 		},
 		{
@@ -3160,9 +3126,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Servo",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/10_Servo.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/11_Servo.png"
 			}
 		},
 		{
@@ -3210,27 +3176,57 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://megazumarill.github.io/sets/WOO-files/img/154_Carnivorous Gardening.png"
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/155_Carnivorous Gardening.png"
+			}
+		},
+		{
+			"name": "Spirit Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Illusion",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/5_Spirit Illusion.png"
+			}
+		},
+		{
+			"name": "Adventurous Artificer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Goblin Wolf Artificer",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/149_Adventurous Artificer.png"
+			}
+		},
+		{
+			"name": "Dreadwood Experiment",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/WOO-files/img/194_Dreadwood Experiment.png"
 			}
 		}
 	]
 
 [rare(1)]
-	2 Thought Extinction
+	2 Thought Fracture
 	2 Nature's Fury
 	2 Dawn of Courage
 	2 Triumph of Justice
 	2 Call of the Order
 	2 Farmland Raider
-	2 Flamewing Angel
+	2 Dragonflame Blade
 	2 Spellbind
 	2 Rise of the Second Dawn
 	2 Paradox Abduction
 	2 Drown in Knowledge
 	2 Smuggler's Sloop
-	2 Illusory Seal
+	2 Dawnweaver Illusionist
 	2 Rise to Perfection
 	2 Melodious Astronomer
 	2 Scheming of the Vhewter
@@ -3251,25 +3247,23 @@
 	2 Ancestral Stag
 	2 Flora Eviscerator
 	2 Natural Wish
-	2 Earthen Vessel
 	2 Weaver of Corruption
 	1 Chief Recruiter
 	1 Vhewter Grovetender
 	1 Vhewter Spymaster
-	1 Spoils of Battle
+	1 Scholar's Spoils
 	2 Moon-Blessed Cultist
 	1 Midnight Soulthief
 	1 Nedrulean Tinkerer
-	1 Ochiro's Suncaller
+	1 Fanatic Suncaller
 	2 Ageless Golem
-	1 Unleashed Rotmaw
 	2 Yuing, Order's Preacher
 	2 Sinoas, Syndicate Blade
 	2 Neshai, Ochiro's Hand
 	2 Professor Sona
 	2 The Wildlight Elemental
 	2 Deathweaver
-	2 Bloom Anew
+	1 Bloom Anew
 	2 Ochiro's Soulcaller
 	2 Horizon Hatchery
 	2 Heart of Nedrule
@@ -3290,6 +3284,8 @@
 	2 Wildbloom Helix
 	1 Propagating Rotland
 	1 Twinning Blade
+	2 Adventurous Artificer
+	2 Dreadwood Experiment
 [uncommon(3)]
 	4 Fanatic Summoner
 	4 Sentinel Armor
@@ -3314,7 +3310,7 @@
 	4 Moment of Inspiration
 	4 Spectral Severance
 	4 The Skylight Observatory
-	4 Constructed Countdown
+	4 Gradual Assembly
 	4 Lunarlight Lantern
 	4 Skeletal Siphoner
 	4 Accursed Noble
@@ -3333,7 +3329,7 @@
 	4 Nedrulean Toolglove
 	4 Ledgetop Turretworker
 	4 Fires of Progress
-	4 Mossclaim Mech
+	4 Mossclaimed Golem
 	4 Rootwire Bioengineer
 	4 Night Market Gardener
 	4 Deliah Jui, Famed Crafter
@@ -3405,7 +3401,7 @@
 	8 Kindle Corruption
 	8 Elevated Insight
 	8 Expel the Outsider
-	8 Change to Crow
+	8 Corvid Curse
 	8 Reflect on Progress
 	8 Warp Away
 	8 Innovate
@@ -3521,7 +3517,7 @@
 	12 Kindle Corruption
 	12 Elevated Insight
 	12 Expel the Outsider
-	12 Change to Crow
+	12 Corvid Curse
 	12 Reflect on Progress
 	12 Warp Away
 	12 Innovate
@@ -3597,9 +3593,9 @@
 	6 Moment of Inspiration
 	6 Spectral Severance
 	6 The Skylight Observatory
-	6 Constructed Countdown
+	6 Gradual Assembly
 	6 Lunarlight Lantern
-	2 Thought Extinction
+	2 Thought Fracture
 	6 Skeletal Siphoner
 	6 Accursed Noble
 	6 Shadowbone Reaper
@@ -3621,7 +3617,7 @@
 	6 Nedrulean Toolglove
 	6 Ledgetop Turretworker
 	6 Fires of Progress
-	6 Mossclaim Mech
+	6 Mossclaimed Golem
 	6 Rootwire Bioengineer
 	6 Night Market Gardener
 	12 Wild Connection
@@ -3637,13 +3633,13 @@
 	2 Triumph of Justice
 	2 Call of the Order
 	2 Farmland Raider
-	2 Flamewing Angel
+	2 Dragonflame Blade
 	2 Spellbind
 	2 Rise of the Second Dawn
 	2 Paradox Abduction
 	2 Drown in Knowledge
 	2 Smuggler's Sloop
-	2 Illusory Seal
+	2 Dawnweaver Illusionist
 	2 Rise to Perfection
 	2 Melodious Astronomer
 	2 Scheming of the Vhewter
@@ -3665,18 +3661,16 @@
 	2 Ancestral Stag
 	2 Flora Eviscerator
 	2 Natural Wish
-	2 Earthen Vessel
 	2 Weaver of Corruption
 	1 Chief Recruiter
 	1 Vhewter Grovetender
 	1 Vhewter Spymaster
-	1 Spoils of Battle
+	1 Scholar's Spoils
 	2 Moon-Blessed Cultist
 	1 Midnight Soulthief
 	1 Nedrulean Tinkerer
-	1 Ochiro's Suncaller
+	1 Fanatic Suncaller
 	2 Ageless Golem
-	1 Unleashed Rotmaw
 	6 Awakener of the Accursed
 	6 Genetic Bloom
 	6 Unrelenting Corpse
@@ -3693,7 +3687,7 @@
 	2 Professor Sona
 	2 The Wildlight Elemental
 	2 Deathweaver
-	2 Bloom Anew
+	1 Bloom Anew
 	2 Ochiro's Soulcaller
 	2 Horizon Hatchery
 	12 Twin-Construction Workers
@@ -3761,6 +3755,8 @@
 	12 Fanatic Piper
 	12 Molten Refuse
 	12 Carnivorous Gardening
+	2 Adventurous Artificer
+	2 Dreadwood Experiment
 [wildcard(1)]
 	6 Blossoming Soul
 	15 Fanatic Summoner
@@ -3792,7 +3788,7 @@
 	6 Kindle Corruption
 	6 Elevated Insight
 	6 Expel the Outsider
-	6 Change to Crow
+	6 Corvid Curse
 	6 Reflect on Progress
 	6 Warp Away
 	6 Innovate
@@ -3868,9 +3864,9 @@
 	15 Moment of Inspiration
 	15 Spectral Severance
 	15 The Skylight Observatory
-	15 Constructed Countdown
+	15 Gradual Assembly
 	15 Lunarlight Lantern
-	7 Thought Extinction
+	7 Thought Fracture
 	15 Skeletal Siphoner
 	15 Accursed Noble
 	15 Shadowbone Reaper
@@ -3892,7 +3888,7 @@
 	15 Nedrulean Toolglove
 	15 Ledgetop Turretworker
 	15 Fires of Progress
-	15 Mossclaim Mech
+	15 Mossclaimed Golem
 	15 Rootwire Bioengineer
 	15 Night Market Gardener
 	6 Wild Connection
@@ -3908,13 +3904,13 @@
 	7 Triumph of Justice
 	7 Call of the Order
 	7 Farmland Raider
-	7 Flamewing Angel
+	7 Dragonflame Blade
 	7 Spellbind
 	7 Rise of the Second Dawn
 	7 Paradox Abduction
 	7 Drown in Knowledge
 	7 Smuggler's Sloop
-	7 Illusory Seal
+	7 Dawnweaver Illusionist
 	7 Rise to Perfection
 	7 Melodious Astronomer
 	7 Scheming of the Vhewter
@@ -3936,18 +3932,16 @@
 	7 Ancestral Stag
 	7 Flora Eviscerator
 	7 Natural Wish
-	7 Earthen Vessel
 	7 Weaver of Corruption
 	4 Chief Recruiter
 	4 Vhewter Grovetender
 	4 Vhewter Spymaster
-	4 Spoils of Battle
+	4 Scholar's Spoils
 	7 Moon-Blessed Cultist
 	4 Midnight Soulthief
 	4 Nedrulean Tinkerer
-	4 Ochiro's Suncaller
+	4 Fanatic Suncaller
 	7 Ageless Golem
-	4 Unleashed Rotmaw
 	15 Awakener of the Accursed
 	15 Genetic Bloom
 	15 Unrelenting Corpse
@@ -3964,7 +3958,7 @@
 	7 Professor Sona
 	7 The Wildlight Elemental
 	7 Deathweaver
-	7 Bloom Anew
+	4 Bloom Anew
 	7 Ochiro's Soulcaller
 	7 Horizon Hatchery
 	6 Twin-Construction Workers
@@ -4032,3 +4026,5 @@
 	6 Fanatic Piper
 	6 Molten Refuse
 	6 Carnivorous Gardening
+	7 Adventurous Artificer
+	7 Dreadwood Experiment

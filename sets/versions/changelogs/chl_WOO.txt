@@ -1,4 +1,109 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Corvid Curse added.
+Gradual Assembly added.
+Thought Fracture added.
+Mossclaimed Golem added.
+Dragonflame Blade added.
+Dawnweaver Illusionist added.
+Scholar's Spoils added.
+Fanatic Suncaller added.
+Spirit Illusion added.
+Adventurous Artificer added.
+Dreadwood Experiment added.
+
+Change to Crow removed.
+Constructed Countdown removed.
+Thought Extinction removed.
+Mossclaim Mech removed.
+Flamewing Angel removed.
+Illusory Seal removed.
+Earthen Vessel removed.
+Spoils of Battle removed.
+Ochiro's Suncaller removed.
+Unleashed Rotmaw removed.
+
+Kindle Corruption
+rules_text: Counter target spell. Incubate Horrors 2. [i](Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i] => Counter target spell. Incubate Horrors 3. [i](Create an Incubator token with three +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+
+Synthvine Colossus
+type: Artifact Creature — Plant Golem => Artifact Creature — Elemental Golem
+
+Nedrulean Captain
+rules_text: Creature tokens you control get +1/+0 and have ward {1}.
+Onslaught {W} [i]({W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => During your turn, creature tokens you control get +1/+0 and have first strike.
+Onslaught {W} [i]({W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Natural Wish
+rules_text: Choose one—
+• Exile target noncreature, nonland permanent.
+• You may reveal a permanent card you own from outside the game and put it into your hand. Exile this spell. => Choose one—
+• Exile target artifact or enchantment.
+• You may reveal a permanent card you own from outside the game and put it into your hand. Exile this spell.
+
+Ageless Golem
+
+Vhewter Sky Scout
+cost: {2}{B}{G}{U} => {1}{B}{G}{U}
+
+Sinoas, Syndicate Blade
+rules_text: Deathtouch, reach
+Whenever a permanent you control transforms or enters transformed, it deals damage equal to its power to up to one target creature. If that permanent is not a creature, instead incubate Horrors 2. => Deathtouch, reach
+Whenever a permanent you control transforms or enters transformed, that permanent deals damage equal to its mana value to target creature.
+
+Deathweaver
+rules_text: {WB}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature.
+{2}{W}{B}, Sacrifice this creature: Create a token that's a copy of a creature card exiled with this creature with mana value X or less, where X is this creature's power, except its a Skeleton in addition to its other types. => {WB}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on this creature.
+{2}{W}{B}, Sacrifice this creature: Create a token that's a copy of a creature card exiled with this creature with mana value X or less, where X is this creature's power, except it's a Skeleton in addition to its other types.
+
+Bloom Anew
+
+Granite Sentinel
+type: Artifact Creature — Dog => Artifact — Vehicle
+rules_text: Defender
+{2}: This creature can attack this turn as though it didn't have defender.
+{3}, Sacrifice this creature: Destroy target artifact or enchantment. => Whenever this Vehicle deals combat damage to a player, you may sacrifice it, If you do, destroy target artifact or enchantment.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 2/2 => 2/3
+
+Nedrule, Curious Capital
+
+Ghonil, Essence Thief
+cost: {B}{G}{U} => {1}{B}{G}{U}
+rules_text: As long as Ghonil transformed this turn, he can't be blocked and has hexproof.
+Whenever this creature deals combat damage to a player, put that many loyalty counters on Ghonil. Then you may transform him.
+Whenever an Incubator or transformed permanent you control enters, put a loyalty counter on Ghonil. => Protection from tokens
+When Ghonil enters, you may exile target permanent with mana value 1 or greater. Its controller incubates Horrors X, where X is that permanent's mana value. [i](They create an Incubator token with X +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+Whenever Ghonil deals combat damage to a player, exile it, then return it to the battlefield transformed.
+
+Eileen, Herald of the Dawn
+rules_text: Flying, vigilance
+Creature tokens you control get +1/+1 and flying.
+At the beginning of your upkeep, if you control a token, create a colorless 1/1 Spirit creature token. => Flying, vigilance
+Creature tokens you control get +1/+1 and have flying.
+At the beginning of your upkeep, if you control a token, create a colorless 1/1 Spirit creature token.
+
+The Genesis Engine
+
+Goblin Reiterator
+pt:  => 3/3
+
+Twinning Blade
+cost: {4} => {3}
+
+Incubator
+
+Veles, Justice Restored
+rules_text: Flying, vigilance, double strike, haste. => Flying, vigilance, double strike, haste
+
+Carnivorous Gardening
+rules_text: Incubate Plants 3 twice. [i](Create two Incubator tokens with three +1/+1 counters on each of them and “{2}: Transform this artifact.” They transform into a 0/0 Plant artifact creature.)[/i] 
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Incubate Plants 3 twice. [i](Create two Incubator tokens with three +1/+1 counters on each of them and “{2}: Transform this artifact.” Each of them transform into a 0/0 Plant artifact creature.)[/i] 
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Revenant of Famine added.
