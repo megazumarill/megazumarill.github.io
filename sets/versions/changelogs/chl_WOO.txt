@@ -1,4 +1,100 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Arboreal Shambler added.
+Attuned with the Order added.
+Rotgrowth Goliath added.
+Noxis, Accurrsed Rider added.
+Constructive Wall Core added.
+Returned Criminal added.
+
+Blossom Shaman removed.
+Aegis of the Order removed.
+Junglecaller Elemental removed.
+Noxis, Accurrsed Steed removed.
+Nedrulean Wall Core removed.
+Fanatic Piper removed.
+
+Awakened Horde
+
+Dawn Charge
+cost: {1}{W}{W} => {W}
+rules_text: Creatures you control get +1/+1 until end of turn. Creatures you control with base power 2 or less get an additional +1/+1 until end of turn. => Choose one—
+• Creatures target player controls get +1/+1 until end of turn. 
+• Target creature gains indestructible until end of turn.
+Entwine— Tap an untapped token you control. [i](Choose both if you pay the entwine cost.)[/i]
+
+Deserted Duo
+
+Disrupted Duppy
+pt: 1/1 => 1/2
+
+Wild Ambush
+
+Syndicate Shadowblade
+rules_text: Menace
+Sacrifice a nontoken creature: Incubate Horrors 3, Activate only as a sorcery. [i](Create an Incubator token with 3 +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i] => Menace
+Sacrifice a nontoken creature: Incubate Horrors 3. Activate only as a sorcery. [i](Create an Incubator token with 3 +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+
+Raid the Tomb
+rules_text: Mill five cards. Put a creature card or a double faced card among them into your hand. For each creature card or double faced card milled this way, each opponent loses 1 life and you gain 1 life.
+Disturb {2}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Mill five cards. Put a creature card or a double faced card among them into your hand. Each opponent loses 2 life and you gain 2 life.
+Disturb {1}{B}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Night Market Gardener
+type: Creature — Human Druid => Creature — Horror Druid
+
+Bonds of the Wild
+cost: {3}{G}{G} => {2}{G}
+rules_text: Enchant creature
+When this enchantment enters, enchanted creature fights up to one other target creature.
+Enchanted creature gets +3/+3 and can't be blocked by more than one creature.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Enchant creature you control
+Whenever this enchantment enters, enchanted creature gets +2/+2 until end of turn. It fights up to one target creature.
+Enchanted creature can't be blocked by more than one creature.
+
+Seed of Corruption
+rules_text: [i][i]Landfall[/i]—[/i]Whenever a land enters the battlefield under your control, incubate Plants 3. If this is the second time this ability has resolved this turn, transform each incubator you control that entered this turn. [i](Create an Incubator token with three +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i] => Whenever a non-Incubator artifact enters the battlefield under your control, incubate Plants 3. If this is the second time this ability has resolved this turn, transform each Incubator you control. [i](To Incubate Plants 3, create an Incubator token with three +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i]
+
+Smuggler's Sloop
+rules_text: When this Vehicle attacks, you may exile target instant or sorcery card from your graveyard with mana value less than this Vehicle's power. Copy that card. You may cast the copy without paying it's mana cost. 
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => This Vehicle can't be blocked except by creatures with flying.
+Whenever you put one or more counters on an artifact you control, draw a card, then discard a card.
+Crew 1
+pt: 2/2 => 3/2
+
+Revenant of Famine
+rules_text: When this creature enters, each player chooses up to three cards in their hand and discards the rest.
+{1}{B}, Sacrifice Revenant of Famine: Each player chooses three cards in their graveyard and exiles the rest. => When this creature enters, each player chooses up to three cards in their hand and discards the rest.
+Sacrifice Revenant of Famine: Choose up to three target cards in graveyards. Exile the rest.
+
+Scholar's Spoils
+
+Sinoas, Syndicate Blade
+type: Legendary Creature — Bird Horror Asssassin => Legendary Creature — Horror Assassin
+cost: {2}{B}{G}{U} => {1}{B}{G}{U}
+rules_text: Deathtouch, reach
+Whenever a permanent you control transforms or enters transformed, that permanent deals damage equal to its mana value to target creature. => First strike, deathtouch.
+When Sinoas enters, Incubate Horrors 2. Put a flying counter on each Incubator and transformed creature you control. [i](Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+Disturb {3}{B}{G}{U}
+pt: 4/4 => 2/2
+
+Ancient Blueprints
+rules_text: When this artifact enters, you gain 2 life. 
+{2}, {T}, Sacrifice this artifact: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put that card into your graveyard.)[/i] => When this artifact enters, you gain 2 life. 
+{1}, {T}, Sacrifice this artifact: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Ghonil, Essence Thief
+
+Serene Spring
+
+Twinning Blade
+rules_text: Whenever equipped creature attacks, create a token that's a copy of it, except it enters tapped and attacking. Exile that token at the beginning of the next end step.
+Equip {3} => Whenever equipped creature attacks, create a tapped and attacking token that's a copy of it. Sacrifice that token at the beginning of the next end step.
+Equip {3}
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Corvid Curse added.
