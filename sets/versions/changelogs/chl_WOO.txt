@@ -1,4 +1,82 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Experimental Refinery added.
+Ochiro's Soultwister added.
+Ghonil, Vhewter Master Emblem added.
+Food added.
+
+Experimental Refiner removed.
+Ochiro's Soulcaller removed.
+
+Endothermic Bauble
+rules_text: When this artifact enters, tap up to one target creature and put a stun counter on it.
+{2}{U}: Transform this artifact. => Flash
+When this artifact enters, tap up to one target creature and put a stun counter on it.
+{2}{U}: Transform this artifact.
+
+Night Market Gardener
+rules_text: When Night Market Gardener enters, surveil 1. If you control a transformed permanent, instead draw a card.
+At the beginning of combat on your turn, if you control a transformed permanent with power greater than this creature's power, put a +1/+1 counter on this creature. => When Night Market Gardener enters, surveil 1. If you control a transformed permanent, instead draw a card.
+At the beginning of combat on your turn, if you control a transformed permanent, put a +1/+1 counter on this creature.
+
+Recover History
+
+Farmland Raider
+type: Creature — Human Knight => Creature — Human Griffin Knight
+pt: 1/2 => 2/2
+
+Dawnweaver Illusionist
+
+Fanatic Gladiator
+rules_text: Double strike
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead. => Double strike
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.
+Onslaught {2}{R}{R} [i]({2}{R}{R}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Order's Firebird
+
+Shattering Souls
+cost: {2}{R}{R} => {1}{R}{R}
+rules_text: Destroy all artifacts. For each artifact destroyed this way, create a colorless 1/1 Spirit creature token. Those tokens gain haste. Sacrifice them at end of turn. => Choose one—
+• This spell deals 3 damage to each creature and planeswalker.
+• Destroy all artifacts.
+• Create two colorless 1/1 Spirit creature tokens, they gain haste until end of turn.
+Entwine {1}{R}{R} [i](Choose all three if you pay the entwine cost.)[/i]
+
+Natural Wish
+type: Sorcery => Instant
+rules_text: Choose one—
+• Exile target artifact or enchantment.
+• You may reveal a permanent card you own from outside the game and put it into your hand. Exile this spell. => Choose one—
+• Exile target artifact or enchantment.
+• You may reveal a permanent card you own from outside the game, reveal it, and put it into your hand. Exile this spell.
+Entwine {1}{G} [i](Choose both if you pay the entwine cost.)[/i]
+
+Vhewter Spymaster
+
+Genetic Bloom
+cost: {3}{G}{U} => {2}{G}{U}
+rules_text: Draw three cards. Incubate Plants X, where X is the number of cards in your hand. [i](Create an Incubator token with X +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i] => Draw three cards, incubate Plants X, where X is the number of cards in your hand, then discard a card. [i](To Incubate Plants 3, create an Incubator token with X +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i]
+
+Bloom Anew
+
+Monis, Genesis Sculptor
+rules_text: Monis gets +X/+X, where X is the greatest mana value among artifacts you control.
+{4}{U}{U}, Sacrifice an artifact: Search your library for an artifact card, put it onto the battlefield, then shuffle. => Monis gets +X/+X, where X is the greatest mana value among artifacts and Artificers you control.
+{4}{U}{U}, Sacrifice an artifact: Search your library for an artifact card, put it onto the battlefield, then shuffle.
+pt: 1/1 => 0/0
+
+Ghonil, Essence Thief
+
+The Shattered Cycle
+
+Incubator
+
+Incubator
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Arboreal Shambler added.
