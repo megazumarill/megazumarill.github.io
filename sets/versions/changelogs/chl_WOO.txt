@@ -1,4 +1,127 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Fanatic Summoner
+rules_text: Whenever you sacrifice this creature, create a colorless 1/1 Spirit creature token.
+Onslaught {W} [i]({W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => When you sacrifice this creature, create a colorless 1/1 Spirit creature token.
+Onslaught {W} [i]({W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Burst from the Woods
+rules_text: Target creature you control gets +2/+2 and reach until end of turn. Untap it.
+Disturb {2}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Target creature you control gets +2/+2 and gains reach until end of turn. Untap it.
+Disturb {2}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Wildsea Tender
+rules_text: Whenever this creature enters, incubate Plants 3. [i](Create an Incubator token with three +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i]
+Transformed permanents you control have ward {1}. => When this creature enters, incubate Plants 3. [i](Create an Incubator token with three +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i]
+Transformed permanents you control have ward {1}.
+
+Thought Fracture
+rules_text: Choose odd or even. Look at target player's hand. You may pay 3 life. If you do, choose a nonland card from it with mana value of the chosen quality. That player discards that card. => Choose odd or even. Look at target player's hand. You may pay 1 life. If you do, choose a nonland card from it with mana value of the chosen quality. That player discards that card.
+
+Accursed Noble
+rules_text: Lifelink
+Whenever you put a finality counter on a permanent you control, you lose 1 life and create a tapped treasure token.
+Onslaught {1}{B} [i]({1}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => Lifelink
+Whenever you put a finality counter on a permanent you control, you lose 1 life and create a tapped Treasure token.
+Onslaught {1}{B} [i]({1}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Artificial Citizen
+rules_text: {T}: Add {R}.
+Whenever you sacrifice this creature, choose one—
+• Create a tapped Treasure token.
+• Engineer 2. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => {T}: Add {R}.
+When you sacrifice this creature, choose one—
+• Create a tapped Treasure token.
+• Engineer 2. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i]
+
+Synthesize Flora
+rules_text: Choose two—
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Surveil 1.
+• Engineer 1. Untap that artifact. [i](Put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i] => Choose one—
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Surveil 2.
+• Engineer 1. Untap that artifact. [i](Put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i]
+Entwine {1}{G} [i](Choose all if you pay the entwine cost.)[/i]
+
+Triumph of Justice
+cost: {2}{W}{W}{W} => {2}{W}{W}
+rules_text: Creature tokens you control get +1/+1.
+Each nontoken creature you control gets +X/+X, where X is that creature's mana value. => Creature tokens you control get +X/+X, where X is the number of nontoken creatures you control.
+
+Spellbind
+rules_text: Exile target spell that targets you or a permanent you control. Its owner may cast it on a later turn for as long as it remains exiled.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => Exile target spell that targets you or a permanent you control. 
+Each player investigates. [i](They each create a Clue token. They are artifacts with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Smuggler's Sloop
+rules_text: This Vehicle can't be blocked except by creatures with flying.
+Whenever you put one or more counters on an artifact you control, draw a card, then discard a card.
+Crew 1 => This Vehicle can't be blocked except by creatures with flying.
+Artifacts you control have “Whenever you put one or more counters on this artifact for the first time each turn, you may draw a card, if you do, discard a card.”
+Crew 1
+
+Dawnweaver Illusionist
+
+Fanatical Forerunner
+rules_text: Menace
+Each creature card in your graveyard has onslaught. Their onslaught cost is equal to their mana cost. [i](Pay their mana cost and sacrifice an unblocked attacker: Return them from the graveyard to the battlefield tapped and attacking with a finality counter.)[/i]
+Whenever a creature you control enters, if it entered from a graveyard or was cast from a graveyard, you draw a card and lose 1 life. => Menace
+Each creature card in your graveyard has onslaught. Their onslaught cost is equal to their mana cost. [i](Pay their mana cost and sacrifice an unblocked attacker: Return them from the graveyard to the battlefield tapped and attacking with a finality counter.)[/i]
+Whenever an attacking creature you control leaves the battlefield, each opponent loses 1 life and you gain 1 life.
+
+Order's Firebird
+
+Vhewter Grovetender
+rules_text: Vigilance, reach
+Whenever you draw a card, Incubate Plants 1 if it's the first time this ability has resolved this turn. Then put a +1/+1 counter on each Incubator and transformed creature you control. [i](To Incubate Plants 1, create an Incubator token with a +1/+1 counter on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i] => Vigilance, reach
+Whenever a nontoken creature enters under your control, Incubate Plants 2. Then if that creature entered transformed, put a +1/+1 counter on each Incubator and each transformed creature you control. [i](To Incubate Plants 2, Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i]
+
+Vhewter Spymaster
+pt: 2/1 => 1/1
+
+Sinoas, Syndicate Blade
+rules_text: First strike, deathtouch.
+When Sinoas enters, Incubate Horrors 2. Put a flying counter on each Incubator and transformed creature you control. [i](Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+Disturb {3}{B}{G}{U} => First strike, deathtouch
+When Sinoas enters, Incubate Horrors 2. Put a flying counter on each Incubator and transformed creature you control. [i](Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+Disturb {3}{B}{G}{U}
+
+Bloom Anew
+
+Ochiro's Soultwister
+pt: 3/2 => 2/2
+
+Horizon Hatchery
+rules_text: When this artifact enters, draw a card, then you may put a land card from your hand onto the battlefield tapped. If you don't, put a +1/+1 counter on this artifact.
+{2}: Transform this artifact. => When this artifact enters, draw a card, then you may put a land card from your hand onto the battlefield tapped. 
+{3}: Transform this artifact.
+
+Sealed Gateway
+rules_text: {T}: Add {C}.
+Landcycling {2} [i]({2}, Discard this card: Search your library for a land card, reveal it, and put it into your hand, then shuffle.)[/i] => {T}: Add {C}.
+Landcycling {3} [i]({3}, Discard this card: Search your library for a land card, reveal it, and put it into your hand, then shuffle.)[/i]
+
+Nedrule, Curious Capital
+rules_text: {T}: Add one mana of any color. If you don't control a permanent of that color, you lose 2 life. => {T}: Add one mana of any color. If you don't control a permanent of that color, you lose 2 life.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+
+Ghonil, Essence Thief
+pt: 2/3 => 3/3
+
+The Shattered Cycle
+
+Adventurous Artificer
+type: Creature — Goblin Wolf Artificer => Creature — Goblin Artificer Wolf
+rules_text: When this creature enters, create a Food token.
+{2}{G}{G}, Sacrifice this creature: Engineer X, where X is the greatest power among other creatures you control. [i](Put X +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+{2}{G}{G}, Sacrifice this creature: Engineer X, where X is the greatest power among other creatures you control. [i](Put X +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i]
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.

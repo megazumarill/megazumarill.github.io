@@ -1573,7 +1573,7 @@
 		{
 			"name": "Triumph of Justice",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}{W}",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "37",
 			"image_uris": {
@@ -3188,7 +3188,7 @@
 			"name": "Adventurous Artificer",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Goblin Wolf Artificer",
+			"type": "Creature — Goblin Artificer Wolf",
 			"collector_number": "149",
 			"image_uris": {
 				"en": "https://megazumarill.github.io/sets/WOO-files/img/149_Adventurous Artificer.png"
