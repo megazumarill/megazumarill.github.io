@@ -17,7 +17,7 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -57,7 +57,7 @@
             "loyalty": "",
             "artist": "Greg Rutkowski",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -77,7 +77,7 @@
             "loyalty": "",
             "artist": "ludopanda",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-hate\n!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -97,7 +97,7 @@
             "loyalty": "",
             "artist": "Victor Titov",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -169,7 +169,7 @@
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Vigilance\nWhenever this creature attacks, you may tap an untapped token you control. When you do, tap target creature you don't control.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]If you raise your voice against the Order, it will raise your soul into its service.[/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
@@ -217,7 +217,7 @@
             "loyalty": "",
             "artist": "Lewis Jones",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -237,7 +237,7 @@
             "loyalty": "",
             "artist": "Eric Felten",
             "alias": "",
-            "notes": "",
+            "notes": "!tag protection\n!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -257,7 +257,7 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -269,7 +269,7 @@
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Put a finality counter on up to one target creature. Then Eclipse Strike deals 3 damage to target attacking or blocking creature.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cLet the light sear your soul into subservience\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -277,7 +277,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag combat-trick\n",
             "image_type": "png"
         },
         {
@@ -309,7 +309,7 @@
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, exile up to three target cards from graveyards.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cThe injustice of the Order has been cast out.\u201d\n-Veles, Second Dawn[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -317,7 +317,7 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag veles-flavor-text",
             "image_type": "png"
         },
         {
@@ -337,7 +337,7 @@
             "loyalty": "",
             "artist": "Gwen Bassett",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag artificial-mana-value",
             "image_type": "png"
         },
         {
@@ -357,7 +357,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -459,7 +459,7 @@
             "loyalty": "",
             "artist": "Casandra Toledo Baeza",
             "alias": "",
-            "notes": "",
+            "notes": "!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -499,7 +499,7 @@
             "loyalty": "",
             "artist": "Tim Barzollo",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -519,7 +519,7 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ghonil-flavor-text",
             "image_type": "png"
         },
         {
@@ -570,7 +570,7 @@
             "loyalty": "",
             "artist": "Azure Paragon",
             "alias": "",
-            "notes": "",
+            "notes": "!tag counterspell",
             "image_type": "png"
         },
         {
@@ -590,7 +590,7 @@
             "loyalty": "",
             "artist": "Gerrit Willemse",
             "alias": "",
-            "notes": "",
+            "notes": "!tag counterspell\n!tag ghonil-flavor-text",
             "image_type": "png"
         },
         {
@@ -641,7 +641,7 @@
             "loyalty2": "",
             "artist2": "Imad Awan",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -661,7 +661,7 @@
             "loyalty": "",
             "artist": "Maya K-M",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -701,7 +701,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -812,7 +812,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sacrifice-outlet\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -863,7 +863,7 @@
             "loyalty2": "",
             "artist2": "James Groeling",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag discard-outlet\n!tag graveyard-ability\n!tag ghonil-flavor-text",
             "image_type": "png"
         },
         {
@@ -923,7 +923,7 @@
             "loyalty": "",
             "artist": "Ira Robinson",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sacrifice-outlet\n!tag removal",
             "image_type": "png"
         },
         {
@@ -963,7 +963,7 @@
             "loyalty": "",
             "artist": "Imad Awan",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -975,7 +975,7 @@
             "color_identity": "B",
             "cost": "{5}{B}",
             "rules_text": "When this creature enters, target creature an opponent controls gets -3/-3 until end of turn.\n[i]Restless[/i]\u2013 When this creature dies, if a card left your graveyard this turn, return this creature from your graveyard to the battlefield tapped with a finality counter on it.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Though it no longer hungers it hunts eternal.[/i]",
             "pt": "5/3",
             "special_text": "",
             "shape": "normal",
@@ -983,7 +983,7 @@
             "loyalty": "",
             "artist": "Greg Rutkowski",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag reanimation",
             "image_type": "png"
         },
         {
@@ -1014,7 +1014,7 @@
             "loyalty2": "",
             "artist2": "Stu Harrington",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag ghonil-flavor-text",
             "image_type": "png"
         },
         {
@@ -1034,7 +1034,7 @@
             "loyalty": "",
             "artist": "Katinka Thorondor",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -1054,7 +1054,7 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag ghonil-flavor-text",
             "image_type": "png"
         },
         {
@@ -1074,7 +1074,7 @@
             "loyalty": "",
             "artist": "Charmaine Lim",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag discard-outlet\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -1094,7 +1094,7 @@
             "loyalty": "",
             "artist": "Ingram Schell",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sweeper\n!tag removal\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -1145,7 +1145,7 @@
             "loyalty": "",
             "artist": "Ian Llanas",
             "alias": "",
-            "notes": "",
+            "notes": "!tag reanimation",
             "image_type": "png"
         },
         {
@@ -1157,7 +1157,7 @@
             "color_identity": "WBR",
             "cost": "{2R}{2W}{2B}",
             "rules_text": "Whenever this creature attacks, target creature can't block it this turn.\nWhenever you sacrifice this creature, it deals 2 damage to each opponent and you gain 2 life.",
-            "flavor_text": "[i]The world begs for an end. Meet yours. [/i]",
+            "flavor_text": "[i]\u201cThe world begs for an end. Meet yours.\u201d\n\u2014Ochiro, Elder Dragon[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
@@ -1165,7 +1165,7 @@
             "loyalty": "",
             "artist": "Rokotanskii",
             "alias": "",
-            "notes": "",
+            "notes": "!tag artificial-mana-value\n!tag ochiro-flavor-text",
             "image_type": "png"
         },
         {
@@ -1205,7 +1205,7 @@
             "loyalty": "",
             "artist": "Mazert Young",
             "alias": "",
-            "notes": "",
+            "notes": "!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -1225,7 +1225,7 @@
             "loyalty": "",
             "artist": "Aron Kenway Ong",
             "alias": "",
-            "notes": "",
+            "notes": "!tag copy",
             "image_type": "png"
         },
         {
@@ -1245,7 +1245,7 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability\n!tag removal",
             "image_type": "png"
         },
         {
@@ -1265,7 +1265,7 @@
             "loyalty": "",
             "artist": "Jon Wing",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -1345,7 +1345,7 @@
             "loyalty": "",
             "artist": "Arcadian",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -1385,7 +1385,7 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -1405,7 +1405,7 @@
             "loyalty": "",
             "artist": "Santa Norvaisaite",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -1425,7 +1425,7 @@
             "loyalty": "",
             "artist": "Rachel Hum",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -1445,7 +1445,7 @@
             "loyalty": "",
             "artist": "Ritesh Menon",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -1485,7 +1485,7 @@
             "loyalty": "",
             "artist": "Matt Sanz",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -1505,7 +1505,7 @@
             "loyalty": "",
             "artist": "Dorion_Vex",
             "alias": "",
-            "notes": "",
+            "notes": "!tag artificial-mana-value\n!tag sacrifice-outlet",
             "image_type": "png"
         },
         {
@@ -1576,7 +1576,7 @@
             "loyalty": "",
             "artist": "Elliot Bocxtaele",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tage restock",
             "image_type": "png"
         },
         {
@@ -1596,7 +1596,7 @@
             "loyalty": "",
             "artist": "Julian Messar",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -1627,7 +1627,7 @@
             "loyalty2": "",
             "artist2": "NargesArt",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag mana-sink\n!tag ghonil-flavor-text",
             "image_type": "png"
         },
         {
@@ -1678,7 +1678,7 @@
             "loyalty": "",
             "artist": "Victor Maristane",
             "alias": "",
-            "notes": "",
+            "notes": "!tag mana-sink",
             "image_type": "png"
         },
         {
@@ -1698,7 +1698,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": "y",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -1749,7 +1749,7 @@
             "loyalty2": "",
             "artist2": "LAKE HURWITZ",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -1769,7 +1769,7 @@
             "loyalty": "",
             "artist": "Ana Mitrovi\u0107",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -1800,7 +1800,7 @@
             "loyalty2": "",
             "artist2": "Abigail Glass",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -1820,7 +1820,7 @@
             "loyalty": "",
             "artist": "Victor Titov",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -1851,7 +1851,7 @@
             "loyalty2": "",
             "artist2": "brian luk",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -1871,7 +1871,7 @@
             "loyalty": "",
             "artist": "Roberto Nieto",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing\n",
             "image_type": "png"
         },
         {
@@ -1902,7 +1902,7 @@
             "loyalty2": "",
             "artist2": "Victor Sales",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag ghonil-flavor-text",
             "image_type": "png"
         },
         {
@@ -1922,7 +1922,7 @@
             "loyalty": "",
             "artist": "Camille Voillot",
             "alias": "",
-            "notes": "",
+            "notes": "!tag artificial-mana-value",
             "image_type": "png"
         },
         {
@@ -1934,7 +1934,7 @@
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When this creature enters, create a colorless 1/1 Spirit creature token.\nThis creature's power and toughness are each equal to the number of creatures you control.",
-            "flavor_text": "[i]\u201cI wanted to inspire as they inspired me. I am inspired no longer.\u201d \u2014Veles[/i]",
+            "flavor_text": "[i]\u201cI wanted to inspire as they inspired me. I am inspired no longer.\u201d\n\u2014Veles, Order Initiate[/i]",
             "pt": "*/*",
             "special_text": "",
             "shape": "normal",
@@ -1942,7 +1942,7 @@
             "loyalty": "",
             "artist": "Greg Rutkowski",
             "alias": "",
-            "notes": "",
+            "notes": "!tag veles-flavor-text",
             "image_type": "png"
         },
         {
@@ -1982,7 +1982,7 @@
             "loyalty": "",
             "artist": "Gabriele Nicastro",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -2002,7 +2002,7 @@
             "loyalty": "",
             "artist": "Amir Zand",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -2022,7 +2022,7 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -2042,7 +2042,7 @@
             "loyalty": "",
             "artist": "L J Koh",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag graveyard-ability\n!tag ramp",
             "image_type": "png"
         },
         {
@@ -2062,7 +2062,7 @@
             "loyalty": "",
             "artist": "Maks Trofimov",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -2122,7 +2122,7 @@
             "loyalty": "",
             "artist": "Kyle Grech",
             "alias": "",
-            "notes": "",
+            "notes": "!tag reanimation",
             "image_type": "png"
         },
         {
@@ -2142,7 +2142,7 @@
             "loyalty": "",
             "artist": "Quinten Blake",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -2182,7 +2182,7 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -2202,7 +2202,7 @@
             "loyalty": "",
             "artist": "Huleeb",
             "alias": "",
-            "notes": "",
+            "notes": "!tag counterspell",
             "image_type": "png"
         },
         {
@@ -2222,7 +2222,7 @@
             "loyalty": "",
             "artist": "Gareth Keenan",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet\n!tag mana-sink",
             "image_type": "png"
         },
         {
@@ -2273,7 +2273,7 @@
             "loyalty2": "",
             "artist2": "huleeb",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -2344,7 +2344,7 @@
             "loyalty2": "",
             "artist2": "huleeb",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag protection",
             "image_type": "png"
         },
         {
@@ -2384,7 +2384,7 @@
             "loyalty": "",
             "artist": "John A. Leroy",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -2404,7 +2404,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -2424,7 +2424,7 @@
             "loyalty": "",
             "artist": "Austen Mengler",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing",
             "image_type": "png"
         },
         {
@@ -2444,7 +2444,7 @@
             "loyalty": "",
             "artist": "Daniele aruolo",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sacrifice-outlet",
             "image_type": "png"
         },
         {
@@ -2475,7 +2475,7 @@
             "loyalty2": "",
             "artist2": "Jim Kyriakopoulos",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -2526,7 +2526,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -2546,7 +2546,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "",
+            "notes": "!tag protection\n!tag reanimation",
             "image_type": "png"
         },
         {
@@ -2558,7 +2558,7 @@
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Draw two cards.\nIf a permanent you control has a finality counter on it, you gain 2 life and each opponent loses 2 life. Otherwise, you lose 2 life.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cIt's best the world ceases than seeks the past.\u201d\n\u2014-Ochiro, Elder Dragon[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2566,7 +2566,7 @@
             "loyalty": "",
             "artist": "Andrej Troha",
             "alias": "",
-            "notes": "",
+            "notes": "!tag flavor-text-Monis",
             "image_type": "png"
         },
         {
@@ -2586,7 +2586,7 @@
             "loyalty": "",
             "artist": "Calder Moore",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sacrifice-outlet",
             "image_type": "png"
         },
         {
@@ -2606,7 +2606,7 @@
             "loyalty": "",
             "artist": "Emily Donina",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability\n!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -2646,7 +2646,7 @@
             "loyalty": "",
             "artist": "Derick Santos",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -2666,7 +2666,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability\n!tag fixing\n!tag removal",
             "image_type": "png"
         },
         {
@@ -2686,7 +2686,7 @@
             "loyalty": "",
             "artist": "sk_xxx",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sweeper\n!tag removal",
             "image_type": "png"
         },
         {
@@ -2706,7 +2706,7 @@
             "loyalty": "",
             "artist": "Vlad Petruchik",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -2726,7 +2726,7 @@
             "loyalty": "",
             "artist": "\u4e8c\u767d\u767d\u767d\u767d\u767d",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sacrifice-outlet\n!tag reanimation",
             "image_type": "png"
         },
         {
@@ -2746,7 +2746,7 @@
             "loyalty": "",
             "artist": "Daniel Lieske",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -2786,7 +2786,7 @@
             "loyalty": "",
             "artist": "Kan Liu",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -2826,7 +2826,7 @@
             "loyalty": "",
             "artist": "Bobby Perron",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -2846,7 +2846,7 @@
             "loyalty": "",
             "artist": "Cheyenna Krone",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -2926,7 +2926,7 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp\n!tag fixing",
             "image_type": "png"
         },
         {
@@ -2946,7 +2946,7 @@
             "loyalty": "",
             "artist": "Huleeb",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -2997,7 +2997,7 @@
             "loyalty": "",
             "artist": "Sawa Bia\u0142czy\u0144ska-Lipert",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing",
             "image_type": "png"
         },
         {
@@ -3057,7 +3057,7 @@
             "loyalty": "",
             "artist": "Irene Strychalski",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag sweeper\n!tag graveyard-hate",
             "image_type": "png"
         },
         {
@@ -3077,7 +3077,7 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-hate",
             "image_type": "png"
         },
         {
@@ -3137,7 +3137,7 @@
             "loyalty": "",
             "artist": "Indigo Jenar",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -3157,7 +3157,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -3177,7 +3177,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "",
+            "notes": "!tag counterspell\n!tag protection",
             "image_type": "png"
         },
         {
@@ -3197,7 +3197,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
+            "notes": "!tag copy",
             "image_type": "png"
         },
         {
@@ -3217,7 +3217,7 @@
             "loyalty": "",
             "artist": "Anton Karlik",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -3237,7 +3237,7 @@
             "loyalty": "",
             "artist": "Micka\u00ebl Bois",
             "alias": "",
-            "notes": "",
+            "notes": "!tag counterspell",
             "image_type": "png"
         },
         {
@@ -3257,7 +3257,7 @@
             "loyalty": "",
             "artist": "Airborn Studios",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -3297,7 +3297,7 @@
             "loyalty": "",
             "artist": "Ruberman Rodriguez",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sweeper\n!tag removal",
             "image_type": "png"
         },
         {
@@ -3337,7 +3337,7 @@
             "loyalty": "",
             "artist": "Bernardo Hasselmann",
             "alias": "",
-            "notes": "The entire effect is repeated.",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -3357,14 +3357,14 @@
             "loyalty": "",
             "artist": "Anthony DePietro",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet\n!tag graveyard-hate",
             "image_type": "png"
         },
         {
             "card_name": "Fanatical Forerunner",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2013 Zombie Warrior",
             "number": 83,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3377,7 +3377,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
-            "notes": "",
+            "notes": "!tag reanimation",
             "image_type": "png"
         },
         {
@@ -3395,7 +3395,7 @@
             "shape": "transform double faced",
             "set": "WOO",
             "loyalty": "",
-            "artist": "Kerim Akyuz\nKerim Akyuz",
+            "artist": "Kerim Akyuz",
             "alias": "",
             "card_name2": "Collector's Craze",
             "color2": "B",
@@ -3408,7 +3408,7 @@
             "loyalty2": "",
             "artist2": "Max Roche",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag graveyard-hate\n",
             "image_type": "png"
         },
         {
@@ -3439,7 +3439,7 @@
             "loyalty2": "",
             "artist2": "Vassilios Bayiokos",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag sweeper",
             "image_type": "png"
         },
         {
@@ -3459,7 +3459,7 @@
             "loyalty": "",
             "artist": "JP Targete",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -3479,7 +3479,7 @@
             "loyalty": "",
             "artist": "The Crafty Cats Design",
             "alias": "",
-            "notes": "",
+            "notes": "!tag tutor\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -3499,7 +3499,7 @@
             "loyalty": "",
             "artist": "J-Haskell",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -3519,7 +3519,7 @@
             "loyalty": "",
             "artist": "Nino Zorc",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -3531,7 +3531,7 @@
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "When this enchantment enters, exile your hand, then draw that many cards.\nYou may cast cards exiled with this enchantment by tapping an untapped token you control in addition to paying their other costs.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]A triumphant one indeed. It would be their last.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3559,7 +3559,7 @@
             "loyalty": "",
             "artist": "Bachzim",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -3579,7 +3579,7 @@
             "loyalty": "",
             "artist": "Dragolisco",
             "alias": "",
-            "notes": "!tag wishlist",
+            "notes": "!tag wishlist\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -3599,7 +3599,7 @@
             "loyalty": "",
             "artist": "Mark Thompson",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag sweeper",
             "image_type": "png"
         },
         {
@@ -3619,7 +3619,7 @@
             "loyalty": "",
             "artist": "Faith Fortenbacher",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -3639,7 +3639,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "",
+            "notes": "!tag protection",
             "image_type": "png"
         },
         {
@@ -3719,7 +3719,7 @@
             "loyalty": "",
             "artist": "Nienke Zijlstra",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -3819,7 +3819,7 @@
             "loyalty": "",
             "artist": "Laura Hepworth",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -3879,7 +3879,7 @@
             "loyalty": "",
             "artist": "Erlan Arya",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sacrifice-outlet\n!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -3891,7 +3891,7 @@
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "When this creature enters, choose one\u2013\n\u2022 Destroy all nonland permanents with mana value 1 or less. \n\u2022 This creature gains haste until end of turn.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cAsh is not evil. It is inevitable.\u201d\n\u2014Ochiro, Elder Dragon[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -3899,7 +3899,7 @@
             "loyalty": "",
             "artist": "Camille Meehan",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sweeper\n!tag removal",
             "image_type": "png"
         },
         {
@@ -3959,7 +3959,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -3979,7 +3979,7 @@
             "loyalty": "",
             "artist": "Aron Kenway Ong",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -3999,7 +3999,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -4019,7 +4019,7 @@
             "loyalty": "",
             "artist": "Sophia Choles",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -4039,7 +4039,7 @@
             "loyalty": "",
             "artist": "Anastasiia Tem.",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability\n!tag removal",
             "image_type": "png"
         },
         {
@@ -4059,7 +4059,7 @@
             "loyalty": "",
             "artist": "Onur Mente\u015fe",
             "alias": "",
-            "notes": "",
+            "notes": "!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -4119,7 +4119,7 @@
             "loyalty": "",
             "artist": "Liz Sun",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag ramp",
             "image_type": "png"
         },
         {
@@ -4190,7 +4190,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -4250,7 +4250,7 @@
             "loyalty": "",
             "artist": "Tommy Arnold",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-hate\n!tag reanimation\n!tag copy",
             "image_type": "png"
         },
         {
@@ -4262,7 +4262,7 @@
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Return target permanent card with mana value less than or equal to the number of permanents you control from your graveyard to the battlefield tapped.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Death begets life. Life corrupts death.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4270,7 +4270,7 @@
             "loyalty": "",
             "artist": "Darlee Urbiztondo",
             "alias": "",
-            "notes": "!tag wishlist",
+            "notes": "!tag wishlist\n!tag reanimation\n!tag ramp",
             "image_type": "png"
         },
         {
@@ -4290,7 +4290,7 @@
             "loyalty": "",
             "artist": "Alexander Borodin",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag graveyard-hate\n!tag reanimation",
             "image_type": "png"
         },
         {
@@ -4321,7 +4321,7 @@
             "loyalty2": "",
             "artist2": "Anton Radzivonau",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -4341,7 +4341,7 @@
             "loyalty": "",
             "artist": "Dan Dingman",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing",
             "image_type": "png"
         },
         {
@@ -4361,7 +4361,7 @@
             "loyalty": "",
             "artist": "Szil\u00e1rd Zboray",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -4381,7 +4381,7 @@
             "loyalty": "",
             "artist": "Midhat Kapetanovic",
             "alias": "",
-            "notes": "",
+            "notes": "!tag restock",
             "image_type": "png"
         },
         {
@@ -4393,7 +4393,7 @@
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "When this artifact enters, you gain 2 life. \n{1}, {T}, Sacrifice this artifact: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cA creation like this could power a whole city block. I'll need six.\u201d\n\u2014-Monis Gearwood[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4401,7 +4401,7 @@
             "loyalty": "",
             "artist": "Jos\u00e9 Costa",
             "alias": "",
-            "notes": "",
+            "notes": "!tag flavor-text-monis",
             "image_type": "png"
         },
         {
@@ -4413,7 +4413,7 @@
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.\n{3}, {T}, Discard a card: Draw a card.",
-            "flavor_text": "[i]A headstone from a time where a resting place meant something.[/i]",
+            "flavor_text": "[i]A headstone from a time where a resting place held meaning.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4421,7 +4421,7 @@
             "loyalty": "",
             "artist": "Sarah Cole-Megaro",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp\n!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -4472,7 +4472,7 @@
             "loyalty": "",
             "artist": "Miro Petrov",
             "alias": "",
-            "notes": "",
+            "notes": "!tag reanimation",
             "image_type": "png"
         },
         {
@@ -4512,7 +4512,7 @@
             "loyalty": "",
             "artist": "Kevin Jick",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -4532,7 +4532,7 @@
             "loyalty": "",
             "artist": "HH park",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -4552,7 +4552,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-hate",
             "image_type": "png"
         },
         {
@@ -4572,7 +4572,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "",
+            "notes": "!tag tutor\n",
             "image_type": "png"
         },
         {
@@ -4632,7 +4632,7 @@
             "loyalty": "",
             "artist": "Victoria Sorokina",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability\n!tag removal",
             "image_type": "png"
         },
         {
@@ -4652,7 +4652,7 @@
             "loyalty": "",
             "artist": "Tan Zhi Weng",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -4672,7 +4672,7 @@
             "loyalty": "",
             "artist": "Annadel Cinco",
             "alias": "",
-            "notes": "",
+            "notes": "!tag tutor",
             "image_type": "png"
         },
         {
@@ -4692,7 +4692,7 @@
             "loyalty": "",
             "artist": "Murat G\u00fcl",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -4732,7 +4732,7 @@
             "loyalty": "",
             "artist": "Andrea Caliendi",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sweeper\n!tag removal\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -4763,7 +4763,7 @@
             "loyalty2": "3",
             "artist2": "Jakub Jagoda",
             "alias2": "",
-            "notes": "!tag wishlist",
+            "notes": "!tag wishlist\n!tag removal",
             "image_type": "png"
         },
         {
@@ -4774,7 +4774,7 @@
             "number": 219,
             "color_identity": "WBG",
             "cost": "{8}{W}{B}{G}",
-            "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\n[i][i]Restless[/i]\u2013[/i]Whenever a card leaves your graveyard, put a +1/+1 counter on target creature you control.\nOnce during each of your turns, you may play a permanent card from your graveyard. Spells cast this way have delve.",
+            "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\n[i][i]Restless[/i]\u2013 [/i]Whenever a card leaves your graveyard, put a +1/+1 counter on target creature you control.\nOnce during each of your turns, you may play a permanent card from your graveyard. Spells cast this way have delve.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4783,7 +4783,7 @@
             "loyalty": "",
             "artist": "Gabriel Gajdo\u0161",
             "alias": "",
-            "notes": "!tag wishlist",
+            "notes": "!tag wishlist\n!tag ramp\n!tag reanimation",
             "image_type": "png"
         },
         {
@@ -4823,7 +4823,7 @@
             "loyalty": "",
             "artist": "Mark Salapare",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ramp\n",
             "image_type": "png"
         },
         {
@@ -4874,7 +4874,7 @@
             "loyalty": "",
             "artist": "Miguel Gutierrez",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability\n",
             "image_type": "png"
         },
         {
@@ -4894,7 +4894,7 @@
             "loyalty": "",
             "artist": "Asher Sobek Israel",
             "alias": "",
-            "notes": "",
+            "notes": "!tag sacrifice-outlet\n!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -4934,7 +4934,7 @@
             "loyalty": "",
             "artist": "Racheal Pease",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing\n!tag graveyard-ability",
             "image_type": "png"
         },
         {
@@ -5174,7 +5174,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "",
+            "notes": "!tag copy",
             "image_type": "png"
         },
         {
@@ -5225,7 +5225,7 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag fixing\n!tag removal",
             "image_type": "png"
         },
         {
@@ -5245,7 +5245,7 @@
             "loyalty": "",
             "artist": "Fares Maese",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -5265,7 +5265,7 @@
             "loyalty": "",
             "artist": "Counterplay Games",
             "alias": "",
-            "notes": "",
+            "notes": "!tag artificial-mana-value\n!tag ramp",
             "image_type": "png"
         },
         {
@@ -5285,7 +5285,7 @@
             "loyalty": "",
             "artist": "Aron Kenway Ong",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal\n!tag artificial-mana-value\n!tag combat-trick",
             "image_type": "png"
         },
         {
@@ -5305,7 +5305,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
+            "notes": "!tag counterspell\n!tag removal\n!tag artificial-mana-value",
             "image_type": "png"
         },
         {
@@ -5325,7 +5325,7 @@
             "loyalty": "",
             "artist": "Wrotzal",
             "alias": "",
-            "notes": "",
+            "notes": "!tag graveyard-ability\n!tag removal\n!tag discard-outlet",
             "image_type": "png"
         },
         {
@@ -5345,7 +5345,7 @@
             "loyalty": "",
             "artist": "Wael Tabbara",
             "alias": "",
-            "notes": "",
+            "notes": "!tag artificial-mana-value\n!tag removal\n!tag protection",
             "image_type": "png"
         },
         {
@@ -5356,7 +5356,7 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{X}{U}{U}",
-            "rules_text": "Flying\nWhen this creature enters, create a token of target nonland permanent you control with mana value X or less.",
+            "rules_text": "Flying\nWhen this creature enters, create a token that's a copy of target nonland permanent you control with mana value X or less.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5365,7 +5365,7 @@
             "loyalty": "",
             "artist": "Donitsa Doneva",
             "alias": "",
-            "notes": "",
+            "notes": "!tag copy",
             "image_type": "png"
         },
         {
@@ -5427,7 +5427,7 @@
             "loyalty2": "",
             "artist2": "\u00c1lvaro Fern\u00e1ndez Gonz\u00e1lez",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -5458,7 +5458,7 @@
             "loyalty2": "",
             "artist2": "Justine Cruz",
             "alias2": "",
-            "notes": "",
+            "notes": "!tag ramp",
             "image_type": "png"
         },
         {
@@ -5509,7 +5509,7 @@
             "loyalty": "",
             "artist": "Alfred Fernandes",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -5529,7 +5529,7 @@
             "loyalty": "",
             "artist": "Daniel Ciesielka",
             "alias": "",
-            "notes": "",
+            "notes": "!tag copy",
             "image_type": "png"
         },
         {
@@ -5549,7 +5549,7 @@
             "loyalty": "",
             "artist": "Samantha Forbes",
             "alias": "",
-            "notes": "",
+            "notes": "!tag copy",
             "image_type": "png"
         },
         {
@@ -5569,7 +5569,7 @@
             "loyalty": "",
             "artist": "Maxime des Touches",
             "alias": "",
-            "notes": "",
+            "notes": "!tag removal",
             "image_type": "png"
         },
         {
@@ -5597,7 +5597,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Clue",
-            "number": 9,
+            "number": 10,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, Sacrifice this token: Draw a card.",
@@ -5697,7 +5697,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Incubator",
-            "number": 11,
+            "number": 12,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}: Transform this artifact. [i](If this artifact entered this turn, it still has summoning sickness. It transforms into a colorless 0/0 Plant artifact creature.)[/i]",
@@ -5717,7 +5717,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Incubator",
-            "number": 12,
+            "number": 13,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}: Transform this artifact. [i](If this artifact entered this turn, it still has summoning sickness. It transforms into a colorless 0/0 Horror artifact creature.)[/i]",
@@ -5797,7 +5797,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Junk",
-            "number": 13,
+            "number": 14,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.",
@@ -6077,7 +6077,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2013 Thopter",
-            "number": 15,
+            "number": 16,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Flying",
@@ -6097,7 +6097,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Treasure",
-            "number": 16,
+            "number": 17,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -6137,7 +6137,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2013 Servo",
-            "number": 14,
+            "number": 15,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -6161,7 +6161,7 @@
             "color_identity": "W",
             "cost": "{4}{W}{W}",
             "rules_text": "Flying\n[i][i]Restless[/i]\u2013 [/i]This spell costs {2} less to cast if a card left your graveyard this turn.[i]\n[/i]Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cThis is no justice. This is a show like your \u2018peace'.\u201d\n\u2014Veles, Fugitive of Nedrule[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -6169,7 +6169,7 @@
             "loyalty": "",
             "artist": "Yeve Drovosekova",
             "alias": "",
-            "notes": "",
+            "notes": "!tag artificial-mana-value\n!tag: fixing\n!tag veles-falvor-text",
             "image_type": "png"
         },
         {
@@ -6189,7 +6189,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing",
             "image_type": "png"
         },
         {
@@ -6209,7 +6209,7 @@
             "loyalty": "",
             "artist": "Pixoloid Studios",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing",
             "image_type": "png"
         },
         {
@@ -6229,7 +6229,7 @@
             "loyalty": "",
             "artist": "Deltakosh",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing",
             "image_type": "png"
         },
         {
@@ -6249,7 +6249,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": "",
+            "notes": "!tag fixing",
             "image_type": "png"
         },
         {
@@ -6317,11 +6317,11 @@
             "color": "",
             "rarity": "common",
             "type": "Emblem",
-            "number": 17,
+            "number": 18,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Transformed permanents you control have protection from everything.\nAt the beginning of each combat, Incubate Horrors 3.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cThis power is now mine. Everything else shall follow.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "token",
@@ -6329,7 +6329,7 @@
             "loyalty": "",
             "artist": "Jakub Jagoda",
             "alias": "",
-            "notes": "",
+            "notes": "!tag ghonil-flavor-text",
             "image_type": "png"
         },
         {
@@ -6337,7 +6337,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2013 Food",
-            "number": 10,
+            "number": 11,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
@@ -6348,6 +6348,26 @@
             "set": "WOO",
             "loyalty": "",
             "artist": "Bianca Papalardo",
+            "alias": "",
+            "notes": "",
+            "image_type": "png"
+        },
+        {
+            "card_name": "WOO SUPPORTED TAGS",
+            "color": "",
+            "rarity": "common",
+            "type": "Token \u2013 Tags",
+            "number": 9,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Removal, Graveyard-Ability, Sweeper, Protection, Combat-Trick, Graveyard-Hate, Counterspell, Fixing, Ramp, Reanimation, Restock, Artificial-Mana-Value, Discard-Outlet, Sacrifice-Outlet, Mana-Sink, Tutor",
+            "flavor_text": "[i]Ghonil-flavor-text, Ochiro-flavor-text, Veles-flavor-text, Monis-flavor-text[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "WOO",
+            "loyalty": "",
+            "artist": "MegAzumarill",
             "alias": "",
             "notes": "",
             "image_type": "png"

@@ -1,4 +1,368 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+WOO SUPPORTED TAGS added.
+
+
+Blossoming Soul
+
+Defiled Adventurer
+
+Ochiro's Consecrator
+
+Awakened Horde
+
+Dawnrider Phantom
+
+Nedrulean Stoutblade
+
+Dawn Charge
+
+Shimmering Lance
+
+Eclipse Strike
+
+Banish to Solitude
+
+Pledge to the Order
+
+Nedrulean Recruiter
+
+Midnight Dawncaller
+
+Vhewter Reasearcher
+
+Avian Gene Stitcher
+
+Vortex of Denial
+
+Kindle Corruption
+
+Expel the Outsider
+
+Corvid Curse
+
+Warp Away
+
+Crypt Overseer
+
+Wary Bargainer
+
+Malevolent Lemure
+
+Hunter of the Accursed
+
+Ambush Prowler
+
+Fell the Accursed
+
+Shadowshriek
+
+Path to Perfection
+
+Disassemble
+
+Ghonil's Madness
+
+Pull from the Cycle
+
+Fanatic Goblin
+
+Order's Trailblazer
+
+Splinterblade Shaman
+
+Breaker Golem
+
+Nedrulean Aristocrats
+
+Viashino Crusader
+
+Burn the City
+
+Dragonfire Rain
+
+Wrecking Rage
+
+Dragonforged Battlegear
+
+Ignition Fireplace
+
+Forgewalker
+
+Arboreal Shambler
+
+Mechanized Gardener
+
+Experimental Refinery
+
+Goblin Bloombuilder
+
+Mantrap Hulk
+
+Burst from the Woods
+
+Encounter the Accursed
+
+Wild Ambush
+
+Grasp of Nature
+
+Titanic Blooming
+
+Guiding Bauble
+
+Wildsea Station
+
+Wildsea Tender
+
+Dawnrider of Hope
+
+Reassembling Legion
+
+Ochiro's Blademaster
+
+Nedrulean Captain
+
+Angel of Binding
+
+Reduce to Scrap
+
+Silver Incantation
+
+Hallowed Hunt
+
+Scholarly Geist
+
+Drown the Core
+
+Veteran Tinkerer
+
+Spectral Severance
+
+Lunarlight Lantern
+
+Skeletal Siphoner
+
+Accursed Noble
+
+Shadowbone Reaper
+
+Syndicate Shadowblade
+
+Keeper of the Sealed
+
+Slay the Sorrowful
+
+Peaceless Return
+
+Ancient Communion
+
+Leave to Rot
+
+Rummaging Handyman
+
+Artificial Citizen
+
+Sunset Survivor
+
+Incinerate the Accursed
+
+Mechiro, Opus Engine
+
+Overclock the Core
+
+Imprecise Strike
+
+Ledgetop Turretworker
+
+Mossclaimed Golem
+
+Rootwire Bioengineer
+
+Rotgrowth Goliath
+
+Bonds of the Wild
+
+Synthesize Flora
+
+Nature's Fury
+
+Dawn of Courage
+
+Farmland Raider
+
+Dragonflame Blade
+
+Spellbind
+
+Rise of the Second Dawn
+
+Paradox Abduction
+
+Drown in Knowledge
+
+Smuggler's Sloop
+
+Rise to Perfection
+
+Scheming of the Vhewter
+
+Revenant of Famine
+
+Fanatical Forerunner
+type: Creature — Human Warrior => Creature — Zombie Warrior
+
+Specimen Collection
+
+Forsaken Prophet
+
+Draxoth, Accursed Reaper
+
+Omen of Ochiro
+
+Breath of Ochiro
+
+Unrelenting Recruit
+
+Victory of the Order
+
+Fanatic Gladiator
+
+Order's Firebird
+
+Shattering Souls
+
+Abandoned Sentinel
+
+Defense of Nedrule
+
+Natural Wish
+
+Scholar's Spoils
+
+Nedrulean Tinkerer
+
+Fanatic Suncaller
+
+Genetic Bloom
+
+Unrelenting Corpse
+
+Constructive Wall Core
+
+Dynamo Discharge
+
+Shadowflame Shaman
+
+Ascendant Soulcaller
+
+Accursed Reconciler
+
+Neshai, Ochiro's Hand
+
+Deathweaver
+
+Bloom Anew
+
+Ochiro's Soultwister
+
+Horizon Hatchery
+
+Twin-Construction Workers
+
+Scapwork Venturer
+
+Mechanical Sentinel
+
+Ancient Blueprints
+
+Cyclical Tombstone
+
+Treasure Delver
+
+Granite Sentinel
+
+Heart of Nedrule
+
+Deserted Mortuary
+
+Sealed Gateway
+
+Artificial Vulture
+
+Ochiro's Frontliner
+
+Monis, Genesis Sculptor
+
+Excise Imperfection
+
+Ochiro, Final Flame
+
+Ghonil, Essence Thief
+
+The Shattered Cycle
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+[i][i]Restless[/i]—[/i]Whenever a card leaves your graveyard, put a +1/+1 counter on target creature you control.
+Once during each of your turns, you may play a permanent card from your graveyard. Spells cast this way have delve. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+[i][i]Restless[/i]— [/i]Whenever a card leaves your graveyard, put a +1/+1 counter on target creature you control.
+Once during each of your turns, you may play a permanent card from your graveyard. Spells cast this way have delve.
+
+The Genesis Engine
+
+Spectral Pontiff
+
+Tinker the Design
+
+Desolate Grove
+
+Goblin Reiterator
+
+Ghastly Skyswimmer
+
+Throwing Hammer
+
+Nedrulean Charm
+
+Vhewter Charm
+
+Second Dawn Charm
+
+Ochiro's Charm
+
+Charm of the Wild
+
+Manamimic Swarmer
+rules_text: Flying
+When this creature enters, create a token of target nonland permanent you control with mana value X or less. => Flying
+When this creature enters, create a token that's a copy of target nonland permanent you control with mana value X or less.
+
+Dragonfire Cannon
+
+Manasteel Greaves
+
+Wildbloom Helix
+
+Propagating Rotland
+
+Twinning Blade
+
+Thrown into the Forge
+
+Angelic Judge
+
+Order's Barrier
+
+Returned Criminal
+
+Molten Refuse
+
+Carnivorous Gardening
+
+Ghonil, Vhewter Master Emblem
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

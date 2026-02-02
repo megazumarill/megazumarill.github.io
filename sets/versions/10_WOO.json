@@ -23,7 +23,7 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Fanatic Summoner",
@@ -61,7 +61,7 @@
             "loyalty": "",
             "artist": "Greg Rutkowski",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Ochiro's Consecrator",
@@ -80,7 +80,7 @@
             "loyalty": "",
             "artist": "ludopanda",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-hate\n!tag combat-trick"
         },
         {
             "card_name": "Awakened Horde",
@@ -99,7 +99,7 @@
             "loyalty": "",
             "artist": "Victor Titov",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Caretaker of the Frightful",
@@ -167,7 +167,7 @@
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Vigilance\nWhenever this creature attacks, you may tap an untapped token you control. When you do, tap target creature you don't control.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]If you raise your voice against the Order, it will raise your soul into its service.[/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
@@ -213,7 +213,7 @@
             "loyalty": "",
             "artist": "Lewis Jones",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Dawn Charge",
@@ -232,7 +232,7 @@
             "loyalty": "",
             "artist": "Eric Felten",
             "alias": "",
-            "notes": ""
+            "notes": "!tag protection\n!tag combat-trick"
         },
         {
             "card_name": "Shimmering Lance",
@@ -251,7 +251,7 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag combat-trick"
         },
         {
             "card_name": "Eclipse Strike",
@@ -262,7 +262,7 @@
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Put a finality counter on up to one target creature. Then Eclipse Strike deals 3 damage to target attacking or blocking creature.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cLet the light sear your soul into subservience\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -270,7 +270,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag combat-trick\n"
         },
         {
             "card_name": "Order's Aid",
@@ -300,7 +300,7 @@
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nWhen this enchantment enters, exile up to three target cards from graveyards.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cThe injustice of the Order has been cast out.\u201d\n-Veles, Second Dawn[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -308,7 +308,7 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag veles-flavor-text"
         },
         {
             "card_name": "Pledge to the Order",
@@ -327,7 +327,7 @@
             "loyalty": "",
             "artist": "Gwen Bassett",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag artificial-mana-value"
         },
         {
             "card_name": "Nedrulean Recruiter",
@@ -346,7 +346,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Geistfuel Copter",
@@ -444,7 +444,7 @@
             "loyalty": "",
             "artist": "Casandra Toledo Baeza",
             "alias": "",
-            "notes": ""
+            "notes": "!tag combat-trick"
         },
         {
             "card_name": "Clockwork Familliar",
@@ -482,7 +482,7 @@
             "loyalty": "",
             "artist": "Tim Barzollo",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet"
         },
         {
             "card_name": "Avian Gene Stitcher",
@@ -501,7 +501,7 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ghonil-flavor-text"
         },
         {
             "card_name": "Endothermic Bauble",
@@ -550,7 +550,7 @@
             "loyalty": "",
             "artist": "Azure Paragon",
             "alias": "",
-            "notes": ""
+            "notes": "!tag counterspell"
         },
         {
             "card_name": "Kindle Corruption",
@@ -569,7 +569,7 @@
             "loyalty": "",
             "artist": "Gerrit Willemse",
             "alias": "",
-            "notes": ""
+            "notes": "!tag counterspell\n!tag ghonil-flavor-text"
         },
         {
             "card_name": "Elevated Insight",
@@ -618,7 +618,7 @@
             "loyalty2": "",
             "artist2": "Imad Awan",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Corvid Curse",
@@ -637,7 +637,7 @@
             "loyalty": "",
             "artist": "Maya K-M",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Reflect on Progress",
@@ -675,7 +675,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Innovate",
@@ -781,7 +781,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sacrifice-outlet\n!tag graveyard-ability"
         },
         {
             "card_name": "Disrupted Duppy",
@@ -830,7 +830,7 @@
             "loyalty2": "",
             "artist2": "James Groeling",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag discard-outlet\n!tag graveyard-ability\n!tag ghonil-flavor-text"
         },
         {
             "card_name": "Shambling Skeleton",
@@ -887,7 +887,7 @@
             "loyalty": "",
             "artist": "Ira Robinson",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sacrifice-outlet\n!tag removal"
         },
         {
             "card_name": "Nightclad Tormentor",
@@ -925,7 +925,7 @@
             "loyalty": "",
             "artist": "Imad Awan",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag graveyard-ability"
         },
         {
             "card_name": "Ambush Prowler",
@@ -936,7 +936,7 @@
             "color_identity": "B",
             "cost": "{5}{B}",
             "rules_text": "When this creature enters, target creature an opponent controls gets -3/-3 until end of turn.\n[i]Restless[/i]\u2014 When this creature dies, if a card left your graveyard this turn, return this creature from your graveyard to the battlefield tapped with a finality counter on it.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Though it no longer hungers it hunts eternal.[/i]",
             "pt": "5/3",
             "special_text": "",
             "shape": "normal",
@@ -944,7 +944,7 @@
             "loyalty": "",
             "artist": "Greg Rutkowski",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag reanimation"
         },
         {
             "card_name": "Fell the Accursed",
@@ -974,7 +974,7 @@
             "loyalty2": "",
             "artist2": "Stu Harrington",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag ghonil-flavor-text"
         },
         {
             "card_name": "Shadowshriek",
@@ -993,7 +993,7 @@
             "loyalty": "",
             "artist": "Katinka Thorondor",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Path to Perfection",
@@ -1012,7 +1012,7 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag ghonil-flavor-text"
         },
         {
             "card_name": "Disassemble",
@@ -1031,7 +1031,7 @@
             "loyalty": "",
             "artist": "Charmaine Lim",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag discard-outlet\n!tag graveyard-ability"
         },
         {
             "card_name": "Ghonil's Madness",
@@ -1050,7 +1050,7 @@
             "loyalty": "",
             "artist": "Ingram Schell",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sweeper\n!tag removal\n!tag graveyard-ability"
         },
         {
             "card_name": "Recover the Lost",
@@ -1099,7 +1099,7 @@
             "loyalty": "",
             "artist": "Ian Llanas",
             "alias": "",
-            "notes": ""
+            "notes": "!tag reanimation"
         },
         {
             "card_name": "Fanatic Goblin",
@@ -1110,7 +1110,7 @@
             "color_identity": "WBR",
             "cost": "{2R}{2W}{2B}",
             "rules_text": "Whenever this creature attacks, target creature can't block it this turn.\nWhenever you sacrifice this creature, it deals 2 damage to each opponent and you gain 2 life.",
-            "flavor_text": "[i]The world begs for an end. Meet yours. [/i]",
+            "flavor_text": "[i]\u201cThe world begs for an end. Meet yours.\u201d\n\u2014Ochiro, Elder Dragon[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
@@ -1118,7 +1118,7 @@
             "loyalty": "",
             "artist": "Rokotanskii",
             "alias": "",
-            "notes": ""
+            "notes": "!tag artificial-mana-value\n!tag ochiro-flavor-text"
         },
         {
             "card_name": "Frantic Mender",
@@ -1156,7 +1156,7 @@
             "loyalty": "",
             "artist": "Mazert Young",
             "alias": "",
-            "notes": ""
+            "notes": "!tag combat-trick"
         },
         {
             "card_name": "Splinterblade Shaman",
@@ -1175,7 +1175,7 @@
             "loyalty": "",
             "artist": "Aron Kenway Ong",
             "alias": "",
-            "notes": ""
+            "notes": "!tag copy"
         },
         {
             "card_name": "Breaker Golem",
@@ -1194,7 +1194,7 @@
             "loyalty": "",
             "artist": "Stu Harrington",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability\n!tag removal"
         },
         {
             "card_name": "Nedrulean Aristocrats",
@@ -1213,7 +1213,7 @@
             "loyalty": "",
             "artist": "Jon Wing",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp\n!tag graveyard-ability"
         },
         {
             "card_name": "Goblin Ritualist",
@@ -1289,7 +1289,7 @@
             "loyalty": "",
             "artist": "Arcadian",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Inspiration Seekers",
@@ -1327,7 +1327,7 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Dragonfire Rain",
@@ -1346,7 +1346,7 @@
             "loyalty": "",
             "artist": "Santa Norvaisaite",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Wrecking Rage",
@@ -1365,7 +1365,7 @@
             "loyalty": "",
             "artist": "Rachel Hum",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag combat-trick"
         },
         {
             "card_name": "Dragonforged Battlegear",
@@ -1384,7 +1384,7 @@
             "loyalty": "",
             "artist": "Ritesh Menon",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet"
         },
         {
             "card_name": "Reckless Fervor",
@@ -1422,7 +1422,7 @@
             "loyalty": "",
             "artist": "Matt Sanz",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Forgewalker",
@@ -1441,7 +1441,7 @@
             "loyalty": "",
             "artist": "Dorion_Vex",
             "alias": "",
-            "notes": ""
+            "notes": "!tag artificial-mana-value\n!tag sacrifice-outlet"
         },
         {
             "card_name": "Dredged Rotbone",
@@ -1509,7 +1509,7 @@
             "loyalty": "",
             "artist": "Elliot Bocxtaele",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tage restock"
         },
         {
             "card_name": "Mechanized Gardener",
@@ -1528,7 +1528,7 @@
             "loyalty": "",
             "artist": "Julian Messar",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Experimental Refinery",
@@ -1558,7 +1558,7 @@
             "loyalty2": "",
             "artist2": "NargesArt",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag mana-sink\n!tag ghonil-flavor-text"
         },
         {
             "card_name": "Floralshell Yearling",
@@ -1607,7 +1607,7 @@
             "loyalty": "",
             "artist": "Victor Maristane",
             "alias": "",
-            "notes": ""
+            "notes": "!tag mana-sink"
         },
         {
             "card_name": "Mantrap Hulk",
@@ -1626,7 +1626,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": "y"
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Synthvine Colossus",
@@ -1675,7 +1675,7 @@
             "loyalty2": "",
             "artist2": "LAKE HURWITZ",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag combat-trick"
         },
         {
             "card_name": "Encounter the Accursed",
@@ -1694,7 +1694,7 @@
             "loyalty": "",
             "artist": "Ana Mitrovi\u0107",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag combat-trick"
         },
         {
             "card_name": "Wild Ambush",
@@ -1724,7 +1724,7 @@
             "loyalty2": "",
             "artist2": "Abigail Glass",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Grasp of Nature",
@@ -1743,7 +1743,7 @@
             "loyalty": "",
             "artist": "Victor Titov",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Titanic Blooming",
@@ -1773,7 +1773,7 @@
             "loyalty2": "",
             "artist2": "brian luk",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Guiding Bauble",
@@ -1792,7 +1792,7 @@
             "loyalty": "",
             "artist": "Roberto Nieto",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing\n"
         },
         {
             "card_name": "Wildsea Station",
@@ -1822,7 +1822,7 @@
             "loyalty2": "",
             "artist2": "Victor Sales",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag ghonil-flavor-text"
         },
         {
             "card_name": "Wildsea Tender",
@@ -1841,7 +1841,7 @@
             "loyalty": "",
             "artist": "Camille Voillot",
             "alias": "",
-            "notes": ""
+            "notes": "!tag artificial-mana-value"
         },
         {
             "card_name": "Dawnrider of Hope",
@@ -1852,7 +1852,7 @@
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When this creature enters, create a colorless 1/1 Spirit creature token.\nThis creature's power and toughness are each equal to the number of creatures you control.",
-            "flavor_text": "[i]\u201cI wanted to inspire as they inspired me. I am inspired no longer.\u201d \u2014Veles[/i]",
+            "flavor_text": "[i]\u201cI wanted to inspire as they inspired me. I am inspired no longer.\u201d\n\u2014Veles, Order Initiate[/i]",
             "pt": "*/*",
             "special_text": "",
             "shape": "normal",
@@ -1860,7 +1860,7 @@
             "loyalty": "",
             "artist": "Greg Rutkowski",
             "alias": "",
-            "notes": ""
+            "notes": "!tag veles-flavor-text"
         },
         {
             "card_name": "Second Dawn Illuminator",
@@ -1898,7 +1898,7 @@
             "loyalty": "",
             "artist": "Gabriele Nicastro",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Ochiro's Blademaster",
@@ -1917,7 +1917,7 @@
             "loyalty": "",
             "artist": "Amir Zand",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Nedrulean Captain",
@@ -1936,7 +1936,7 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Angel of Binding",
@@ -1955,7 +1955,7 @@
             "loyalty": "",
             "artist": "L J Koh",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag graveyard-ability\n!tag ramp"
         },
         {
             "card_name": "Reduce to Scrap",
@@ -1974,7 +1974,7 @@
             "loyalty": "",
             "artist": "Maks Trofimov",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Attuned with the Order",
@@ -2031,7 +2031,7 @@
             "loyalty": "",
             "artist": "Kyle Grech",
             "alias": "",
-            "notes": ""
+            "notes": "!tag reanimation"
         },
         {
             "card_name": "Hallowed Hunt",
@@ -2050,7 +2050,7 @@
             "loyalty": "",
             "artist": "Quinten Blake",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Vhewter Hover Agent",
@@ -2088,7 +2088,7 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Drown the Core",
@@ -2107,7 +2107,7 @@
             "loyalty": "",
             "artist": "Huleeb",
             "alias": "",
-            "notes": ""
+            "notes": "!tag counterspell"
         },
         {
             "card_name": "Veteran Tinkerer",
@@ -2126,7 +2126,7 @@
             "loyalty": "",
             "artist": "Gareth Keenan",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet\n!tag mana-sink"
         },
         {
             "card_name": "Moment of Inspiration",
@@ -2175,7 +2175,7 @@
             "loyalty2": "",
             "artist2": "huleeb",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "The Skylight Observatory",
@@ -2243,7 +2243,7 @@
             "loyalty2": "",
             "artist2": "huleeb",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag protection"
         },
         {
             "card_name": "Thought Fracture",
@@ -2281,7 +2281,7 @@
             "loyalty": "",
             "artist": "John A. Leroy",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Accursed Noble",
@@ -2300,7 +2300,7 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp\n!tag graveyard-ability"
         },
         {
             "card_name": "Shadowbone Reaper",
@@ -2319,7 +2319,7 @@
             "loyalty": "",
             "artist": "Austen Mengler",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing"
         },
         {
             "card_name": "Syndicate Shadowblade",
@@ -2338,7 +2338,7 @@
             "loyalty": "",
             "artist": "Daniele aruolo",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sacrifice-outlet"
         },
         {
             "card_name": "Keeper of the Sealed",
@@ -2368,7 +2368,7 @@
             "loyalty2": "",
             "artist2": "Jim Kyriakopoulos",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag discard-outlet"
         },
         {
             "card_name": "Raid the Tomb",
@@ -2417,7 +2417,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag discard-outlet"
         },
         {
             "card_name": "Peaceless Return",
@@ -2436,7 +2436,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": ""
+            "notes": "!tag protection\n!tag reanimation"
         },
         {
             "card_name": "Ancient Communion",
@@ -2447,7 +2447,7 @@
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Draw two cards.\nIf a permanent you control has a finality counter on it, you gain 2 life and each opponent loses 2 life. Otherwise, you lose 2 life.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cIt's best the world ceases than seeks the past.\u201d\n\u2014-Ochiro, Elder Dragon[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2455,7 +2455,7 @@
             "loyalty": "",
             "artist": "Andrej Troha",
             "alias": "",
-            "notes": ""
+            "notes": "!tag flavor-text-Monis"
         },
         {
             "card_name": "Leave to Rot",
@@ -2474,7 +2474,7 @@
             "loyalty": "",
             "artist": "Calder Moore",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sacrifice-outlet"
         },
         {
             "card_name": "Rummaging Handyman",
@@ -2493,7 +2493,7 @@
             "loyalty": "",
             "artist": "Emily Donina",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability\n!tag discard-outlet"
         },
         {
             "card_name": "Dragon's Grasp",
@@ -2531,7 +2531,7 @@
             "loyalty": "",
             "artist": "Derick Santos",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Sunset Survivor",
@@ -2550,7 +2550,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability\n!tag fixing\n!tag removal"
         },
         {
             "card_name": "Incinerate the Accursed",
@@ -2569,7 +2569,7 @@
             "loyalty": "",
             "artist": "sk_xxx",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sweeper\n!tag removal"
         },
         {
             "card_name": "Mechiro, Opus Engine",
@@ -2588,7 +2588,7 @@
             "loyalty": "",
             "artist": "Vlad Petruchik",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Overclock the Core",
@@ -2607,7 +2607,7 @@
             "loyalty": "",
             "artist": "\u4e8c\u767d\u767d\u767d\u767d\u767d",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sacrifice-outlet\n!tag reanimation"
         },
         {
             "card_name": "Imprecise Strike",
@@ -2626,7 +2626,7 @@
             "loyalty": "",
             "artist": "Daniel Lieske",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Nedrulean Toolglove",
@@ -2664,7 +2664,7 @@
             "loyalty": "",
             "artist": "Kan Liu",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Fires of Progress",
@@ -2702,7 +2702,7 @@
             "loyalty": "",
             "artist": "Bobby Perron",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Rootwire Bioengineer",
@@ -2721,7 +2721,7 @@
             "loyalty": "",
             "artist": "Cheyenna Krone",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Night Market Gardener",
@@ -2797,7 +2797,7 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp\n!tag fixing"
         },
         {
             "card_name": "Bonds of the Wild",
@@ -2816,7 +2816,7 @@
             "loyalty": "",
             "artist": "Huleeb",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Synthetic Nest",
@@ -2865,7 +2865,7 @@
             "loyalty": "",
             "artist": "Sawa Bia\u0142czy\u0144ska-Lipert",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing"
         },
         {
             "card_name": "Recover History",
@@ -2922,7 +2922,7 @@
             "loyalty": "",
             "artist": "Irene Strychalski",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag sweeper\n!tag graveyard-hate"
         },
         {
             "card_name": "Dawn of Courage",
@@ -2941,7 +2941,7 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-hate"
         },
         {
             "card_name": "Triumph of Justice",
@@ -2998,7 +2998,7 @@
             "loyalty": "",
             "artist": "Indigo Jenar",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Dragonflame Blade",
@@ -3017,7 +3017,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Spellbind",
@@ -3036,7 +3036,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": ""
+            "notes": "!tag counterspell\n!tag protection"
         },
         {
             "card_name": "Rise of the Second Dawn",
@@ -3055,7 +3055,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "!tag copy"
         },
         {
             "card_name": "Paradox Abduction",
@@ -3074,7 +3074,7 @@
             "loyalty": "",
             "artist": "Anton Karlik",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Drown in Knowledge",
@@ -3093,7 +3093,7 @@
             "loyalty": "",
             "artist": "Micka\u00ebl Bois",
             "alias": "",
-            "notes": ""
+            "notes": "!tag counterspell"
         },
         {
             "card_name": "Smuggler's Sloop",
@@ -3112,7 +3112,7 @@
             "loyalty": "",
             "artist": "Airborn Studios",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet"
         },
         {
             "card_name": "Dawnweaver Illusionist",
@@ -3150,7 +3150,7 @@
             "loyalty": "",
             "artist": "Ruberman Rodriguez",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sweeper\n!tag removal"
         },
         {
             "card_name": "Melodious Astronomer",
@@ -3188,7 +3188,7 @@
             "loyalty": "",
             "artist": "Bernardo Hasselmann",
             "alias": "",
-            "notes": "The entire effect is repeated."
+            "notes": ""
         },
         {
             "card_name": "Revenant of Famine",
@@ -3207,13 +3207,13 @@
             "loyalty": "",
             "artist": "Anthony DePietro",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet\n!tag graveyard-hate"
         },
         {
             "card_name": "Fanatical Forerunner",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2014 Zombie Warrior",
             "number": 83,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3226,7 +3226,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
-            "notes": ""
+            "notes": "!tag reanimation"
         },
         {
             "card_name": "Specimen Collection",
@@ -3243,7 +3243,7 @@
             "shape": "transform double faced",
             "set": "WOO",
             "loyalty": "",
-            "artist": "Kerim Akyuz\nKerim Akyuz",
+            "artist": "Kerim Akyuz",
             "alias": "",
             "card_name2": "Collector's Craze",
             "color2": "B",
@@ -3256,7 +3256,7 @@
             "loyalty2": "",
             "artist2": "Max Roche",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag graveyard-hate\n"
         },
         {
             "card_name": "Forsaken Prophet",
@@ -3286,7 +3286,7 @@
             "loyalty2": "",
             "artist2": "Vassilios Bayiokos",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag sweeper"
         },
         {
             "card_name": "Draxoth, Accursed Reaper",
@@ -3305,7 +3305,7 @@
             "loyalty": "",
             "artist": "JP Targete",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Omen of Ochiro",
@@ -3324,7 +3324,7 @@
             "loyalty": "",
             "artist": "The Crafty Cats Design",
             "alias": "",
-            "notes": ""
+            "notes": "!tag tutor\n!tag graveyard-ability"
         },
         {
             "card_name": "Breath of Ochiro",
@@ -3343,7 +3343,7 @@
             "loyalty": "",
             "artist": "J-Haskell",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Unrelenting Recruit",
@@ -3362,7 +3362,7 @@
             "loyalty": "",
             "artist": "Nino Zorc",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Victory of the Order",
@@ -3373,7 +3373,7 @@
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "When this enchantment enters, exile your hand, then draw that many cards.\nYou may cast cards exiled with this enchantment by tapping an untapped token you control in addition to paying their other costs.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]A triumphant one indeed. It would be their last.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -3400,7 +3400,7 @@
             "loyalty": "",
             "artist": "Bachzim",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Order's Firebird",
@@ -3419,7 +3419,7 @@
             "loyalty": "",
             "artist": "Dragolisco",
             "alias": "",
-            "notes": "!tag wishlist"
+            "notes": "!tag wishlist\n!tag graveyard-ability"
         },
         {
             "card_name": "Shattering Souls",
@@ -3438,7 +3438,7 @@
             "loyalty": "",
             "artist": "Mark Thompson",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag sweeper"
         },
         {
             "card_name": "Abandoned Sentinel",
@@ -3457,7 +3457,7 @@
             "loyalty": "",
             "artist": "Faith Fortenbacher",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet\n!tag graveyard-ability"
         },
         {
             "card_name": "Defense of Nedrule",
@@ -3476,7 +3476,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": ""
+            "notes": "!tag protection"
         },
         {
             "card_name": "Noxis, Accurrsed Rider",
@@ -3552,7 +3552,7 @@
             "loyalty": "",
             "artist": "Nienke Zijlstra",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Weaver of Corruption",
@@ -3647,7 +3647,7 @@
             "loyalty": "",
             "artist": "Laura Hepworth",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Moon-Blessed Cultist",
@@ -3704,7 +3704,7 @@
             "loyalty": "",
             "artist": "Erlan Arya",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sacrifice-outlet\n!tag discard-outlet"
         },
         {
             "card_name": "Fanatic Suncaller",
@@ -3715,7 +3715,7 @@
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "When this creature enters, choose one\u2014\n\u2022 Destroy all nonland permanents with mana value 1 or less. \n\u2022 This creature gains haste until end of turn.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cAsh is not evil. It is inevitable.\u201d\n\u2014Ochiro, Elder Dragon[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -3723,7 +3723,7 @@
             "loyalty": "",
             "artist": "Camille Meehan",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sweeper\n!tag removal"
         },
         {
             "card_name": "Ageless Golem",
@@ -3780,7 +3780,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet"
         },
         {
             "card_name": "Unrelenting Corpse",
@@ -3799,7 +3799,7 @@
             "loyalty": "",
             "artist": "Aron Kenway Ong",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Constructive Wall Core",
@@ -3818,7 +3818,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet"
         },
         {
             "card_name": "Dynamo Discharge",
@@ -3837,7 +3837,7 @@
             "loyalty": "",
             "artist": "Sophia Choles",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Shadowflame Shaman",
@@ -3856,7 +3856,7 @@
             "loyalty": "",
             "artist": "Anastasiia Tem.",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability\n!tag removal"
         },
         {
             "card_name": "Ascendant Soulcaller",
@@ -3875,7 +3875,7 @@
             "loyalty": "",
             "artist": "Onur Mente\u015fe",
             "alias": "",
-            "notes": ""
+            "notes": "!tag discard-outlet"
         },
         {
             "card_name": "Vhewter Sky Scout",
@@ -3932,7 +3932,7 @@
             "loyalty": "",
             "artist": "Liz Sun",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag ramp"
         },
         {
             "card_name": "Yuing, Order's Preacher",
@@ -4000,7 +4000,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Professor Sona",
@@ -4057,7 +4057,7 @@
             "loyalty": "",
             "artist": "Tommy Arnold",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-hate\n!tag reanimation\n!tag copy"
         },
         {
             "card_name": "Bloom Anew",
@@ -4068,7 +4068,7 @@
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Return target permanent card with mana value less than or equal to the number of permanents you control from your graveyard to the battlefield tapped.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Death begets life. Life corrupts death.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4076,7 +4076,7 @@
             "loyalty": "",
             "artist": "Darlee Urbiztondo",
             "alias": "",
-            "notes": "!tag wishlist"
+            "notes": "!tag wishlist\n!tag reanimation\n!tag ramp"
         },
         {
             "card_name": "Ochiro's Soultwister",
@@ -4095,7 +4095,7 @@
             "loyalty": "",
             "artist": "Alexander Borodin",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag graveyard-hate\n!tag reanimation"
         },
         {
             "card_name": "Horizon Hatchery",
@@ -4125,7 +4125,7 @@
             "loyalty2": "",
             "artist2": "Anton Radzivonau",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Twin-Construction Workers",
@@ -4144,7 +4144,7 @@
             "loyalty": "",
             "artist": "Dan Dingman",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing"
         },
         {
             "card_name": "Scapwork Venturer",
@@ -4163,7 +4163,7 @@
             "loyalty": "",
             "artist": "Szil\u00e1rd Zboray",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Mechanical Sentinel",
@@ -4182,7 +4182,7 @@
             "loyalty": "",
             "artist": "Midhat Kapetanovic",
             "alias": "",
-            "notes": ""
+            "notes": "!tag restock"
         },
         {
             "card_name": "Ancient Blueprints",
@@ -4193,7 +4193,7 @@
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "When this artifact enters, you gain 2 life. \n{1}, {T}, Sacrifice this artifact: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cA creation like this could power a whole city block. I'll need six.\u201d\n\u2014-Monis Gearwood[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4201,7 +4201,7 @@
             "loyalty": "",
             "artist": "Jos\u00e9 Costa",
             "alias": "",
-            "notes": ""
+            "notes": "!tag flavor-text-monis"
         },
         {
             "card_name": "Cyclical Tombstone",
@@ -4212,7 +4212,7 @@
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.\n{3}, {T}, Discard a card: Draw a card.",
-            "flavor_text": "[i]A headstone from a time where a resting place meant something.[/i]",
+            "flavor_text": "[i]A headstone from a time where a resting place held meaning.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4220,7 +4220,7 @@
             "loyalty": "",
             "artist": "Sarah Cole-Megaro",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp\n!tag discard-outlet"
         },
         {
             "card_name": "Sheltering Cloak",
@@ -4269,7 +4269,7 @@
             "loyalty": "",
             "artist": "Miro Petrov",
             "alias": "",
-            "notes": ""
+            "notes": "!tag reanimation"
         },
         {
             "card_name": "District Relocator",
@@ -4307,7 +4307,7 @@
             "loyalty": "",
             "artist": "Kevin Jick",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Heart of Nedrule",
@@ -4326,7 +4326,7 @@
             "loyalty": "",
             "artist": "HH park",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Deserted Mortuary",
@@ -4345,7 +4345,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-hate"
         },
         {
             "card_name": "Sealed Gateway",
@@ -4364,7 +4364,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": ""
+            "notes": "!tag tutor\n"
         },
         {
             "card_name": "Nedrule, Curious Capital",
@@ -4421,7 +4421,7 @@
             "loyalty": "",
             "artist": "Victoria Sorokina",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability\n!tag removal"
         },
         {
             "card_name": "Ochiro's Frontliner",
@@ -4440,7 +4440,7 @@
             "loyalty": "",
             "artist": "Tan Zhi Weng",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability"
         },
         {
             "card_name": "Monis, Genesis Sculptor",
@@ -4459,7 +4459,7 @@
             "loyalty": "",
             "artist": "Annadel Cinco",
             "alias": "",
-            "notes": ""
+            "notes": "!tag tutor"
         },
         {
             "card_name": "Excise Imperfection",
@@ -4478,7 +4478,7 @@
             "loyalty": "",
             "artist": "Murat G\u00fcl",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Veles, Order Initiate",
@@ -4516,7 +4516,7 @@
             "loyalty": "",
             "artist": "Andrea Caliendi",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sweeper\n!tag removal\n!tag graveyard-ability"
         },
         {
             "card_name": "Ghonil, Essence Thief",
@@ -4546,7 +4546,7 @@
             "loyalty2": "3",
             "artist2": "Jakub Jagoda",
             "alias2": "",
-            "notes": "!tag wishlist"
+            "notes": "!tag wishlist\n!tag removal"
         },
         {
             "card_name": "The Shattered Cycle",
@@ -4556,7 +4556,7 @@
             "number": 219,
             "color_identity": "WBG",
             "cost": "{8}{W}{B}{G}",
-            "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\n[i][i]Restless[/i]\u2014[/i]Whenever a card leaves your graveyard, put a +1/+1 counter on target creature you control.\nOnce during each of your turns, you may play a permanent card from your graveyard. Spells cast this way have delve.",
+            "rules_text": "Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\n[i][i]Restless[/i]\u2014 [/i]Whenever a card leaves your graveyard, put a +1/+1 counter on target creature you control.\nOnce during each of your turns, you may play a permanent card from your graveyard. Spells cast this way have delve.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4565,7 +4565,7 @@
             "loyalty": "",
             "artist": "Gabriel Gajdo\u0161",
             "alias": "",
-            "notes": "!tag wishlist"
+            "notes": "!tag wishlist\n!tag ramp\n!tag reanimation"
         },
         {
             "card_name": "Eileen, Herald of the Dawn",
@@ -4603,7 +4603,7 @@
             "loyalty": "",
             "artist": "Mark Salapare",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ramp\n"
         },
         {
             "card_name": "Splicing Station",
@@ -4652,7 +4652,7 @@
             "loyalty": "",
             "artist": "Miguel Gutierrez",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability\n"
         },
         {
             "card_name": "Tinker the Design",
@@ -4671,7 +4671,7 @@
             "loyalty": "",
             "artist": "Asher Sobek Israel",
             "alias": "",
-            "notes": ""
+            "notes": "!tag sacrifice-outlet\n!tag discard-outlet"
         },
         {
             "card_name": "Nedrulean Architect",
@@ -4709,7 +4709,7 @@
             "loyalty": "",
             "artist": "Racheal Pease",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing\n!tag graveyard-ability"
         },
         {
             "card_name": "Banished Bog",
@@ -4937,7 +4937,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": ""
+            "notes": "!tag copy"
         },
         {
             "card_name": "Wildgrowth Crawler",
@@ -4986,7 +4986,7 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag fixing\n!tag removal"
         },
         {
             "card_name": "Throwing Hammer",
@@ -5005,7 +5005,7 @@
             "loyalty": "",
             "artist": "Fares Maese",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Nedrulean Charm",
@@ -5024,7 +5024,7 @@
             "loyalty": "",
             "artist": "Counterplay Games",
             "alias": "",
-            "notes": ""
+            "notes": "!tag artificial-mana-value\n!tag ramp"
         },
         {
             "card_name": "Vhewter Charm",
@@ -5043,7 +5043,7 @@
             "loyalty": "",
             "artist": "Aron Kenway Ong",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal\n!tag artificial-mana-value\n!tag combat-trick"
         },
         {
             "card_name": "Second Dawn Charm",
@@ -5062,7 +5062,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "!tag counterspell\n!tag removal\n!tag artificial-mana-value"
         },
         {
             "card_name": "Ochiro's Charm",
@@ -5081,7 +5081,7 @@
             "loyalty": "",
             "artist": "Wrotzal",
             "alias": "",
-            "notes": ""
+            "notes": "!tag graveyard-ability\n!tag removal\n!tag discard-outlet"
         },
         {
             "card_name": "Charm of the Wild",
@@ -5100,7 +5100,7 @@
             "loyalty": "",
             "artist": "Wael Tabbara",
             "alias": "",
-            "notes": ""
+            "notes": "!tag artificial-mana-value\n!tag removal\n!tag protection"
         },
         {
             "card_name": "Manamimic Swarmer",
@@ -5110,7 +5110,7 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{X}{U}{U}",
-            "rules_text": "Flying\nWhen this creature enters, create a token of target nonland permanent you control with mana value X or less.",
+            "rules_text": "Flying\nWhen this creature enters, create a token that's a copy of target nonland permanent you control with mana value X or less.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5119,7 +5119,7 @@
             "loyalty": "",
             "artist": "Donitsa Doneva",
             "alias": "",
-            "notes": ""
+            "notes": "!tag copy"
         },
         {
             "card_name": "Ritual Staff",
@@ -5179,7 +5179,7 @@
             "loyalty2": "",
             "artist2": "\u00c1lvaro Fern\u00e1ndez Gonz\u00e1lez",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Manasteel Greaves",
@@ -5209,7 +5209,7 @@
             "loyalty2": "",
             "artist2": "Justine Cruz",
             "alias2": "",
-            "notes": ""
+            "notes": "!tag ramp"
         },
         {
             "card_name": "Fanged Helm",
@@ -5258,7 +5258,7 @@
             "loyalty": "",
             "artist": "Alfred Fernandes",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Propagating Rotland",
@@ -5277,7 +5277,7 @@
             "loyalty": "",
             "artist": "Daniel Ciesielka",
             "alias": "",
-            "notes": ""
+            "notes": "!tag copy"
         },
         {
             "card_name": "Twinning Blade",
@@ -5296,7 +5296,7 @@
             "loyalty": "",
             "artist": "Samantha Forbes",
             "alias": "",
-            "notes": ""
+            "notes": "!tag copy"
         },
         {
             "card_name": "Thrown into the Forge",
@@ -5315,7 +5315,7 @@
             "loyalty": "",
             "artist": "Maxime des Touches",
             "alias": "",
-            "notes": ""
+            "notes": "!tag removal"
         },
         {
             "card_name": "Artificer",
@@ -5341,7 +5341,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Clue",
-            "number": 9,
+            "number": 10,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, Sacrifice this token: Draw a card.",
@@ -5436,7 +5436,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Incubator",
-            "number": 11,
+            "number": 12,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}: Transform this artifact. [i](If this artifact entered this turn, it still has summoning sickness. It transforms into a colorless 0/0 Plant artifact creature.)[/i]",
@@ -5455,7 +5455,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Incubator",
-            "number": 12,
+            "number": 13,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}: Transform this artifact. [i](If this artifact entered this turn, it still has summoning sickness. It transforms into a colorless 0/0 Horror artifact creature.)[/i]",
@@ -5531,7 +5531,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Junk",
-            "number": 13,
+            "number": 14,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.",
@@ -5797,7 +5797,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Thopter",
-            "number": 15,
+            "number": 16,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Flying",
@@ -5816,7 +5816,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 16,
+            "number": 17,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -5854,7 +5854,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Servo",
-            "number": 14,
+            "number": 15,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -5877,7 +5877,7 @@
             "color_identity": "W",
             "cost": "{4}{W}{W}",
             "rules_text": "Flying\n[i][i]Restless[/i]\u2014 [/i]This spell costs {2} less to cast if a card left your graveyard this turn.[i]\n[/i]Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cThis is no justice. This is a show like your \u2018peace'.\u201d\n\u2014Veles, Fugitive of Nedrule[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -5885,7 +5885,7 @@
             "loyalty": "",
             "artist": "Yeve Drovosekova",
             "alias": "",
-            "notes": ""
+            "notes": "!tag artificial-mana-value\n!tag: fixing\n!tag veles-falvor-text"
         },
         {
             "card_name": "Order's Barrier",
@@ -5904,7 +5904,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing"
         },
         {
             "card_name": "Returned Criminal",
@@ -5923,7 +5923,7 @@
             "loyalty": "",
             "artist": "Pixoloid Studios",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing"
         },
         {
             "card_name": "Molten Refuse",
@@ -5942,7 +5942,7 @@
             "loyalty": "",
             "artist": "Deltakosh",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing"
         },
         {
             "card_name": "Carnivorous Gardening",
@@ -5961,7 +5961,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": ""
+            "notes": "!tag fixing"
         },
         {
             "card_name": "Spirit Illusion",
@@ -6025,11 +6025,11 @@
             "color": "",
             "rarity": "common",
             "type": "Emblem",
-            "number": 17,
+            "number": 18,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Transformed permanents you control have protection from everything.\nAt the beginning of each combat, Incubate Horrors 3.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cThis power is now mine. Everything else shall follow.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "token",
@@ -6037,14 +6037,14 @@
             "loyalty": "",
             "artist": "Jakub Jagoda",
             "alias": "",
-            "notes": ""
+            "notes": "!tag ghonil-flavor-text"
         },
         {
             "card_name": "Food",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Food",
-            "number": 10,
+            "number": 11,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
@@ -6055,6 +6055,25 @@
             "set": "WOO",
             "loyalty": "",
             "artist": "Bianca Papalardo",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "WOO SUPPORTED TAGS",
+            "color": "",
+            "rarity": "common",
+            "type": "Token \u2014 Tags",
+            "number": 9,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Removal, Graveyard-Ability, Sweeper, Protection, Combat-Trick, Graveyard-Hate, Counterspell, Fixing, Ramp, Reanimation, Restock, Artificial-Mana-Value, Discard-Outlet, Sacrifice-Outlet, Mana-Sink, Tutor",
+            "flavor_text": "[i]Ghonil-flavor-text, Ochiro-flavor-text, Veles-flavor-text, Monis-flavor-text[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "WOO",
+            "loyalty": "",
+            "artist": "MegAzumarill",
             "alias": "",
             "notes": ""
         }

@@ -1815,19 +1815,19 @@
         "set": "WOO"
     },
     {
-        "card_name": "Clue",
+        "card_name": "WOO SUPPORTED TAGS",
         "number": 9,
         "shape": "token",
         "set": "WOO"
     },
     {
-        "card_name": "Food",
+        "card_name": "Clue",
         "number": 10,
         "shape": "token",
         "set": "WOO"
     },
     {
-        "card_name": "Incubator",
+        "card_name": "Food",
         "number": 11,
         "shape": "token",
         "set": "WOO"
@@ -1839,32 +1839,38 @@
         "set": "WOO"
     },
     {
-        "card_name": "Junk",
+        "card_name": "Incubator",
         "number": 13,
         "shape": "token",
         "set": "WOO"
     },
     {
-        "card_name": "Servo",
+        "card_name": "Junk",
         "number": 14,
         "shape": "token",
         "set": "WOO"
     },
     {
-        "card_name": "Thopter",
+        "card_name": "Servo",
         "number": 15,
         "shape": "token",
         "set": "WOO"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Thopter",
         "number": 16,
         "shape": "token",
         "set": "WOO"
     },
     {
-        "card_name": "Ghonil, Vhewter Master Emblem",
+        "card_name": "Treasure",
         "number": 17,
+        "shape": "token",
+        "set": "WOO"
+    },
+    {
+        "card_name": "Ghonil, Vhewter Master Emblem",
+        "number": 18,
         "shape": "token",
         "set": "WOO"
     },
@@ -1903,9 +1909,6 @@
         "number": 8,
         "shape": "token",
         "set": "WOO"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
