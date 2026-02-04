@@ -1,4 +1,9 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+No changes.
+
+VERSION 10 CHANGELOG
 ====================
 
 WOO SUPPORTED TAGS added.
