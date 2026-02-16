@@ -1,4 +1,443 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Scrapyard Scavenger added.
+Negative Pulse added.
+Cult Matron added.
+Wallworker Artillerist added.
+Dawnblade Captain added.
+Starlight Bauble added.
+Adept Toolglove added.
+Steamcore Smuggler added.
+Corrupting Cascade added.
+Banner of the Order added.
+Salvage Titan added.
+Apex Laboratory added.
+Master Soultwister added.
+Wallguard Sentinel added.
+Soultorched Chamber added.
+Frostvine Ruins added.
+Skyshaped Sanctum added.
+Viridian Tomb added.
+Steamforged Cascade added.
+
+Nedrulean Farmhand removed.
+Sentinel Armor removed.
+Fanatic Goblin removed.
+Nedrulean Artillerist removed.
+Nedrulean Captain removed.
+Drown the Core removed.
+Nedrulean Toolglove removed.
+Smuggler's Sloop removed.
+Rise to Perfection removed.
+Victory of the Order removed.
+Abandoned Sentinel removed.
+Flora Eviscerator removed.
+Ochiro's Soultwister removed.
+Mechanical Sentinel removed.
+Veles, Justice Restored removed.
+Food removed.
+
+Eclipse Strike
+
+Order Soulsmith
+rules_text: When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+As long as you control a token, this creature gets +1/+1. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+pt: 0/1 => 1/1
+
+Steamwork Elemental
+rules_text: When this creature enters, engineer 1. [i](Put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i]
+Disturb {U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When this creature enters, engineer 1. [i](Put a +1/+1 counter on an artifact you control.You may have it become a 0/0 artifact creature.)[/i]
+Disturb {U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Midnight Dawncaller
+rules_text: Flash
+When this creature enters, choose one—
+• Untap each token you control. 
+• Up to one target creature gets -2/-0 until end of turn => Flash
+When this creature enters, up to one target creature gets -2/-0 until end of turn. Then you may tap an untapped token you control. When you do, up to one target creature gets -2/-0 until end of turn.
+
+Vortex of Denial
+rules_text: Counter target spell or activated ability from a nonland source unless its controller pays {2}. If an ability that was activated from a card in a graveyard was countered this way, exile that card. [i](Mana abilities can't be targeted.)[/i] => Counter target spell, activated ability from a nonland source, or triggered ability from a nonland source unless its controller pays {2}.
+
+Corvid Curse
+rules_text: Flash
+Enchant artifact or creature
+Enchanted permanent is a 1/1 blue Bird creature with flying and “This creature can only block creatures with flying.” It loses all other abilities. => Flash
+Enchant artifact or creature
+Enchanted permanent is a 1/1 blue Bird Horror creature with flying and “This creature can't block.” It loses all other abilities.
+
+Innovate
+rules_text: Draw a card.
+Engineer 3. [i](Put three +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Draw a card.
+Engineer 3. [i](Put three +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Malevolent Lemure
+rules_text: When this creature enters, each player sacrifices a creature with no counters on it.
+Onslaught {3}{B} [i]({3}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => When this creature enters, each opponent sacrifices a creature, then you sacrifice a creature with no counters on it.
+Onslaught {3}{B} [i]({3}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Fell the Accursed
+rules_text: Destroy target creature. 
+Disturb {1}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Destroy target creature. Mill three cards.
+Disturb {1}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Shadowshriek
+rules_text: Target creature gets -2/-2 until end of turn.
+[i][i]Restless[/i]— [/i]If a card left your graveyard this turn, that creature gets an additional -2/-2 until end of turn. => Target creature gets -2/-2 until end of turn.
+[i][i]Restless[/i]— [/i]If a card left your graveyard this turn, that creature gets an additional -3/-3 until end of turn.
+
+Disassemble
+cost: {B} => {1}{B}
+rules_text: As an additional cost to cast this spell, sacrifice a creature or discard a card and pay {1}.
+Destroy target creature.
+{1}{B}, Exile this card from your graveyard: Surveil 2. => As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Destroy target creature or enchantment.
+{1}{B}, Exile this card from your graveyard: Surveil 2.
+
+Pull from the Cycle
+rules_text: [i]Restless[/i]—Create a colorless 1/1 Spirit creature token if a card left your graveyard this turn, then return target creature card from your graveyard to the battlefield with a finality counter on it. => [i]Restless[/i]—If a card left your graveyard this turn, create a colorless 1/1 Spirit creature token.
+Return target creature card from your graveyard to the battlefield with a finality counter on it.
+
+Inspiration Seekers
+rules_text: When this creature enters, create a 1/1 red Artificer creature token with “{T}: Engineer 1. Activate only as a sorcery.”
+{T}: Engineer 1, activate only as a sorcery. [i](Put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i] => When this creature enters, create a 1/1 red Artificer creature token with “{T}: Engineer 1. Activate only as a sorcery.”
+{T}: Engineer 1, activate only as a sorcery. [i](Put a +1/+1 counter on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Burn the City
+type: Sorcery => Instant
+rules_text: This spell deals 2 damage to target creature or planeswalker. 
+You may tap an untapped token you control. When you do, this spell deals 2 damage to target opponent. => This spell deals 2 damage to any target. If you created a token this turn, it deals 3 damage to that target instead.
+
+Dragonfire Rain
+type: Instant => Sorcery
+cost: {4}{R} => {3}{R}
+rules_text: Choose one—
+• This spell deals 6 damage to target creature. If that creature would die this turn, exile it instead.
+• This spell deals 3 damage to target player. => Choose one—
+• This spell deals 6 damage to target creature. If that creature would die this turn, exile it instead.
+• Destroy target nonbasic land. Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+
+Ignition Fireplace
+rules_text: When this artifact enters, it deals 3 damage to target creature or planeswalker.
+{2}{R}, Sacrifice this artifact and another artifact: Engineer 2. Activate only as a sorcery. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => When this artifact enters, it deals 3 damage to target creature or planeswalker.
+{2}{R}, Sacrifice this artifact and another artifact: Engineer 2. Activate only as a sorcery. [i](Put two +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Forgewalker
+type: Artifact — Vehicle => Artifact Creature — Construct
+rules_text: Whenever one or more artifact creatures you control attack, put a +1/+1 counter on this Vehicle.
+Whenever this Vehicle attacks, you may sacrifice another artifact. If you do, draw a card.
+Crew 2 => Whenever one or more artifact creatures you control attack, put a +1/+1 counter on this creature.
+Whenever this creature attacks, you may sacrifice another artifact. If you do, draw a card.
+pt: 2/1 => 2/2
+
+Floralshell Yearling
+rules_text: When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+This creature can't be blocked by creatures with power 2 or less.
+Disturb {5}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When this creature enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Disturb {5}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Goblin Bloombuilder
+rules_text: As long as you control an artifact creature, this creature gets +1/+1.
+{3}{G}: Engineer 2. Activate only as a sorcery. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => As long as you control an artifact creature, this creature gets +1/+1.
+{3}{G}: Engineer 2. Activate only as a sorcery. [i](Put two +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Guiding Bauble
+
+Veteran Tinkerer
+rules_text: Whenever an artifact you control enters you may draw a card, if you do, discard a card.
+{7}{U}: Engineer 3 [i](Put three +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Whenever an artifact you control enters you may draw a card, if you do, discard a card.
+{7}{U}: Engineer 3 [i](Put three +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Moment of Inspiration
+rules_text: Mill three cards, then return an instant, sorcery, or artifact card not named Moment of Inspiration from your graveyard to your hand.
+Engineer 2. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Mill three cards, then return an instant, sorcery, or artifact card not named Moment of Inspiration from your graveyard to your hand.
+Engineer 2. [i](Put two +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Spectral Severance
+rules_text: Until end of turn, target creature loses all abilities and is a colorless Spirit creature with base power and toughness 1/1.
+Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Disturb {3}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Until end of turn, target creature loses all abilities and is a colorless Spirit creature with base power and toughness 1/1.
+Draw a card.
+Disturb {3}{U} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+The Skylight Observatory
+type: Legendary Artifact — Vehicle => Legendary Artifact
+cost: {2}{U} => {1}{U}
+rules_text: Flying
+Whenever The Skylight Observatory becomes tapped, target creature you control gains flying until end of turn.
+{2}, {T}, Tap another untapped artifact you control: Draw a card.
+Crew 2 => Whenever The Skylight Observatory becomes tapped, target creature you control gains flying until end of turn.
+{2}, {T}, Tap another untapped artifact you control: Draw a card.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+pt: 3/2 => 
+
+Gradual Assembly
+rules_text: At the beginning of your upkeep, surveil 1. Then if you control another artifact, engineer 1. [i](Put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i] => At the beginning of your upkeep, engineer 1, then if there are 5 or more counters among artifacts you control, draw a card. [i](Put a +1/+1 counter on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Thought Fracture
+rules_text: Choose odd or even. Look at target player's hand. You may pay 1 life. If you do, choose a nonland card from it with mana value of the chosen quality. That player discards that card. => Choose odd or even. Look at target player's hand. You may choose a nonland card from it with mana value of the chosen quality. That player discards that card.
+
+Artificial Citizen
+rules_text: {T}: Add {R}.
+When you sacrifice this creature, choose one—
+• Create a tapped Treasure token.
+• Engineer 2. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => {T}: Add {R}.
+When you sacrifice this creature, choose one—
+• Create a tapped Treasure token.
+• Engineer 2. [i](Put two +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Imprecise Strike
+cost: {R}{R} => {1}{R}
+rules_text: This spell deals 4 damage to target creature and 2 damage to you. If excess damage is dealt this way, create a 1/1 red Artificer token with “{T}: Engineer 1. Activate only as a sorcery.” [i](To Engineer 1, put a +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => This spell deals 4 damage to target creature and 2 damage to you. If excess damage is dealt this way, create a 1/1 red Artificer token with “{T}: Engineer 1. Activate only as a sorcery.” [i](To Engineer 1, put a +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Mossclaimed Golem
+rules_text: Vigilance
+When this creature enters, you may destroy target artifact. If an artifact you controlled was destroyed this way, engineer 2. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Vigilance
+When this creature enters, you may destroy target artifact. If an artifact you controlled was destroyed this way, Engineer 3. [i](Put three +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Deliah Jui, Famed Crafter
+rules_text: Whenever one or more artifacts enter the battlefield under your control, put a +1/+1 counter on Deliah.
+Whenever Deliah dies, you may engineer X, where X is the number of counters on her. [i](Put X +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Whenever one or more artifacts enter the battlefield under your control, put a +1/+1 counter on Deliah.
+Whenever Deliah dies, you may engineer X, where X is the number of counters on her. [i](Put X +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Synthetic Nest
+
+Synthesize Flora
+rules_text: Choose one—
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Surveil 2.
+• Engineer 1. Untap that artifact. [i](Put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i]
+Entwine {1}{G} [i](Choose all if you pay the entwine cost.)[/i] => Choose one—
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Surveil 2.
+• Engineer 1. Untap that artifact. [i](Put a +1/+1 counter on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+Entwine {2} [i](Choose all if you pay the entwine cost.)[/i]
+
+Dawn of Courage
+type: Enchantment => Legendary Enchantment
+rules_text: Whenever you attack with two or more creatures, draw a card.
+[i][i]Restless[/i]— [/i]At the beginning of each combat, if a card left your graveyard this turn, you may have this enchantment become a 3/3 Spirit Angel with flying and vigilance in addition to its other types until end of turn.
+{1}{W}: Exile target card from a graveyard. => Whenever you attack with two or more creatures, draw a card.
+[i][i]Restless[/i]— [/i]At the beginning of each combat, if a card left your graveyard this turn, you may have this enchantment become a 2/3 Spirit Angel with flying and vigilance in addition to its other types until end of turn.
+{1}{W}: Exile target card from a graveyard.
+
+Triumph of Justice
+
+Dragonflame Blade
+rules_text: When this equipment enters, create a colorless 1/1 Spirit creature token. Then this equipment deals damage equal to the number of creatures you control to any target. 
+Equipped creature gets +3/+2 and has first strike and menace.
+Equip {R}{W} => When this equipment enters, create two colorless 1/1 Spirit creature tokens. Then this equipment deals damage equal to the number of creatures you control to any target. 
+Equipped creature gets +3/+2 and has first strike and menace.
+Equip {R}{W}
+
+Paradox Abduction
+rules_text: Gain control of target artifact or creature with mana value X or less. It's an artifact in addition to its other types.
+Engineer X. [i](Put X +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Gain control of target artifact or creature with mana value X or less. It's an artifact in addition to its other types.
+Engineer X. [i](Put X +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Melodious Astronomer
+rules_text: Flying, vigilance
+{6}{U}, Sacrifice this creature: Draw three cards. This ability costs {1} less to activate for each artifact you control. => Flying, vigilance
+{7}{U}, Sacrifice this creature: Draw three cards. This ability costs {1} less to activate for each artifact you control.
+
+Specimen Collection
+
+Forsaken Prophet
+rules_text: Ward—Discard a card.
+[i][i]Restless[/i]—[/i]Whenever this creature deals combat damage to a player, if a card left your graveyard this turn, that player loses half their life, rounded up.
+Disturb {5}{B}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Ward—Discard a card.
+[i][i]Restless[/i]—[/i]Whenever this creature deals combat damage to a player, if a card left your graveyard this turn, that player loses half their life, rounded up.
+Disturb {6}{B}{B} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Order's Firebird
+rules_text: Flying
+Whenever you create one or more tokens, you may pay {1}{R}. If you do, return this card from your graveyard to the battlefield. It gains haste until end of turn. => Flying, haste
+Whenever you create one or more tokens, you may pay {R}. If you do, return this card from your graveyard to the battlefield.
+pt: 3/2 => 2/2
+
+Weaver of Corruption
+rules_text: At the beginning of combat on your turn, put a +1/+1 counter on target Incubator or creature.
+Whenever a permanent you control transforms, double the number of +1/+1 counters on that permanent. => At the beginning of combat on your turn, put a +1/+1 counter on target Incubator or creature.
+Whenever a permanent you control transforms or enters transformed, double the number of each kind of counter on that permanent.
+
+Vhewter Grovetender
+rules_text: Vigilance, reach
+Whenever a nontoken creature enters under your control, Incubate Plants 2. Then if that creature entered transformed, put a +1/+1 counter on each Incubator and each transformed creature you control. [i](To Incubate Plants 2, Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i] => When this creature enters, incubate Plants 2. [i](Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Plant artifact creature.)[/i]
+Whenever a permanent you control transforms or enters transformed, look at the top four cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in any order.
+pt: 2/4 => 2/3
+
+Vhewter Spymaster
+pt: 1/1 => 2/1
+
+Moon-Blessed Cultist
+rules_text: Deathtouch
+[i][i]Restless[/i]— [/i]At the beginning of each end step, if a card left your graveyard this turn, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. => [i]Restless[/i]— As long as a card left your graveyard this turn, this creature has lifelink.
+At the beginning of your end step, reveal the top card of your library and put that card into your hand. This creature deals damage to you equal to that card's mana value.
+pt: 3/2 => 3/3
+
+Nedrulean Tinkerer
+rules_text: When this creature enters, you may discard a card. If you do, draw a card. If you discarded an artifact card this way, draw two cards instead.
+{R}, {T}, Sacrifice an artifact: Engineer 3. Activate only as a sorcery. [i](Put three +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => When this creature enters, you may discard a card. If you do, draw a card. If you discarded an artifact card this way, draw two cards instead.
+{R}, {T}, Sacrifice an artifact: Engineer 3. Activate only as a sorcery. [i](Put three +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Awakener of the Accursed
+rules_text: When this creature enters, put a +1/+1 counter on each of up to two target creatures.
+[i][i]Restless[/i]—[/i]Whenever one or more cards leave your graveyard, you gain 1 life. This ability triggers only once per turn. => When this creature enters, you mill three cards and you gain 3 life.
+[i][i]Restless[/i]—[/i]Whenever one or more cards leave your graveyard, creatures you control get +1/+1 until end of turn. This ability triggers only once per turn.
+
+Unrelenting Corpse
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+At the beginning of your end step, if this card is in exile, you may pay 1 life. If you do, put it into your graveyard.
+Onslaught {WB} [i]({WB}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => This creature can't be blocked by creatures with power 3 or greater.
+At the beginning of your end step, if this card is in exile, you may pay 1 life. If you do, put it into your graveyard.
+Onslaught {WB} [i]({WB}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Construction Bay
+rules_text: Whenever this artifact or another nontoken artifact you control enters, put a +1/+1 counter on both of those artifacts. [i](Just put one counter on this artifact when it enters.)[/i]
+{T}, Remove X +1/+1 counters from this artifact: Engineer X. Activate only as a sorcery. [i](Put X +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Whenever this artifact or another nontoken artifact you control enters, put a +1/+1 counter on both of those artifacts. [i](Just put one counter on this artifact when it enters.)[/i]
+{T}, Remove X +1/+1 counters from this artifact: Engineer X. Activate only as a sorcery. [i](Put X +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Yuing, Order's Preacher
+cost: {3}{U}{R}{W} => {2}{U}{R}{W}
+pt: 3/5 => 3/4
+
+Sinoas, Syndicate Blade
+rules_text: First strike, deathtouch
+When Sinoas enters, Incubate Horrors 2. Put a flying counter on each Incubator and transformed creature you control. [i](Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+Disturb {3}{B}{G}{U} => First strike, deathtouch
+When Sinoas enters, Incubate Horrors 2. Put a flying counter on each Incubator and transformed creature you control without flying. [i](Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+Disturb {3}{B}{G}{U}
+
+Professor Sona
+rules_text: Artifact creatures you control have trample.
+Whenever you cast your first artifact spell each turn, create a 1/1 red Artificer creature token with “{T}: Engineer 1. Activate only a sorcery.” [i](To Engineer 1, put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i] => Artifact creatures you control have trample.
+Whenever you cast your first artifact spell each turn, create a 1/1 red Artificer creature token with “{T}: Engineer 1. Activate only a sorcery.” [i](To Engineer 1, put a +1/+1 counter on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Bloom Anew
+rules_text: Return target permanent card with mana value less than or equal to the number of permanents you control from your graveyard to the battlefield tapped. => Return target permanent card with mana value less than or equal to the number of permanents you control from your graveyard to the battlefield.
+
+Granite Sentinel
+type: Artifact — Vehicle => Artifact Creature — Construct
+cost: {1} => {2}
+rules_text: Whenever this Vehicle deals combat damage to a player, you may sacrifice it, If you do, destroy target artifact or enchantment.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this creature deals combat damage to a player, you may sacrifice it, If you do, destroy target artifact or enchantment.
+pt: 2/3 => 2/2
+
+Deserted Mortuary
+rules_text: If a card would be put into an opponent's graveyard from that player's hand or library, exile that card instead.
+{1}, Sacrifice this artifact: Exile target card from a graveyard. Draw a card. => If a card would be put into an opponent's graveyard from anywhere other than the battlefield, exile that card instead.
+{1}, Sacrifice this artifact: Exile target card from a graveyard. Draw a card.
+
+Sealed Gateway
+
+Soulcaller's Sanctuary
+rules_text: {T}: Add {C}.
+{3}, {T}, Pay 1 life: Create a 1/1 colorless Spirit creature token.
+{3}, {T}: Draw a card. Activate only if you control three or more basic lands. => {T}: Add one mana of any color among basic lands you control.
+{3}, {T}, Pay 1 life: Choose one—
+• Create a colorless 1/1 Spirit creature token.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Veles, Order Initiate
+type: Legendary Creature — Dwarf Citizen => Legendary Creature — Dwarf Soldier
+rules_text: As Veles enters, choose a card name. 
+Spells your opponents cast with the chosen name cost {3} more to cast.
+{3}{U}{R}{W}: The next time Veles would die this turn, exile her instead. When you do, create Veles, Justice Restored, a legendary 5/5 blue, red, and white Spirit Angel creature token with flying, vigilance, double strike, and haste. Activate only as a sorcery. => As Veles enters, choose a card name. 
+Spells your opponents cast with the chosen name cost {3} more to cast.
+{4}{U}{R}{W}: Exile Veles, then return her to the battlefield transformed. Activate only as a sorcery.
+
+The Genesis Engine
+type: Legendary Artifact — Vehicle => Legendary Artifact Creature — Construct
+rules_text: Trample
+When The Genesis Engine enters or attacks, draw a card, then you may put a permanent card from your hand onto the battlefield. You may have that permanent enter as a 4/4 Golem artifact creature.
+Crew 6 => Trample
+When The Genesis Engine enters or attacks, draw a card, then you may put a permanent card from your hand onto the battlefield. You may have that permanent enter as a 4/4 Golem artifact creature.
+
+Spectral Pontiff
+
+Tinker the Design
+rules_text: As an additional cost to cast this spell, discard a card and/or sacrifice an artifact.
+Draw two cards. If you paid both additional costs, Engineer 2. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => As an additional cost to cast this spell, discard a card and/or sacrifice an artifact.
+Draw two cards. If you paid both additional costs, Engineer 2. [i](Put two +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Nedrulean Architect
+rules_text: When this creature enters, engineer 2. [i](Put 2 +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i]
+Whenever an artifact enters under your control, surveil 1. => When this creature enters, engineer 2. [i](Put two +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+Whenever an artifact you control enters, surveil 1.
+
+Goblin Reiterator
+cost: {2}{U}{R} => {1}{U}{R}
+pt: 3/3 => 2/2
+
+Nedrulean Charm
+rules_text: Choose one—
+• Exile the top two cards of your library. You may play them until the end of your next turn.
+• Create two tapped Treasure tokens.
+• Engineer 3. [i](Put three +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Choose one—
+• Exile the top two cards of your library. You may play them until the end of your next turn.
+• Create two tapped Treasure tokens.
+• Engineer 3. [i](Put three +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Vhewter Charm
+rules_text: Choose one—
+• Target creature you control deals damage equal to its power to target creature you don't control.
+• Put a +1/+1 counter on each Incubator and each transformed creature you control.
+• Incubate Horrors 1, then transform each Incubator you control. [i](Create an Incubator token with a +1/+1 counter on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i] => Choose one—
+• Destroy target creature with mana value 3 or less.
+• Until end of turn, creatures can't be the target of spells or abilities your opponent's control.
+• Incubate Horrors 2, then transform each Incubator you control. [i](Create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+
+Ochiro's Charm
+rules_text: Choose one—
+• Remove all counters from target permanent.
+• Discard two cards, then draw two cards.
+• Creatures you control gain menace and haste until end of turn. => Choose one—
+• Exile target nonland permanent with a counter on it.
+• Discard two cards, then draw two cards.
+• Creatures you control gain menace and haste until end of turn.
+
+Charm of the Wild
+rules_text: Choose one—
+• Return target permanent card from your graveyard to your hand.
+• Exile target artifact or enchantment.
+• Target creature gets +1/+1 and can't be the target of spells of abilities your opponents control until end of turn. => Choose one—
+• Return target permanent card from your graveyard to your hand.
+• Exile target artifact or enchantment.
+• Target creature you control deals damage equal to its power to target creature you don't control.
+
+Dragonfire Cannon
+rules_text: When this equipment enters, it deals 2 damage to any target.
+Equipped creature has +2/+1.
+Equip {3}
+{5}, Exile a red card from your graveyard: Transform this artifact. Activate only as a sorcery. => When this equipment enters, it deals 2 damage to any target.
+Equipped creature has +2/+2.
+Equip {3}
+{5}, Exile a red card from your graveyard: Transform this artifact. Activate only as a sorcery.
+
+Fanged Helm
+
+Thrown into the Forge
+rules_text: Choose one
+• This spell deals 4 damage to target creature.
+• Engineer 2. That artifact gains haste. [i](Put two +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => Choose one
+• This spell deals 4 damage to target creature.
+• Engineer 2. That artifact gains haste. [i](Put two +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Artificer
+rules_text: {T}: Engineer 1. Activate only as a sorcery. [i](Put a +1/+1 counter on an artifact you control. It becomes an artifact creature.)[/i] => {T}: Engineer 1. Activate only as a sorcery. [i](Put a +1/+1 counter on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Incubator
+
+Incubator
+
+Adventurous Artificer
+rules_text: When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+{2}{G}{G}, Sacrifice this creature: Engineer X, where X is the greatest power among other creatures you control. [i](Put X +1/+1 counters on an artifact you control. It becomes an artifact creature.)[/i] => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{2}{G}, Sacrifice this creature: Engineer X, where X is the greatest power among other creatures you control. [i](Put X +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+
+VERSION 11 CHANGELOG
 ====================
 
 No changes.
