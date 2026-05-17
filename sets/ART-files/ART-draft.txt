@@ -1,0 +1,1737 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW01 Creative Conjurer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/1_CW01 Creative Conjurer.png"
+			}
+		},
+		{
+			"name": "CW02 Searcher of Horizons",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/2_CW02 Searcher of Horizons.png"
+			}
+		},
+		{
+			"name": "CW03 Levitation Mage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/3_CW03 Levitation Mage.png"
+			}
+		},
+		{
+			"name": "CW04 Valiant Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/4_CW04 Valiant Guardian.png"
+			}
+		},
+		{
+			"name": "CW05 Adventurous Lancer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/5_CW05 Adventurous Lancer.png"
+			}
+		},
+		{
+			"name": "CW06 Noble Quickblade",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Construct Noble Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/6_CW06 Noble Quickblade.png"
+			}
+		},
+		{
+			"name": "CW07 Lunarlight Owl",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/7_CW07 Lunarlight Owl.png"
+			}
+		},
+		{
+			"name": "CW08 Feline Mesmer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/8_CW08 Feline Mesmer.png"
+			}
+		},
+		{
+			"name": "CW09 Paintcart Workhorse",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Horse",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/9_CW09 Paintcart Workhorse.png"
+			}
+		},
+		{
+			"name": "CW10 Crafttown Guard",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Construct Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/10_CW10 Crafttown Guard.png"
+			}
+		},
+		{
+			"name": "CW11 Inspiring Soldier",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Construct Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/11_CW11 Inspiring Soldier.png"
+			}
+		},
+		{
+			"name": "CW12 Angel of Temperance",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Construct Angel",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/12_CW12 Angel of Temperance.png"
+			}
+		},
+		{
+			"name": "CW13 Sunlight Muse",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Enchhantment Creature — Pegaus",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/13_CW13 Sunlight Muse.png"
+			}
+		},
+		{
+			"name": "CW14 Solar Raze",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/14_CW14 Solar Raze.png"
+			}
+		},
+		{
+			"name": "CW16 Liquify",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/16_CW16 Liquify.png"
+			}
+		},
+		{
+			"name": "CW18 Starlight Crown",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/18_CW18 Starlight Crown.png"
+			}
+		},
+		{
+			"name": "CW17 The Prismatic Reunion",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/17_CW17 The Prismatic Reunion.png"
+			}
+		},
+		{
+			"name": "CU01 Brushstroke Starling",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/20_CU01 Brushstroke Starling.png"
+			}
+		},
+		{
+			"name": "CU02 Weary Traveller",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bear Construct Scout",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/21_CU02 Weary Traveller.png"
+			}
+		},
+		{
+			"name": "CU03 Venturing Vagrants",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/22_CU03 Venturing Vagrants.png"
+			}
+		},
+		{
+			"name": "CU05 Creative Convoy",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/24_CU05 Creative Convoy.png"
+			}
+		},
+		{
+			"name": "CU04 Illuminating Merchant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Construct Citizen",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/23_CU04 Illuminating Merchant.png"
+			}
+		},
+		{
+			"name": "CU06 Soaring Swan",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/25_CU06 Soaring Swan.png"
+			}
+		},
+		{
+			"name": "CU09 Migrating Herd",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Bison",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/28_CU09 Migrating Herd.png"
+			}
+		},
+		{
+			"name": "CU10 Moment of Levity",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/29_CU10 Moment of Levity.png"
+			}
+		},
+		{
+			"name": "CU11 Spelltide Denial",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/30_CU11 Spelltide Denial.png"
+			}
+		},
+		{
+			"name": "CU12 Abstract Essence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/31_CU12 Abstract Essence.png"
+			}
+		},
+		{
+			"name": "CU13 Frigid Flare",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/32_CU13 Frigid Flare.png"
+			}
+		},
+		{
+			"name": "CU14 Lost at Sea",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/33_CU14 Lost at Sea.png"
+			}
+		},
+		{
+			"name": "CU16 Starlight Discovery",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/35_CU16 Starlight Discovery.png"
+			}
+		},
+		{
+			"name": "CU17 Tidal Totem",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "36",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/ART-files/img/36_CU17 Tidal Totem_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/36_CU17 Tidal Totem_front.png"
+			}
+		},
+		{
+			"name": "CU18 The Draconic Dawn",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/37_CU18 The Draconic Dawn.png"
+			}
+		},
+		{
+			"name": "CB01 Speaker of the Shadelands",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Construct Warlock",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/39_CB01 Speaker of the Shadelands.png"
+			}
+		},
+		{
+			"name": "CB02 Inklands Delver",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elder Construct Scout",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/40_CB02 Inklands Delver.png"
+			}
+		},
+		{
+			"name": "CB03 Blighted Inkling",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Inkling Rat",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/41_CB03 Blighted Inkling.png"
+			}
+		},
+		{
+			"name": "CB04 Blade of the Dark Brush",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Construct Knight",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/42_CB04 Blade of the Dark Brush.png"
+			}
+		},
+		{
+			"name": "CB05 Onyx Cockatrice",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Inkling Bird",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/43_CB05 Onyx Cockatrice.png"
+			}
+		},
+		{
+			"name": "CB06 Ambusher Scorpion",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Scorpion",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/44_CB06 Ambusher Scorpion.png"
+			}
+		},
+		{
+			"name": "CB07 Blightsea Nautilis",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Inkling Nautilus",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/45_CB07 Blightsea Nautilis.png"
+			}
+		},
+		{
+			"name": "CB08 Craftwork Zealot",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Construct Warlock",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/46_CB08 Craftwork Zealot.png"
+			}
+		},
+		{
+			"name": "CB09 Scavenging Hawk",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "47",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/ART-files/img/47_CB09 Scavenging Hawk_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/47_CB09 Scavenging Hawk_front.png"
+			}
+		},
+		{
+			"name": "CB10 Inklands Demon",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Inkling Demon",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/48_CB10 Inklands Demon.png"
+			}
+		},
+		{
+			"name": "CB11 Extract Inspiration",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/49_CB11 Extract Inspiration.png"
+			}
+		},
+		{
+			"name": "CB12 Inkbulb Sprout",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact — Ink",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/50_CB12 Inkbulb Sprout.png"
+			}
+		},
+		{
+			"name": "CB13 Vanquish of the Venomous",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/51_CB13 Vanquish of the Venomous.png"
+			}
+		},
+		{
+			"name": "CB14 Vivid Rebirth",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/52_CB14 Vivid Rebirth.png"
+			}
+		},
+		{
+			"name": "CB15 Dungeon Looting",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/53_CB15 Dungeon Looting.png"
+			}
+		},
+		{
+			"name": "CB16 Spiraling Blight",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/ART-files/img/54_CB16 Spiraling Blight_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/54_CB16 Spiraling Blight_front.png"
+			}
+		},
+		{
+			"name": "CB17 Diabolic Idea",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/55_CB17 Diabolic Idea.png"
+			}
+		},
+		{
+			"name": "CB18 Wrath of the Incomplete",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/56_CB18 Wrath of the Incomplete.png"
+			}
+		},
+		{
+			"name": "CR01 Novice Pyromancer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Construct Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/58_CR01 Novice Pyromancer.png"
+			}
+		},
+		{
+			"name": "CR02 Lightning Roller",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Servo",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/59_CR02 Lightning Roller.png"
+			}
+		},
+		{
+			"name": "CR03 Bullheaded Goblin",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/60_CR03 Bullheaded Goblin.png"
+			}
+		},
+		{
+			"name": "CR04 Pathblaze Crusader",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Construct Warrior",
+			"collector_number": "61",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/ART-files/img/61_CR04 Pathblaze Crusader_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/61_CR04 Pathblaze Crusader_front.png"
+			}
+		},
+		{
+			"name": "CR08 Violent Idol",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/65_CR08 Violent Idol.png"
+			}
+		},
+		{
+			"name": "CR06 Outskirts Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct Archer Scout",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/63_CR06 Outskirts Archer.png"
+			}
+		},
+		{
+			"name": "CR07 Intrepid Improviser",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/64_CR07 Intrepid Improviser.png"
+			}
+		},
+		{
+			"name": "CR05 Abstract Artisan",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Construct Artificer",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/62_CR05 Abstract Artisan.png"
+			}
+		},
+		{
+			"name": "CR09 Spearmaster Goblin",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/66_CR09 Spearmaster Goblin.png"
+			}
+		},
+		{
+			"name": "CR10 Paperscale Dragon",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/67_CR10 Paperscale Dragon.png"
+			}
+		},
+		{
+			"name": "CR11 Forced Folding",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "68",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/ART-files/img/68_CR11 Forced Folding_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/68_CR11 Forced Folding_front.png"
+			}
+		},
+		{
+			"name": "CR12 Corrupt Writings",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Ink",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/69_CR12 Corrupt Writings.png"
+			}
+		},
+		{
+			"name": "CR13 Demand Answers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/70_CR13 Demand Answers.png"
+			}
+		},
+		{
+			"name": "CR14 Exquisite Dragonfire",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/71_CR14 Exquisite Dragonfire.png"
+			}
+		},
+		{
+			"name": "CR17 Unraveling Vortex",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/74_CR17 Unraveling Vortex.png"
+			}
+		},
+		{
+			"name": "CR18 Wildfire Meeting",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/75_CR18 Wildfire Meeting.png"
+			}
+		},
+		{
+			"name": "CR19 Expressive Genesis",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/76_CR19 Expressive Genesis.png"
+			}
+		},
+		{
+			"name": "CG02 Vibrant Stag",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/78_CG02 Vibrant Stag.png"
+			}
+		},
+		{
+			"name": "CG01 Forest Nurturer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Construct Druid",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/77_CG01 Forest Nurturer.png"
+			}
+		},
+		{
+			"name": "CG03 Wildland Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/79_CG03 Wildland Explorer.png"
+			}
+		},
+		{
+			"name": "CG04 Lunging Lizards",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/80_CG04 Lunging Lizards.png"
+			}
+		},
+		{
+			"name": "CG05 Craftfolk Gatherer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Construct Druid Scout",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/81_CG05 Craftfolk Gatherer.png"
+			}
+		},
+		{
+			"name": "CG06 Scenic Shrub",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/82_CG06 Scenic Shrub.png"
+			}
+		},
+		{
+			"name": "CG10 (placeholder)",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast Scout",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/86_CG10 (placeholder).png"
+			}
+		},
+		{
+			"name": "CG08 Kidnapper Arachnid",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/84_CG08 Kidnapper Arachnid.png"
+			}
+		},
+		{
+			"name": "CG07 Wildglade Tender",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Construct Druid Scout",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/83_CG07 Wildglade Tender.png"
+			}
+		},
+		{
+			"name": "CG11 Riverland Explorer",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Otter Scout",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/87_CG11 Riverland Explorer.png"
+			}
+		},
+		{
+			"name": "CG09 Slippery Sludge",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/85_CG09 Slippery Sludge.png"
+			}
+		},
+		{
+			"name": "CG12 Belligerent Burrower",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/88_CG12 Belligerent Burrower.png"
+			}
+		},
+		{
+			"name": "CG13 Sculpted Sting",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/89_CG13 Sculpted Sting.png"
+			}
+		},
+		{
+			"name": "CG14 Caustic Wellspring",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/90_CG14 Caustic Wellspring.png"
+			}
+		},
+		{
+			"name": "CG15 Arboreal Armor",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/91_CG15 Arboreal Armor.png"
+			}
+		},
+		{
+			"name": "CG16 Grasp of Vines",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/92_CG16 Grasp of Vines.png"
+			}
+		},
+		{
+			"name": "CG18 Festive Fangs",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/94_CG18 Festive Fangs.png"
+			}
+		},
+		{
+			"name": "CU08 Craftwork Delver",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/27_CU08 Craftwork Delver.png"
+			}
+		},
+		{
+			"name": "UM01 Artful Aeronaut",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Construct Knight",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/96_UM01 Artful Aeronaut.png"
+			}
+		},
+		{
+			"name": "UM01 Deathmark Ritualist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Construct Shaman",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/99_UM01 Deathmark Ritualist.png"
+			}
+		},
+		{
+			"name": "UM01 Dark Brush Warrider",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Goblin",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/98_UM01 Dark Brush Warrider.png"
+			}
+		},
+		{
+			"name": "UM01 Vividmane Prowler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Cat Beast",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/104_UM01 Vividmane Prowler.png"
+			}
+		},
+		{
+			"name": "UM01 Curious Fawn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elk",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/97_UM01 Curious Fawn.png"
+			}
+		},
+		{
+			"name": "UM01 Fallen Orator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Construct Warlock",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/100_UM01 Fallen Orator.png"
+			}
+		},
+		{
+			"name": "UM01 Regal Raven",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Bird Noble",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/102_UM01 Regal Raven.png"
+			}
+		},
+		{
+			"name": "UM01 Fang of the Inklands",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Inklkng Wolf",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/101_UM01 Fang of the Inklands.png"
+			}
+		},
+		{
+			"name": "UM01 Young Adventurer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Warrior Scout",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/105_UM01 Young Adventurer.png"
+			}
+		},
+		{
+			"name": "UM01 Veteran Scoutmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Bird Scout",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/103_UM01 Veteran Scoutmaster.png"
+			}
+		},
+		{
+			"name": "CA01 Exotic Vial",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Ink",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/106_CA01 Exotic Vial.png"
+			}
+		},
+		{
+			"name": "CA02 Runic Recollector",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/107_CA02 Runic Recollector.png"
+			}
+		},
+		{
+			"name": "CA03 Gilded Jay",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/108_CA03 Gilded Jay.png"
+			}
+		},
+		{
+			"name": "CA04 Satchel of Energization",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/109_CA04 Satchel of Energization.png"
+			}
+		},
+		{
+			"name": "CA05 Boxshield Guardian",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem Soldier",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/110_CA05 Boxshield Guardian.png"
+			}
+		},
+		{
+			"name": "CL01 Prismatic Cliff",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/111_CL01 Prismatic Cliff.png"
+			}
+		},
+		{
+			"name": "CR15 Swift Brew",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Ink",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/72_CR15 Swift Brew.png"
+			}
+		},
+		{
+			"name": "CG17 Mystical Stream",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/93_CG17 Mystical Stream.png"
+			}
+		},
+		{
+			"name": "CG19 Guide to the Horizons",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/95_CG19 Guide to the Horizons.png"
+			}
+		},
+		{
+			"name": "CL02 Precipice of Potential",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/112_CL02 Precipice of Potential.png"
+			}
+		},
+		{
+			"name": "CL05 Inferno Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/115_CL05 Inferno Falls.png"
+			}
+		},
+		{
+			"name": "CL04 Starlight Coast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/114_CL04 Starlight Coast.png"
+			}
+		},
+		{
+			"name": "CL09 Coastal Ridgeline",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/119_CL09 Coastal Ridgeline.png"
+			}
+		},
+		{
+			"name": "CL10 Sunken Mire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/120_CL10 Sunken Mire.png"
+			}
+		},
+		{
+			"name": "CL08 Inkland Marsh",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/118_CL08 Inkland Marsh.png"
+			}
+		},
+		{
+			"name": "CL07 Winding Path",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/117_CL07 Winding Path.png"
+			}
+		},
+		{
+			"name": "CL03 Frosted Lakefront",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/113_CL03 Frosted Lakefront.png"
+			}
+		},
+		{
+			"name": "CL06 Cinder Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/116_CL06 Cinder Forest.png"
+			}
+		},
+		{
+			"name": "CL12 Lush River",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/122_CL12 Lush River.png"
+			}
+		},
+		{
+			"name": "CL11 Sparse Prairie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/121_CL11 Sparse Prairie.png"
+			}
+		},
+		{
+			"name": "CW15 Sealed Away",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/15_CW15 Sealed Away.png"
+			}
+		},
+		{
+			"name": "CW19 Weights of Finality",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/19_CW19 Weights of Finality.png"
+			}
+		},
+		{
+			"name": "CU19 Ratify",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/38_CU19 Ratify.png"
+			}
+		},
+		{
+			"name": "CU15 Stuck In Place",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/34_CU15 Stuck In Place.png"
+			}
+		},
+		{
+			"name": "CB19 Dark Gift",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/57_CB19 Dark Gift.png"
+			}
+		},
+		{
+			"name": "Painting",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Saga",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/1_Painting.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/123_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/124_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/125_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/126_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/127_Forest.png"
+			}
+		},
+		{
+			"name": "Sketch",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/5_Sketch.png"
+			}
+		},
+		{
+			"name": "CU07 Wayward Relicspeaker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Construct Scout",
+			"collector_number": "26",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://megazumarill.github.io/sets/ART-files/img/26_CU07 Wayward Relicspeaker_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/26_CU07 Wayward Relicspeaker_front.png"
+			}
+		},
+		{
+			"name": "Drake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Drake",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/2_Drake.png"
+			}
+		},
+		{
+			"name": "Ink",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact — Ink",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/4_Ink.png"
+			}
+		},
+		{
+			"name": "CR16 Burn the City",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/73_CR16 Burn the City.png"
+			}
+		},
+		{
+			"name": "Black Lotus",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://megazumarill.github.io/sets/ART-files/img/3_Black Lotus.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+	4 UM01 Artful Aeronaut
+	4 UM01 Deathmark Ritualist
+	4 UM01 Dark Brush Warrider
+	4 UM01 Vividmane Prowler
+	4 UM01 Curious Fawn
+	4 UM01 Fallen Orator
+	4 UM01 Regal Raven
+	4 UM01 Fang of the Inklands
+	4 UM01 Young Adventurer
+	4 UM01 Veteran Scoutmaster
+[common(7)]
+	8 CW01 Creative Conjurer
+	8 CW02 Searcher of Horizons
+	8 CW03 Levitation Mage
+	8 CW04 Valiant Guardian
+	8 CW05 Adventurous Lancer
+	8 CW06 Noble Quickblade
+	8 CW07 Lunarlight Owl
+	8 CW08 Feline Mesmer
+	8 CW09 Paintcart Workhorse
+	8 CW10 Crafttown Guard
+	8 CW11 Inspiring Soldier
+	8 CW12 Angel of Temperance
+	8 CW13 Sunlight Muse
+	8 CW14 Solar Raze
+	8 CW16 Liquify
+	8 CW18 Starlight Crown
+	8 CW17 The Prismatic Reunion
+	8 CU01 Brushstroke Starling
+	8 CU02 Weary Traveller
+	8 CU03 Venturing Vagrants
+	8 CU05 Creative Convoy
+	8 CU04 Illuminating Merchant
+	8 CU06 Soaring Swan
+	8 CU09 Migrating Herd
+	8 CU10 Moment of Levity
+	8 CU11 Spelltide Denial
+	8 CU12 Abstract Essence
+	8 CU13 Frigid Flare
+	8 CU14 Lost at Sea
+	8 CU16 Starlight Discovery
+	8 CU17 Tidal Totem
+	8 CU18 The Draconic Dawn
+	8 CB01 Speaker of the Shadelands
+	8 CB02 Inklands Delver
+	8 CB03 Blighted Inkling
+	8 CB04 Blade of the Dark Brush
+	8 CB05 Onyx Cockatrice
+	8 CB06 Ambusher Scorpion
+	8 CB07 Blightsea Nautilis
+	8 CB08 Craftwork Zealot
+	8 CB09 Scavenging Hawk
+	8 CB10 Inklands Demon
+	8 CB11 Extract Inspiration
+	8 CB12 Inkbulb Sprout
+	8 CB13 Vanquish of the Venomous
+	8 CB14 Vivid Rebirth
+	8 CB15 Dungeon Looting
+	8 CB16 Spiraling Blight
+	8 CB17 Diabolic Idea
+	8 CB18 Wrath of the Incomplete
+	8 CR01 Novice Pyromancer
+	8 CR02 Lightning Roller
+	8 CR03 Bullheaded Goblin
+	8 CR04 Pathblaze Crusader
+	8 CR08 Violent Idol
+	8 CR06 Outskirts Archer
+	8 CR07 Intrepid Improviser
+	8 CR05 Abstract Artisan
+	8 CR09 Spearmaster Goblin
+	8 CR10 Paperscale Dragon
+	8 CR11 Forced Folding
+	8 CR12 Corrupt Writings
+	8 CR13 Demand Answers
+	8 CR14 Exquisite Dragonfire
+	8 CR17 Unraveling Vortex
+	8 CR18 Wildfire Meeting
+	8 CR19 Expressive Genesis
+	8 CG02 Vibrant Stag
+	8 CG01 Forest Nurturer
+	8 CG03 Wildland Explorer
+	8 CG04 Lunging Lizards
+	8 CG05 Craftfolk Gatherer
+	8 CG06 Scenic Shrub
+	8 CG10 (placeholder)
+	8 CG08 Kidnapper Arachnid
+	8 CG07 Wildglade Tender
+	8 CG11 Riverland Explorer
+	8 CG09 Slippery Sludge
+	8 CG12 Belligerent Burrower
+	8 CG13 Sculpted Sting
+	8 CG14 Caustic Wellspring
+	8 CG15 Arboreal Armor
+	8 CG16 Grasp of Vines
+	8 CG18 Festive Fangs
+	8 CU08 Craftwork Delver
+	8 CA01 Exotic Vial
+	8 CA02 Runic Recollector
+	8 CA03 Gilded Jay
+	8 CA04 Satchel of Energization
+	8 CA05 Boxshield Guardian
+	8 CL01 Prismatic Cliff
+	8 CR15 Swift Brew
+	8 CG17 Mystical Stream
+	8 CG19 Guide to the Horizons
+	8 CL02 Precipice of Potential
+	8 CL05 Inferno Falls
+	8 CL04 Starlight Coast
+	8 CL09 Coastal Ridgeline
+	8 CL10 Sunken Mire
+	8 CL08 Inkland Marsh
+	8 CL07 Winding Path
+	8 CL03 Frosted Lakefront
+	8 CL06 Cinder Forest
+	8 CL12 Lush River
+	8 CL11 Sparse Prairie
+	8 CW15 Sealed Away
+	8 CW19 Weights of Finality
+	8 CU19 Ratify
+	8 CU15 Stuck In Place
+	8 CB19 Dark Gift
+	8 CU07 Wayward Relicspeaker
+	8 CR16 Burn the City
+[foil(1)]
+	12 CW01 Creative Conjurer
+	12 CW02 Searcher of Horizons
+	12 CW03 Levitation Mage
+	12 CW04 Valiant Guardian
+	12 CW05 Adventurous Lancer
+	12 CW06 Noble Quickblade
+	12 CW07 Lunarlight Owl
+	12 CW08 Feline Mesmer
+	12 CW09 Paintcart Workhorse
+	12 CW10 Crafttown Guard
+	12 CW11 Inspiring Soldier
+	12 CW12 Angel of Temperance
+	12 CW13 Sunlight Muse
+	12 CW14 Solar Raze
+	12 CW16 Liquify
+	12 CW18 Starlight Crown
+	12 CW17 The Prismatic Reunion
+	12 CU01 Brushstroke Starling
+	12 CU02 Weary Traveller
+	12 CU03 Venturing Vagrants
+	12 CU05 Creative Convoy
+	12 CU04 Illuminating Merchant
+	12 CU06 Soaring Swan
+	12 CU09 Migrating Herd
+	12 CU10 Moment of Levity
+	12 CU11 Spelltide Denial
+	12 CU12 Abstract Essence
+	12 CU13 Frigid Flare
+	12 CU14 Lost at Sea
+	12 CU16 Starlight Discovery
+	12 CU17 Tidal Totem
+	12 CU18 The Draconic Dawn
+	12 CB01 Speaker of the Shadelands
+	12 CB02 Inklands Delver
+	12 CB03 Blighted Inkling
+	12 CB04 Blade of the Dark Brush
+	12 CB05 Onyx Cockatrice
+	12 CB06 Ambusher Scorpion
+	12 CB07 Blightsea Nautilis
+	12 CB08 Craftwork Zealot
+	12 CB09 Scavenging Hawk
+	12 CB10 Inklands Demon
+	12 CB11 Extract Inspiration
+	12 CB12 Inkbulb Sprout
+	12 CB13 Vanquish of the Venomous
+	12 CB14 Vivid Rebirth
+	12 CB15 Dungeon Looting
+	12 CB16 Spiraling Blight
+	12 CB17 Diabolic Idea
+	12 CB18 Wrath of the Incomplete
+	12 CR01 Novice Pyromancer
+	12 CR02 Lightning Roller
+	12 CR03 Bullheaded Goblin
+	12 CR04 Pathblaze Crusader
+	12 CR08 Violent Idol
+	12 CR06 Outskirts Archer
+	12 CR07 Intrepid Improviser
+	12 CR05 Abstract Artisan
+	12 CR09 Spearmaster Goblin
+	12 CR10 Paperscale Dragon
+	12 CR11 Forced Folding
+	12 CR12 Corrupt Writings
+	12 CR13 Demand Answers
+	12 CR14 Exquisite Dragonfire
+	12 CR17 Unraveling Vortex
+	12 CR18 Wildfire Meeting
+	12 CR19 Expressive Genesis
+	12 CG02 Vibrant Stag
+	12 CG01 Forest Nurturer
+	12 CG03 Wildland Explorer
+	12 CG04 Lunging Lizards
+	12 CG05 Craftfolk Gatherer
+	12 CG06 Scenic Shrub
+	12 CG10 (placeholder)
+	12 CG08 Kidnapper Arachnid
+	12 CG07 Wildglade Tender
+	12 CG11 Riverland Explorer
+	12 CG09 Slippery Sludge
+	12 CG12 Belligerent Burrower
+	12 CG13 Sculpted Sting
+	12 CG14 Caustic Wellspring
+	12 CG15 Arboreal Armor
+	12 CG16 Grasp of Vines
+	12 CG18 Festive Fangs
+	12 CU08 Craftwork Delver
+	6 UM01 Artful Aeronaut
+	6 UM01 Deathmark Ritualist
+	6 UM01 Dark Brush Warrider
+	6 UM01 Vividmane Prowler
+	6 UM01 Curious Fawn
+	6 UM01 Fallen Orator
+	6 UM01 Regal Raven
+	6 UM01 Fang of the Inklands
+	6 UM01 Young Adventurer
+	6 UM01 Veteran Scoutmaster
+	12 CA01 Exotic Vial
+	12 CA02 Runic Recollector
+	12 CA03 Gilded Jay
+	12 CA04 Satchel of Energization
+	12 CA05 Boxshield Guardian
+	12 CL01 Prismatic Cliff
+	12 CR15 Swift Brew
+	12 CG17 Mystical Stream
+	12 CG19 Guide to the Horizons
+	12 CL02 Precipice of Potential
+	12 CL05 Inferno Falls
+	12 CL04 Starlight Coast
+	12 CL09 Coastal Ridgeline
+	12 CL10 Sunken Mire
+	12 CL08 Inkland Marsh
+	12 CL07 Winding Path
+	12 CL03 Frosted Lakefront
+	12 CL06 Cinder Forest
+	12 CL12 Lush River
+	12 CL11 Sparse Prairie
+	12 CW15 Sealed Away
+	12 CW19 Weights of Finality
+	12 CU19 Ratify
+	12 CU15 Stuck In Place
+	12 CB19 Dark Gift
+	12 CU07 Wayward Relicspeaker
+	12 CR16 Burn the City
+[wildcard(1)]
+	6 CW01 Creative Conjurer
+	6 CW02 Searcher of Horizons
+	6 CW03 Levitation Mage
+	6 CW04 Valiant Guardian
+	6 CW05 Adventurous Lancer
+	6 CW06 Noble Quickblade
+	6 CW07 Lunarlight Owl
+	6 CW08 Feline Mesmer
+	6 CW09 Paintcart Workhorse
+	6 CW10 Crafttown Guard
+	6 CW11 Inspiring Soldier
+	6 CW12 Angel of Temperance
+	6 CW13 Sunlight Muse
+	6 CW14 Solar Raze
+	6 CW16 Liquify
+	6 CW18 Starlight Crown
+	6 CW17 The Prismatic Reunion
+	6 CU01 Brushstroke Starling
+	6 CU02 Weary Traveller
+	6 CU03 Venturing Vagrants
+	6 CU05 Creative Convoy
+	6 CU04 Illuminating Merchant
+	6 CU06 Soaring Swan
+	6 CU09 Migrating Herd
+	6 CU10 Moment of Levity
+	6 CU11 Spelltide Denial
+	6 CU12 Abstract Essence
+	6 CU13 Frigid Flare
+	6 CU14 Lost at Sea
+	6 CU16 Starlight Discovery
+	6 CU17 Tidal Totem
+	6 CU18 The Draconic Dawn
+	6 CB01 Speaker of the Shadelands
+	6 CB02 Inklands Delver
+	6 CB03 Blighted Inkling
+	6 CB04 Blade of the Dark Brush
+	6 CB05 Onyx Cockatrice
+	6 CB06 Ambusher Scorpion
+	6 CB07 Blightsea Nautilis
+	6 CB08 Craftwork Zealot
+	6 CB09 Scavenging Hawk
+	6 CB10 Inklands Demon
+	6 CB11 Extract Inspiration
+	6 CB12 Inkbulb Sprout
+	6 CB13 Vanquish of the Venomous
+	6 CB14 Vivid Rebirth
+	6 CB15 Dungeon Looting
+	6 CB16 Spiraling Blight
+	6 CB17 Diabolic Idea
+	6 CB18 Wrath of the Incomplete
+	6 CR01 Novice Pyromancer
+	6 CR02 Lightning Roller
+	6 CR03 Bullheaded Goblin
+	6 CR04 Pathblaze Crusader
+	6 CR08 Violent Idol
+	6 CR06 Outskirts Archer
+	6 CR07 Intrepid Improviser
+	6 CR05 Abstract Artisan
+	6 CR09 Spearmaster Goblin
+	6 CR10 Paperscale Dragon
+	6 CR11 Forced Folding
+	6 CR12 Corrupt Writings
+	6 CR13 Demand Answers
+	6 CR14 Exquisite Dragonfire
+	6 CR17 Unraveling Vortex
+	6 CR18 Wildfire Meeting
+	6 CR19 Expressive Genesis
+	6 CG02 Vibrant Stag
+	6 CG01 Forest Nurturer
+	6 CG03 Wildland Explorer
+	6 CG04 Lunging Lizards
+	6 CG05 Craftfolk Gatherer
+	6 CG06 Scenic Shrub
+	6 CG10 (placeholder)
+	6 CG08 Kidnapper Arachnid
+	6 CG07 Wildglade Tender
+	6 CG11 Riverland Explorer
+	6 CG09 Slippery Sludge
+	6 CG12 Belligerent Burrower
+	6 CG13 Sculpted Sting
+	6 CG14 Caustic Wellspring
+	6 CG15 Arboreal Armor
+	6 CG16 Grasp of Vines
+	6 CG18 Festive Fangs
+	6 CU08 Craftwork Delver
+	15 UM01 Artful Aeronaut
+	15 UM01 Deathmark Ritualist
+	15 UM01 Dark Brush Warrider
+	15 UM01 Vividmane Prowler
+	15 UM01 Curious Fawn
+	15 UM01 Fallen Orator
+	15 UM01 Regal Raven
+	15 UM01 Fang of the Inklands
+	15 UM01 Young Adventurer
+	15 UM01 Veteran Scoutmaster
+	6 CA01 Exotic Vial
+	6 CA02 Runic Recollector
+	6 CA03 Gilded Jay
+	6 CA04 Satchel of Energization
+	6 CA05 Boxshield Guardian
+	6 CL01 Prismatic Cliff
+	6 CR15 Swift Brew
+	6 CG17 Mystical Stream
+	6 CG19 Guide to the Horizons
+	6 CL02 Precipice of Potential
+	6 CL05 Inferno Falls
+	6 CL04 Starlight Coast
+	6 CL09 Coastal Ridgeline
+	6 CL10 Sunken Mire
+	6 CL08 Inkland Marsh
+	6 CL07 Winding Path
+	6 CL03 Frosted Lakefront
+	6 CL06 Cinder Forest
+	6 CL12 Lush River
+	6 CL11 Sparse Prairie
+	6 CW15 Sealed Away
+	6 CW19 Weights of Finality
+	6 CU19 Ratify
+	6 CU15 Stuck In Place
+	6 CB19 Dark Gift
+	6 CU07 Wayward Relicspeaker
+	6 CR16 Burn the City

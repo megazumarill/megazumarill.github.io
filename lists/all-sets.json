@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "ART",
+            "set_name": "Adventures in Reythul",
+            "formats": ""
+        },
+        {
             "set_code": "WOO",
             "set_name": "Waking of Orlige ",
             "formats": ""
