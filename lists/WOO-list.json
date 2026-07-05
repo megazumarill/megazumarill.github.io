@@ -606,7 +606,7 @@
         "set": "WOO"
     },
     {
-        "card_name": "Clockwork Familliar",
+        "card_name": "Clockwork Familiar",
         "number": 39,
         "shape": "normal",
         "set": "WOO"
@@ -1276,7 +1276,7 @@
         "set": "WOO"
     },
     {
-        "card_name": "Nedrulean Recruiter",
+        "card_name": "Shamanic Recruiter",
         "number": 231,
         "shape": "normal",
         "set": "WOO"
@@ -1333,7 +1333,7 @@
         "set": "WOO"
     },
     {
-        "card_name": "Neshai, Ochiro's Hand",
+        "card_name": "Neshai, Dragon's Hand",
         "number": 210,
         "shape": "normal",
         "set": "WOO"
@@ -1556,7 +1556,7 @@
         "set": "WOO"
     },
     {
-        "card_name": "Scapwork Venturer",
+        "card_name": "Scrapwork Venturer",
         "number": 249,
         "shape": "normal",
         "set": "WOO"

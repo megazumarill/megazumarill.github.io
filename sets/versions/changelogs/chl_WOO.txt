@@ -1,4 +1,119 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Shamanic Recruiter added.
+Clockwork Familiar added.
+Neshai, Dragon's Hand added.
+Scrapwork Venturer added.
+
+Nedrulean Recruiter removed.
+Clockwork Familliar removed.
+Neshai, Ochiro's Hand removed.
+Scapwork Venturer removed.
+
+Wary Bargainer
+
+Burn the City
+rules_text: This spell deals 2 damage to any target. If you created a token this turn, it deals 3 damage to that target instead. => This spell deals 2 damage to any target. If a token entered under your control this turn it deals 3 damage to that target instead.
+
+Angel of Binding
+rules_text: Flying
+When this creature enters, exile target artifact or creature an opponent controls until this creature leaves the battlefield.
+Onslaught {3}{W} [i]({3}{W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+Creatures your opponents control enter tapped.
+Onslaught {3}{W} [i]({3}{W}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 4/3 => 4/4
+
+Attuned with the Order
+rules_text: Enchant creature you control
+Enchanted creature gets +1/+1 and has lifelink and ward {1}.
+Whenever this enchantment is put into a graveyard from the battlefield, create a colorless 1/1 Spirit creature token. => Enchant creature you control
+Enchanted creature gets +1/+1 and has lifelink and ward {1}.
+Whenever this enchantment is put into a graveyard from the battlefield, create a 1/1 colorless Spirit creature token.
+
+Skeletal Siphoner
+rules_text: When this creature enters, mill three cards and lose 2 life. Then if this creature has a finality counter on it, return a card milled this way to your hand.
+Onslaught {2}{B} [i]({2}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => When this creature enters, mill three cards and lose 2 life. Then if this creature entered from a graveyard, return a card milled this way to your hand.
+Onslaught {2}{B} [i]({2}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Accursed Noble
+rules_text: Lifelink
+Whenever you put a finality counter on a permanent you control, you lose 1 life and create a tapped Treasure token.
+Onslaught {1}{B} [i]({1}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => Lifelink
+Whenever a creature you control enters, if it entered from a graveyard or was cast from a graveyard, you lose 1 life and create a tapped Treasure token.
+Onslaught {1}{B} [i]({1}{B}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+
+Mossclaimed Golem
+type: Artifact Creature — Construct => Artifact Creature — Golem
+rules_text: Vigilance
+When this creature enters, you may destroy target artifact. If an artifact you controlled was destroyed this way, Engineer 3. [i](Put three +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i] => Vigilance
+When this creature enters, you may destroy target artifact. If an artifact you controlled was destroyed this way, engineer 3. [i](Put three +1/+1 counters on an artifact you control. You may have it become a 0/0 artifact creature.)[/i]
+
+Corrupting Cascade
+cost: {2}{U} => {3}{U}
+rules_text: Return all attacking and all blocking creatures to their owner's hand.
+Each player Incubates Horrors X, where X is the number of creatures they controlled that left the battlefield this way. [i](They create an Incubator token with X +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i] => Return all attacking creatures to their owners hand.
+Incubate Horrors 3 [i](Create an Incubator token with three +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Horror artifact creature.)[/i]
+
+Unrelenting Recruit
+rules_text: Menace
+When this creature enters the battlefield attacking, if it's the first combat phase of the turn, untap all attacking creatures. They gain haste until end of turn. After this phase, there is an additional combat phase. 
+Onslaught {3}{R} [i]({3}{R}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i] => Menace
+Creatures you control have haste.
+When this creature enters the battlefield from a graveyard, untap each creature you control at the beginning of your next second main phase. There is an additional combat phase after that main phase.
+Onslaught {3}{R} [i]({3}{R}, Sacrifice an unblocked attacker: Return this creature from your graveyard to the battlefield tapped and attacking with a finality counter on it.)[/i]
+pt: 2/2 => 2/3
+
+Order's Firebird
+rules_text: Flying, haste
+Whenever you create one or more tokens, you may pay {R}. If you do, return this card from your graveyard to the battlefield. => Flying, haste
+Whenever one or more tokens enter under your control, you may pay {R}. If you do, return this card from your graveyard to the battlefield.
+
+Salvage Titan
+type: Artifact Creature — Golem Junk => Artifact Creature — Golem
+cost: {2}{R}{R} => {3}{R}{R}
+
+Constructive Wall Core
+rules_text: When this artifact enters, draw two cards, then discard a card unless you tap an untapped token you control. 
+{T}: Draw a card, then discard a card. Activate only if you created a token this turn. => When this artifact enters, draw two cards, then discard a card unless you tap an untapped token you control. 
+{T}: Draw a card, then discard a card. Activate only if a token entered under your control this turn.
+
+Bloom Anew
+rules_text: Return target permanent card with mana value less than or equal to the number of permanents you control from your graveyard to the battlefield. => Return target permanent card from your graveyard to your hand. Return that card to the battlefield instead if it has mana value less than or equal to the number of nonland permanents you control.
+
+Soulcaller's Sanctuary
+rules_text: {T}: Add one mana of any color among basic lands you control.
+{3}, {T}, Pay 1 life: Choose one—
+• Create a colorless 1/1 Spirit creature token.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i] => {T}: Add one mana of any color a basic land you control could produce
+{3}, {T}, Pay 1 life: Choose one—
+• Create a colorless 1/1 Spirit creature token.
+• Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Veles, Order Initiate
+rules_text: As Veles enters, choose a card name. 
+Spells your opponents cast with the chosen name cost {3} more to cast.
+{4}{U}{R}{W}: Exile Veles, then return her to the battlefield transformed. Activate only as a sorcery. => Your opponents can't cast spells from anywhere other than their hands.
+{4}{U}{R}{W}: Exile Veles, then return her to the battlefield transformed. Activate only as a sorcery.
+
+Ghonil, Essence Thief
+type: Legendary Creature — Horror Assasin => Legendary Creature — Horror Assassin
+
+Ochiro's Charm
+rules_text: Choose one—
+• Exile target nonland permanent with a counter on it.
+• Discard two cards, then draw two cards.
+• Creatures you control gain menace and haste until end of turn. => Choose one—
+• Exile target nonland permanent with a counter on it.
+• Discard two cards, then draw two cards.
+• Creatures you control gain menace until end of turn. Remove all finality counters from those creatures.
+
+Charm of the Wild
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Scrapyard Scavenger added.
