@@ -1,571 +1,961 @@
 ﻿[
     {
-        "card_name": "CW01 Creative Conjurer",
-        "number": 1,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU01 Brushstroke Starling",
-        "number": 20,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB01 Speaker of the Shadelands",
-        "number": 39,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR01 Novice Pyromancer",
-        "number": 58,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG01 Forest Nurturer",
-        "number": 77,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW02 Searcher of Horizons",
-        "number": 2,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU02 Weary Traveller",
-        "number": 21,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB02 Inklands Delver",
-        "number": 40,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR02 Lightning Roller",
-        "number": 59,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG02 Vibrant Stag",
-        "number": 78,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW03 Levitation Mage",
-        "number": 3,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU03 Venturing Vagrants",
-        "number": 22,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB03 Blighted Inkling",
-        "number": 41,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR03 Bullheaded Goblin",
-        "number": 60,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG03 Wildland Explorer",
-        "number": 79,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW04 Valiant Guardian",
-        "number": 4,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU04 Illuminating Merchant",
-        "number": 23,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB04 Blade of the Dark Brush",
-        "number": 42,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR04 Pathblaze Crusader",
-        "number": 61,
-        "shape": "transform double faced",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG04 Lunging Lizards",
-        "number": 80,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW05 Adventurous Lancer",
-        "number": 5,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU05 Creative Convoy",
-        "number": 24,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB05 Onyx Cockatrice",
-        "number": 43,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR05 Abstract Artisan",
-        "number": 62,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG05 Craftfolk Gatherer",
-        "number": 81,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW06 Noble Quickblade",
-        "number": 6,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU06 Soaring Swan",
-        "number": 25,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB06 Ambusher Scorpion",
-        "number": 44,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR06 Outskirts Archer",
-        "number": 63,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG06 Scenic Shrub",
-        "number": 82,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW07 Lunarlight Owl",
-        "number": 7,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU07 Wayward Relicspeaker",
-        "number": 26,
-        "shape": "transform double faced",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB07 Blightsea Nautilis",
-        "number": 45,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR07 Intrepid Improviser",
-        "number": 64,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG07 Wildglade Tender",
-        "number": 83,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW08 Feline Mesmer",
-        "number": 8,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU08 Craftwork Delver",
-        "number": 27,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB08 Craftwork Zealot",
-        "number": 46,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR08 Violent Idol",
-        "number": 65,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG08 Kidnapper Arachnid",
-        "number": 84,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW09 Paintcart Workhorse",
-        "number": 9,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU09 Migrating Herd",
-        "number": 28,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB09 Scavenging Hawk",
-        "number": 47,
-        "shape": "transform double faced",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR09 Spearmaster Goblin",
-        "number": 66,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG09 Slippery Sludge",
-        "number": 85,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW10 Crafttown Guard",
-        "number": 10,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU10 Moment of Levity",
-        "number": 29,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB10 Inklands Demon",
-        "number": 48,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR10 Paperscale Dragon",
-        "number": 67,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG10 (placeholder)",
-        "number": 86,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW11 Inspiring Soldier",
-        "number": 11,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU11 Spelltide Denial",
-        "number": 30,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB11 Extract Inspiration",
-        "number": 49,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR11 Forced Folding",
-        "number": 68,
-        "shape": "transform double faced",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG11 Riverland Explorer",
-        "number": 87,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW12 Angel of Temperance",
-        "number": 12,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU12 Abstract Essence",
-        "number": 31,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB12 Inkbulb Sprout",
-        "number": 50,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR12 Corrupt Writings",
-        "number": 69,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG12 Belligerent Burrower",
-        "number": 88,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW13 Sunlight Muse",
-        "number": 13,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU13 Frigid Flare",
+        "card_name": "UW01 Regal Pegasus",
         "number": 32,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CB13 Vanquish of the Venomous",
-        "number": 51,
-        "shape": "saga",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR13 Demand Answers",
-        "number": 70,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG13 Sculpted Sting",
-        "number": 89,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW14 Solar Raze",
-        "number": 14,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU14 Lost at Sea",
-        "number": 33,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB14 Vivid Rebirth",
-        "number": 52,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR14 Exquisite Dragonfire",
-        "number": 71,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CG14 Caustic Wellspring",
-        "number": 90,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CW15 Sealed Away",
-        "number": 15,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU15 Stuck In Place",
-        "number": 34,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB15 Dungeon Looting",
-        "number": 53,
-        "shape": "normal",
-        "set": "ART"
-    },
-    {
-        "card_name": "CR15 Swift Brew",
+        "card_name": "UU01 Horizon Sailor",
         "number": 72,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CG15 Arboreal Armor",
-        "number": 91,
+        "card_name": "UB01 Chimeric Omenkeeper",
+        "number": 112,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CW16 Liquify",
-        "number": 16,
+        "card_name": "UR01 Rugged Wanderer",
+        "number": 152,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CU16 Starlight Discovery",
-        "number": 35,
+        "card_name": "UG01 Clifftop Lookout",
+        "number": 192,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CB16 Spiraling Blight",
-        "number": 54,
-        "shape": "transform double faced",
+        "card_name": "UW02 Silverspear Rallier",
+        "number": 33,
+        "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CR16 Burn the City",
+        "card_name": "UU02 One with the Ink",
         "number": 73,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CG16 Grasp of Vines",
-        "number": 92,
+        "card_name": "UB02 Relentless Battle Lizard",
+        "number": 113,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CW17 The Prismatic Reunion",
-        "number": 17,
-        "shape": "saga",
-        "set": "ART"
-    },
-    {
-        "card_name": "CU17 Tidal Totem",
-        "number": 36,
-        "shape": "transform double faced",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB17 Diabolic Idea",
-        "number": 55,
+        "card_name": "UR02 Ironclad Brawler",
+        "number": 153,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CR17 Unraveling Vortex",
+        "card_name": "UG02 Dismantling Dino",
+        "number": 193,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW03 Winterland Walker",
+        "number": 34,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU03 Playful Hatchling",
         "number": 74,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CG17 Mystical Stream",
-        "number": 93,
+        "card_name": "UB03 Artificial Spinner",
+        "number": 114,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CW18 Starlight Crown",
-        "number": 18,
+        "card_name": "UR03 Ironcraft Sentinel",
+        "number": 154,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CU18 The Draconic Dawn",
-        "number": 37,
-        "shape": "saga",
-        "set": "ART"
-    },
-    {
-        "card_name": "CB18 Wrath of the Incomplete",
-        "number": 56,
+        "card_name": "UG03 Lamplight Wanderer",
+        "number": 194,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CR18 Wildfire Meeting",
+        "card_name": "UW04 Auroral Fox",
+        "number": 35,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU04 Tome of Construction",
         "number": 75,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CG18 Festive Fangs",
-        "number": 94,
+        "card_name": "UB04 Darkwing Moth",
+        "number": 115,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CW19 Weights of Finality",
-        "number": 19,
+        "card_name": "UR04 Sunset Blademaster",
+        "number": 155,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG04 Monumental Spinner",
+        "number": 195,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CU19 Ratify",
+        "card_name": "UW05 Requiem Sprite",
+        "number": 36,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU05 Flightcrafter Expert",
+        "number": 76,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB05 Rootdrinker Tarantula",
+        "number": 116,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR05 Improvising Raider",
+        "number": 156,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG05 Wildland Minstrel",
+        "number": 196,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW06 Banisher Canine",
+        "number": 37,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU06 Flattering Imitator",
+        "number": 77,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB06 Scrapyard Scavenger",
+        "number": 117,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR06 Trumpeting Chorus",
+        "number": 157,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG06 Messenger Fawn",
+        "number": 197,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW07 Reformed Inklander",
         "number": 38,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CB19 Dark Gift",
+        "card_name": "UU07 Crafted Cephalopod",
+        "number": 78,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB07 Inkdrinker",
+        "number": 118,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR07 Goldsphere Dragon",
+        "number": 158,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG07 Watercolor Stallion",
+        "number": 198,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW08 Twinblade Blessing",
+        "number": 39,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU08 Overeager Explorer",
+        "number": 79,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB08 Threads of Shadow",
+        "number": 119,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR08 Roiling Starstorm",
+        "number": 159,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG08 Discover Tranquility",
+        "number": 199,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW09 Dance in the Moonlight",
+        "number": 40,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU09 Release to the Wind",
+        "number": 80,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB09 Nightly Reaping",
+        "number": 120,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR09 Firelight Saber",
+        "number": 160,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG09 Floral Writhing",
+        "number": 200,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW10 Cosmic Blessing",
+        "number": 41,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU10 Disregard Derivity",
+        "number": 81,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB10 Cut Down",
+        "number": 121,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR10 Molten Rose",
+        "number": 161,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG10 Radiant Presence",
+        "number": 201,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW11 Searing Illumination",
+        "number": 42,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU11 Auroral Unmaking",
+        "number": 82,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB11 Mindlight Lantern",
+        "number": 122,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR11 Cosmic Spark",
+        "number": 162,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG11 Material Maximization",
+        "number": 202,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW12 Radiant Recreation",
+        "number": 43,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU12 Craftroot Relic",
+        "number": 83,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB12 Cover Decay",
+        "number": 123,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR12 Enraging Haze",
+        "number": 163,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG12 Mystical Stream",
+        "number": 203,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UW13 Clouded Construction",
+        "number": 44,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UU13 Feaster of Skies",
+        "number": 84,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UB13 Shadowy Guidestone",
+        "number": 124,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "UR13 Searing Wildfire",
+        "number": 164,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UG13 Flowering Heights",
+        "number": 204,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW01 Creative Conjurer",
+        "number": 5,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU01 Brushstroke Starling",
+        "number": 45,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB01 Speaker of the Shadelands",
+        "number": 85,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR01 Novice Pyromancer",
+        "number": 125,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG01 Forest Nurturer",
+        "number": 165,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW02 Searcher of Horizons",
+        "number": 6,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU02 Weary Traveller",
+        "number": 46,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB02 Inklands Delver",
+        "number": 86,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR02 Lightning Roller",
+        "number": 126,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG02 Vibrant Stag",
+        "number": 166,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW03 Levitation Mage",
+        "number": 7,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU03 Venturing Vagrants",
+        "number": 47,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB03 Blighted Inkling",
+        "number": 87,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR03 Bullheaded Goblin",
+        "number": 127,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG03 Wildland Explorer",
+        "number": 167,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW04 Valiant Guardian",
+        "number": 8,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU04 Illuminating Merchant",
+        "number": 48,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB04 Blade of the Dark Brush",
+        "number": 88,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR04 Pathblazer Captain",
+        "number": 128,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG04 Lunging Lizards",
+        "number": 168,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW05 Adventurous Lancer",
+        "number": 9,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU05 Creative Convoy",
+        "number": 49,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB05 Onyx Cockatrice",
+        "number": 89,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR05 Abstract Artisan",
+        "number": 129,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG05 Craftfolk Gatherer",
+        "number": 169,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW06 Noble Quickblade",
+        "number": 10,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU06 Soaring Swan",
+        "number": 50,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB06 Ambusher Scorpion",
+        "number": 90,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR06 Outskirts Archer",
+        "number": 130,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG06 Scenic Shrub",
+        "number": 170,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW07 Lunarlight Owl",
+        "number": 11,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU07 Wayward Relicspeaker",
+        "number": 51,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB07 Inkweaver Ambusher",
+        "number": 91,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR07 Intrepid Improviser",
+        "number": 131,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG07 Wildglade Tender",
+        "number": 171,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW08 Feline Mesmer",
+        "number": 12,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU08 Craftwork Delver",
+        "number": 52,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB08 Craftwork Zealot",
+        "number": 92,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR08 Ceramic Crusader",
+        "number": 132,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG08 Vibrant Webweaver",
+        "number": 172,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW09 Watercart Workhorse",
+        "number": 13,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU09 Migrating Herd",
+        "number": 53,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB09 Scavenging Hawk",
+        "number": 93,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR09 Spearmaster Goblin",
+        "number": 133,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG09 Slippery Sludge",
+        "number": 173,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW10 Crafttown Guard",
+        "number": 14,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU10 Moment of Levity",
+        "number": 54,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB10 Inklands Demon",
+        "number": 94,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR10 Paperscale Dragon",
+        "number": 134,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG10 Megafloral Crawler",
+        "number": 174,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW11 Inspiring Soldier",
+        "number": 15,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU11 Spelltide Denial",
+        "number": 55,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB11 Extract Inspiration",
+        "number": 95,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR11 Forced Folding",
+        "number": 135,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG11 Riverland Seamstress",
+        "number": 175,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW12 Angel of Temperance",
+        "number": 16,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU12 Abstract Essence",
+        "number": 56,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB12 Inkbulb Sprout",
+        "number": 96,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR12 Corrupt Writings",
+        "number": 136,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG12 Belligerent Burrower",
+        "number": 176,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW13 Sunlight Muse",
+        "number": 17,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU13 Mesmerizing Portrait (PH art)",
         "number": 57,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "CR19 Expressive Genesis",
-        "number": 76,
+        "card_name": "CB13 Vanquish of the Beast",
+        "number": 97,
+        "shape": "saga",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR13 Demand Answers",
+        "number": 137,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG13 Sculpted Sting",
+        "number": 177,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW14 Solar Raze",
+        "number": 18,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU14 Lost at Sea",
+        "number": 58,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB14 Vivid Rebirth",
+        "number": 98,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR14 Exquisite Dragonfire",
+        "number": 138,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG14 Caustic Wellspring",
+        "number": 178,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW15 Cardboard Cage",
+        "number": 19,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU15 Stuck In Place",
+        "number": 59,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB15 Snare the Fallen",
+        "number": 99,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR15 Swift Brew",
+        "number": 139,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG15 Arboreal Armor",
+        "number": 179,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW16 Liquify",
+        "number": 20,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU16 Starlight Discovery",
+        "number": 60,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB16 Spiraling Blight",
+        "number": 100,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR16 Burn the City",
+        "number": 140,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG16 Grasp of Vines",
+        "number": 180,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW17 The Prismatic Reunion",
+        "number": 21,
+        "shape": "saga",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU17 Tidal Totem",
+        "number": 61,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB17 Spin Possibility",
+        "number": 101,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR17 Unraveling Vortex",
+        "number": 141,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG17 Woodland Might",
+        "number": 181,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW18 Starlight Crown",
+        "number": 22,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU18 The Draconic Dawn",
+        "number": 62,
+        "shape": "saga",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB18 Wrath of the Incomplete",
+        "number": 102,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR18 Wildfire Meeting",
+        "number": 142,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CG18 Festive Fangs",
+        "number": 182,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CW19 Weights of Finality",
+        "number": 23,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CU19 Ratify",
+        "number": 63,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CB19 Dark Gift",
+        "number": 103,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "CR19 Inferno Genesis",
+        "number": 143,
         "shape": "saga",
         "set": "ART"
     },
     {
         "card_name": "CG19 Guide to the Horizons",
-        "number": 95,
+        "number": 183,
         "shape": "saga",
         "set": "ART"
     },
@@ -584,31 +974,61 @@
     "a->gold",
     {
         "card_name": "UM01 Artful Aeronaut",
-        "number": 96,
+        "number": 225,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "UM01 Deathmark Ritualist",
-        "number": 99,
+        "number": 229,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "UM01 Dark Brush Warrider",
-        "number": 98,
+        "number": 228,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "UM01 Vividmane Prowler",
-        "number": 104,
+        "number": 233,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "UM01 Curious Fawn",
-        "number": 97,
+        "number": 227,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Amethyst Sculptor",
+        "number": 235,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Composer of Fear",
+        "number": 239,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Shattered Relic",
+        "number": 243,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Artist's Charm",
+        "number": 238,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Tropical Revitalization",
+        "number": 244,
         "shape": "normal",
         "set": "ART"
     },
@@ -629,31 +1049,61 @@
     },
     {
         "card_name": "UM01 Fallen Orator",
-        "number": 100,
+        "number": 230,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "UM01 Regal Raven",
-        "number": 102,
+        "number": 231,
         "shape": "normal",
         "set": "ART"
     },
     {
-        "card_name": "UM01 Fang of the Inklands",
-        "number": 101,
+        "card_name": "UM01 Blighted Soulweaver",
+        "number": 226,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "UM01 Young Adventurer",
-        "number": 105,
+        "number": 234,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "UM01 Veteran Scoutmaster",
-        "number": 103,
+        "number": 232,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Antique Altar",
+        "number": 236,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Reimagine",
+        "number": 242,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Arachnid Blightiller",
+        "number": 237,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Marketplace Gathering",
+        "number": 241,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UM02 Know the Horizon",
+        "number": 240,
         "shape": "normal",
         "set": "ART"
     },
@@ -671,32 +1121,105 @@
     },
     "a->colorless",
     {
+        "card_name": "UA01 Shifting Beacon",
+        "number": 4,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UA02 Solemn Epitaph",
+        "number": 250,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UA03 Colorful Components",
+        "number": 251,
+        "shape": "transform double faced",
+        "set": "ART"
+    },
+    {
+        "card_name": "UA04 Wanderer's Staff",
+        "number": 252,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UA05 Horizon Ring",
+        "number": 253,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
         "card_name": "CA01 Exotic Vial",
-        "number": 106,
+        "number": 245,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CA02 Runic Recollector",
-        "number": 107,
+        "number": 246,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CA03 Gilded Jay",
-        "number": 108,
+        "number": 247,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CA04 Satchel of Energization",
-        "number": 109,
+        "number": 248,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CA05 Boxshield Guardian",
-        "number": 110,
+        "number": 249,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "UX03 Windswept Horizon",
+        "number": 278,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UX02 Icy Horizon",
+        "number": 277,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UX05 Tainted Horizon",
+        "number": 280,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UX01 Arid Horizon",
+        "number": 276,
+        "shape": "normal",
+        "set": "ART"
+    },
+    {
+        "card_name": "UX04 Wooded Horizon",
+        "number": 279,
         "shape": "normal",
         "set": "ART"
     },
@@ -717,31 +1240,31 @@
     },
     {
         "card_name": "CL03 Frosted Lakefront",
-        "number": 113,
+        "number": 256,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL04 Starlight Coast",
-        "number": 114,
+        "number": 257,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL05 Inferno Falls",
-        "number": 115,
+        "number": 258,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL06 Cinder Forest",
-        "number": 116,
+        "number": 259,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL07 Winding Path",
-        "number": 117,
+        "number": 260,
         "shape": "normal",
         "set": "ART"
     },
@@ -762,31 +1285,31 @@
     },
     {
         "card_name": "CL08 Inkland Marsh",
-        "number": 118,
+        "number": 261,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL09 Coastal Ridgeline",
-        "number": 119,
+        "number": 262,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL10 Sunken Mire",
-        "number": 120,
+        "number": 263,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL11 Sparse Prairie",
-        "number": 121,
+        "number": 264,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL12 Lush River",
-        "number": 122,
+        "number": 265,
         "shape": "normal",
         "set": "ART"
     },
@@ -807,13 +1330,13 @@
     },
     {
         "card_name": "CL01 Prismatic Cliff",
-        "number": 111,
+        "number": 254,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "CL02 Precipice of Potential",
-        "number": 112,
+        "number": 255,
         "shape": "normal",
         "set": "ART"
     },
@@ -843,31 +1366,31 @@
     },
     {
         "card_name": "Plains",
-        "number": 123,
+        "number": 281,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "Island",
-        "number": 124,
+        "number": 282,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "Swamp",
-        "number": 125,
+        "number": 283,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "Mountain",
-        "number": 126,
+        "number": 284,
         "shape": "normal",
         "set": "ART"
     },
     {
         "card_name": "Forest",
-        "number": 127,
+        "number": 285,
         "shape": "normal",
         "set": "ART"
     },
@@ -892,27 +1415,45 @@
     },
     {
         "card_name": "Black Lotus",
-        "number": 3,
-        "shape": "token",
-        "set": "ART"
-    },
-    {
-        "card_name": "Ink",
         "number": 4,
         "shape": "token",
         "set": "ART"
     },
     {
-        "card_name": "Sketch",
+        "card_name": "Ink",
         "number": 5,
         "shape": "token",
         "set": "ART"
     },
     {
-        "card_name": "Drake",
+        "card_name": "Sculpted Token",
+        "number": 6,
+        "shape": "token",
+        "set": "ART"
+    },
+    {
+        "card_name": "Visone",
         "number": 2,
         "shape": "token",
         "set": "ART"
+    },
+    {
+        "card_name": "Drake",
+        "number": 3,
+        "shape": "token",
+        "set": "ART"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

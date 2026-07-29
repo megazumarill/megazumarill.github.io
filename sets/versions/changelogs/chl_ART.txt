@@ -1,4 +1,580 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW09 Watercart Workhorse added.
+UW13 Clouded Construction added.
+UU13 Feaster of Skies added.
+CU13 Mesmerizing Portrait (PH art) added.
+UU11 Auroral Unmaking added.
+UU12 Craftroot Relic added.
+CB07 Inkweaver Ambusher added.
+CB13 Vanquish of the Beast added.
+CB15 Snare the Fallen added.
+CB17 Spin Possibility added.
+UB12 Cover Decay added.
+CR04 Pathblazer Captain added.
+CR08 Ceramic Crusader added.
+UR12 Enraging Haze added.
+CR19 Inferno Genesis added.
+CG10 Megafloral Crawler added.
+CG08 Vibrant Webweaver added.
+CG11 Riverland Seamstress added.
+UW01 Regal Pegasus added.
+UW02 Silverspear Rallier added.
+UW03 Winterland Walker added.
+UW04 Auroral Fox added.
+UW05 Requiem Sprite added.
+UW06 Banisher Canine added.
+UW07 Reformed Inklander added.
+UW08 Twinblade Blessing added.
+UW09 Dance in the Moonlight added.
+UW10 Cosmic Blessing added.
+UW12 Radiant Recreation added.
+UU01 Horizon Sailor added.
+UU02 One with the Ink added.
+UU03 Playful Hatchling added.
+UU04 Tome of Construction added.
+UU05 Flightcrafter Expert added.
+UU08 Overeager Explorer added.
+UU10 Disregard Derivity added.
+UB01 Chimeric Omenkeeper added.
+UB02 Relentless Battle Lizard added.
+UB03 Artificial Spinner added.
+UB04 Darkwing Moth added.
+UB05 Rootdrinker Tarantula added.
+UB06 Scrapyard Scavenger added.
+UB07 Inkdrinker added.
+UB08 Threads of Shadow added.
+UB09 Nightly Reaping added.
+UB10 Cut Down added.
+UB11 Mindlight Lantern added.
+UR02 Ironclad Brawler added.
+UR01 Rugged Wanderer added.
+UR06 Trumpeting Chorus added.
+UR04 Sunset Blademaster added.
+UR03 Ironcraft Sentinel added.
+UR05 Improvising Raider added.
+UR07 Goldsphere Dragon added.
+UR08 Roiling Starstorm added.
+UR09 Firelight Saber added.
+UR10 Molten Rose added.
+UR11 Cosmic Spark added.
+UG01 Clifftop Lookout added.
+UG02 Dismantling Dino added.
+CG17 Woodland Might added.
+UG04 Monumental Spinner added.
+UG05 Wildland Minstrel added.
+UG06 Messenger Fawn added.
+UG07 Watercolor Stallion added.
+UG08 Discover Tranquility added.
+UG09 Floral Writhing added.
+UG10 Radiant Presence added.
+UG11 Material Maximization added.
+UU09 Release to the Wind added.
+UM01 Blighted Soulweaver added.
+UA01 Shifting Beacon added.
+UA02 Solemn Epitaph added.
+UA03 Colorful Components added.
+UA04 Wanderer's Staff added.
+UA05 Horizon Ring added.
+UX01 Arid Horizon added.
+UX02 Icy Horizon added.
+UX03 Windswept Horizon added.
+UX04 Wooded Horizon added.
+UX05 Tainted Horizon added.
+UR13 Searing Wildfire added.
+UG12 Mystical Stream added.
+CW15 Cardboard Cage added.
+UB13 Shadowy Guidestone added.
+Sculpted Token added.
+UU06 Flattering Imitator added.
+UU07 Crafted Cephalopod added.
+UW11 Searing Illumination added.
+Visone added.
+UG03 Lamplight Wanderer added.
+UM02 Amethyst Sculptor added.
+UM02 Composer of Fear added.
+UM02 Shattered Relic added.
+UM02 Artist's Charm added.
+UM02 Tropical Revitalization added.
+UM02 Antique Altar added.
+UM02 Reimagine added.
+UM02 Arachnid Blightiller added.
+UM02 Marketplace Gathering added.
+UM02 Know the Horizon added.
+UG13 Flowering Heights added.
+
+CW09 Paintcart Workhorse removed.
+CU13 Frigid Flare removed.
+CB07 Blightsea Nautilis removed.
+CB13 Vanquish of the Venomous removed.
+CB15 Dungeon Looting removed.
+CB17 Diabolic Idea removed.
+CR04 Pathblaze Crusader removed.
+CR08 Violent Idol removed.
+CR19 Expressive Genesis removed.
+CG10 (placeholder) removed.
+CG08 Kidnapper Arachnid removed.
+CG11 Riverland Explorer removed.
+UM01 Fang of the Inklands removed.
+CG17 Mystical Stream removed.
+CW15 Sealed Away removed.
+Sketch removed.
+
+CW01 Creative Conjurer
+type: Creature — Construct Wizard => Creature — Visone Wizard
+rules_text: Lifelink
+{2}{W}: Paint “Create a 1/1 white Construct creature token.” Activate only as a sorcery and only once each turn. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Lifelink
+{2}{W}: Paint “Create a 1/1 white Visone creature token.” Activate only as a sorcery and only once each turn. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CW02 Searcher of Horizons
+type: Creature — Construct Scout => Creature — Visone Scout
+rules_text: Sketch {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Whenever you paint or cast an enchantment spell, you gain 1 life. => Sculpt {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Whenever you paint or cast an enchantment spell, you gain 1 life.
+
+CW03 Levitation Mage
+type: Creature — Construct Wizard => Creature — Visone Wizard
+
+CW04 Valiant Guardian
+type: Creature — Construct Soldier => Creature — Visone Soldier
+rules_text: Sketch {1}{W} [i](As an additional cost to cast this spell, you may pay an additional {1}{W}. If you do, copy it, except its a noncreature artifact.)[/i]
+{1}, Sacrifice this permanent: Destroy target artifact or nontoken enchantment. => Sculpt {1}{W} [i](As an additional cost to cast this spell, you may pay an additional {1}{W}. If you do, copy it, except its a noncreature artifact.)[/i]
+{1}, Sacrifice this permanent: Destroy target artifact or nontoken enchantment.
+
+CW05 Adventurous Lancer
+type: Creature — Construct Knight => Creature — Visone Knight
+
+CW06 Noble Quickblade
+type: Creature — Construct Noble Soldier => Creature — Visone Noble Soldier
+
+CW07 Lunarlight Owl
+rules_text: Flying
+When this creature enters, paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Flying
+When this creature enters, paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CW08 Feline Mesmer
+rules_text: Sketch {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+{1}{W}, {T}: Tap target creature. => Sculpt {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+{1}{W}, {T}: Tap target creature.
+
+CW10 Crafttown Guard
+type: Creature — Construct Soldier => Creature — Visone Soldier
+rules_text: Sketch {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Vigilance
+When this permanent enters, put a +1/+1 counter on up to one other target creature. => Sculpt {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Vigilance
+When this permanent enters, put a +1/+1 counter on up to one other target creature.
+
+CW11 Inspiring Soldier
+type: Creature — Construct Soldier => Creature — Visone Soldier
+rules_text: When this creature enters, paint “Put a +1/+1 counter on a creature you control.” twice. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => When this creature enters, paint “Put a +1/+1 counter on a creature you control.” twice. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CW12 Angel of Temperance
+type: Creature — Construct Angel => Creature — Angel
+rules_text: Flying
+Whenever a token you control enters, scry 1. => Flying
+Whenever a token you control enters, scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+
+CW16 Liquify
+
+CW18 Starlight Crown
+rules_text: Enchant creature
+Enchanted create gets +1/+1 and has vigilance.
+You may cast this card from your graveyard if you created a token this turn. => Enchant creature
+Enchanted create gets +1/+1 and has vigilance.
+You may cast this card from your graveyard if a token entered under your control this turn.
+
+CU01 Brushstroke Starling
+rules_text: Flying
+{2}{U}: Paint “Draw a card, then discard a card.” Activate only as a sorcery and only once each turn. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Flying
+{2}{U}: Paint “Draw a card, then discard a card.” Activate only as a sorcery and only once each turn. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CU02 Weary Traveller
+type: Creature — Bear Construct Scout => Creature — Bear Scout
+rules_text: Sketch {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Flash
+When this permanent enters, target creature you don't control gets -2/-0 until end of turn. => Sculpt {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Flash
+When this permanent enters, target creature you don't control gets -2/-0 until end of turn.
+
+CU03 Venturing Vagrants
+type: Creature — Construct Scout => Creature — Visone Scout
+rules_text: Sketch {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+When this enters, scry 1.
+{2}, Sacrifice this permanent: Draw a card. => Sculpt {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+When this enters, scry 1.
+{2}, Sacrifice this permanent: Draw a card.
+
+CU05 Creative Convoy
+type: Creature — Construct Scout => Creature — Visone Scout
+rules_text: Sketched spells you cast cost {1} less to cast.
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature. => Sculpted spells you cast cost {1} less to cast.
+Whenever you draw your second card each turn, put a +1/+1 counter on this creature.
+
+CU04 Illuminating Merchant
+type: Creature — Construct Citizen => Creature — Visone Citizen
+
+CU06 Soaring Swan
+rules_text: Sketch {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Flying
+{U}, {T}: Create or sacrifice an Ink token. [i](It's an artifact token with “{3}: Sacrifice this token.” and “When this token leaves the battlefield, draw a card then discard a card.”)[/i] => Sculpt {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Flying
+{U}, {T}: Create or sacrifice an Ink token. [i](It's an artifact token with “{3}: Sacrifice this token.” and “When this token leaves the battlefield, draw a card then discard a card.”)[/i]
+
+CU09 Migrating Herd
+rules_text: Sketch {1}{U} [i](As an additional cost to cast this spell, you may pay an additional {1}{U}. If you do, copy it, except its a noncreature artifact.)[/i]
+When this permanent enters, you may sacrifice an artifact, if you do, draw a card.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Sculpt {1}{U} [i](As an additional cost to cast this spell, you may pay an additional {1}{U}. If you do, copy it, except its a noncreature artifact.)[/i]
+When this permanent enters, you may sacrifice an artifact, if you do, draw a card.
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CU10 Moment of Levity
+rules_text: Target creature you control gets flying ad hexproof until end of turn.
+Paint “Put +1/+1 counter on a creature you control.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Target creature you control gets flying ad hexproof until end of turn.
+Paint “Put +1/+1 counter on a creature you control.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+Expressive {U} [i](When you discard this card, you may cast it from your graveyard for {U}.)[/i]
+
+CU12 Abstract Essence
+rules_text: Counter target spell and each other spell that shares a name with that spell. => Counter target spell and each other spell that shares a name with that spell.
+Expressive {2}{U}{U} [i](When you discard this card, you may cast it from your graveyard for {2}{U}{U}.)[/i]
+
+CU16 Starlight Discovery
+rules_text: Draw a card.
+Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Draw a card.
+Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CU17 Tidal Totem
+
+CB01 Speaker of the Shadelands
+type: Artifact Creature — Construct Warlock => Artifact Creature — Visone Warlock
+rules_text: Deathtouch
+{3}{B}: Paint “Each opponent loses 2 life unless they discard a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Deathtouch
+{3}{B}: Paint “Each opponent loses 2 life unless they discard a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CB02 Inklands Delver
+type: Creature — Elder Construct Scout => Creature — Visone Scout
+
+CB03 Blighted Inkling
+rules_text: Sketch {2}{B} [i](As an additional cost to cast this spell, you may pay an additional {2}{B}. If you do, copy it, except its a noncreature artifact.)[/i]
+When this permanent enters, each opponent discards a card. => Sculpt {2}{B} [i](As an additional cost to cast this spell, you may pay an additional {2}{B}. If you do, copy it, except its a noncreature artifact.)[/i]
+When this permanent enters, each opponent discards a card.
+
+CB04 Blade of the Dark Brush
+type: Creature — Construct Knight => Creature — Visone Knight
+
+CB05 Onyx Cockatrice
+rules_text: Flying
+Whenever you gain life, each opponent loses 1 life. => Flying
+At the beginning of your upkeep, mill a card. [i](Put the top card of your library into your graveyard.)[/i]
+
+CB08 Craftwork Zealot
+type: Creature — Construct Warlock => Creature — Visone Warlock
+rules_text: Sketch {2}{B} [i](As an additional cost to cast this spell, you may pay an additional {2}{B}. If you do, copy it, except its a noncreature artifact.)[/i]
+When this permanent enters, each opponent loses 2 life and you gain 2 life. => Sculpt {2}{B} [i](As an additional cost to cast this spell, you may pay an additional {2}{B}. If you do, copy it, except its a noncreature artifact.)[/i]
+When this permanent enters, each opponent loses 2 life and you gain 2 life.
+
+CB12 Inkbulb Sprout
+rules_text: When this artifact enters, up to one target creature gets -2/-2 until end of turn.
+When this artifact leaves the battlefield, draw a card, then discard a card.
+{3}: Sacrifice this artifact. => When this artifact enters, target creature gets -2/-2 until end of turn.
+{3}: Sacrifice this Artifact
+When this artifact leaves the battlefield, draw a card then discard a card.
+
+CB14 Vivid Rebirth
+rules_text: Target creature you control gains “When this creature dies, return it to the battlefield under your control.” until end of turn.
+Paint “Put a +1/+1 counter on a creature you control.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Target creature you control gains “When this creature dies, return it to the battlefield under your control.” until end of turn.
+Paint “Put a +1/+1 counter on a creature you control.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CB16 Spiraling Blight
+cost: {2}{B} => {3}{B}
+
+CR01 Novice Pyromancer
+type: Creature — Construct Wizard => Creature — Visone Wizard
+rules_text: First strike
+{2}{R}: Paint “This enchantment deals 1 damage to each opponent.” Activate only as a sorcery and only once each turn. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => First strike
+{2}{R}: Paint “This enchantment deals 1 damage to each opponent.” Activate only as a sorcery and only once each turn. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CR02 Lightning Roller
+rules_text: Haste
+{2}{R}, Exile this card from your graveyard: This creature deals 2 damage to each opponent. => Haste
+Expressive {R} [i](When you discard this card, you may cast it from your graveyard for {R}. It can't block this turn. Sacrifice it when it deals damage.)[/i]
+
+CR03 Bullheaded Goblin
+rules_text: As long as you discarded a card this turn, creature gets +1/+0 and has menace. => Menace
+When this creature dies, create an Ink token. [i](It's an artifact token with “{3}: Sacrifice this token.” and “When this token leaves the battlefield, draw a card then discard a card.”)[/i]
+Expressive {R} [i](When you discard this card, you may cast it from your graveyard for {R}. It can't block this turn. Sacrifice it when it deals damage.)[/i]
+
+CR06 Outskirts Archer
+type: Creature — Construct Archer Scout => Creature — Visone Archer Scout
+rules_text: Whenever an artifact or creature you control enters, paint “This enchantment deals 1 damage to each opponent.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Whenever an artifact or creature you control enters, paint “This enchantment deals 1 damage to each opponent.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+pt: 3/2 => 2/2
+
+CR07 Intrepid Improviser
+rules_text: When this creature attacks, you may sacrifice an artifact. If you do, this creature gets +2/+1 until end of turn. => When this creature attacks, you may sacrifice an artifact. If you do, this creature gets +2/+1 until end of turn. 
+Expressive {1}{R} [i](When you discard this card, you may cast it from your graveyard for {1}{R}. It can't block this turn. Sacrifice it when it deals damage.)[/i]
+
+CR05 Abstract Artisan
+type: Creature — Construct Artificer => Creature — Visone Artificer
+
+CR11 Forced Folding
+
+CR12 Corrupt Writings
+rules_text: When this artifact enters, it deals 4 damage to target creature.
+When this artifact leaves the battlefield, draw a card, then discard a card.
+{3}: Sacrifice this artifact. => When this enters, it deals 4 damage to target creature.
+{3}: Sacrifice this artifact.
+When this artifact leaves the battlefield, draw a card then discard a card.
+
+CR13 Demand Answers
+
+CR14 Exquisite Dragonfire
+
+CR17 Unraveling Vortex
+rules_text: Choose one—
+• This spell deals 3 damage to target nontoken creature and 1 damage to up to one target creature token.
+• Exile target artifact. => Choose one—
+• This spell deals 3 damage to target nontoken creature and 1 damage to up to one target creature token.
+• Target artifact loses all abilities. Exile it.
+
+CR18 Wildfire Meeting
+rules_text: Choose one—
+• This spell deals 1 damage to each opponent and each creature they control.
+• Paint “Create a 1/1 white Construct creature token.” twice [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Paint “Create a 1/1 white Visone creature token.” twice. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+Expressive {2}{R} [i](When you discard this card, you may cast it from your graveyard for {2}{R}.)[/i]
+
+CG02 Vibrant Stag
+rules_text: Vigilance
+{1}, Sacrifice this creature: Destroy target artifact or enchantment. => Vigilance
+[i][i]Collage[/i]— [/i]When this creature dies, you mill two cards, then you gain 2 life if you control two or more other nonland permanents that don't share a type.
+
+CG01 Forest Nurturer
+type: Creature — Construct Druid => Creature — Visone Druid
+rules_text: When this creature enters, you gain 2 life. 
+{2}{G}: Paint “Put a +1/+1 counter on a creature you control.” Activate only as a sorcery and only once each turn. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => When this creature enters, you gain 2 life. 
+{2}{G}: Paint “Put a +1/+1 counter on a creature you control.” Activate only as a sorcery and only once each turn. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CG03 Wildland Explorer
+type: Creature — Construct Scout => Creature — Visone Scout
+
+CG05 Craftfolk Gatherer
+type: Creature — Construct Druid Scout => Creature — Visone Druid Scout
+rules_text: Flash
+When this creature enters, exile up to two target cards from a graveyard. If you exiled a creature card this way, you gain 1 life. => Flash
+When this creature enters, exile up to two target cards from a graveyard. If you exiled two or more types of card this way, paint “Put a +1/+1 counter on a creature you control.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CG06 Scenic Shrub
+rules_text: Trample
+Whenever you cast a creature spell, paint “Put a +1/+1 counter on a creature you control.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Trample
+At the beginning of your upkeep, you may exile a card from your graveyard. If you do, mill two cards.
+
+CG07 Wildglade Tender
+type: Creature — Construct Druid Scout => Creature — Visone Druid Scout
+rules_text: When this creature enters, paint “Put a +1/+1 counter on a creature you control.” If you control another Scout, paint that ability twice instead. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => When this creature enters, paint “Put a +1/+1 counter on a creature you control.” If you control another Scout, paint that ability twice instead. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CG12 Belligerent Burrower
+cost: {5}{G}{G} => {4}{G}{G}
+rules_text: When this creature enters, paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i]
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CG13 Sculpted Sting
+rules_text: Paint “Put a +1/+1 counter on a creature you control.” When you do, you may have target creature you control fight target creature you don't control . [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Paint “Put a +1/+1 counter on a creature you control.” When you do, you may have target creature you control fight target creature you don't control . [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CG14 Caustic Wellspring
+rules_text: When this enchantment enters, target creature you control gets +2/+2 and deathtouch until end of turn.
+{4}{G}, Sacrifice this enchantment: Destroy target noncreature, nonland permanent. => When this enchantment enters, search your library for a basic land card, put it onto the battlefield, then shuffle.
+{4}{G}, Sacrifice this enchantment: Destroy target noncreature, nonland permanent.
+
+CG15 Arboreal Armor
+rules_text: Target creature or enchantment you control gets hexproof and indestructible until end of turn. You gain 1 life. => Target creature or enchantment you control gets hexproof and indestructible until end of turn. Mill two cards.
+
+CG18 Festive Fangs
+rules_text: This spell costs {2} less to cast if you painted or cast an enchantment spell this turn. 
+Target creature you control deals damage equal to twice its power to target creature or planeswalker you don't control. => [i]Collage[/i]—This spell costs {2} less to cast if you control two or more nonland permanents that don't share a type.
+Target creature you control deals damage equal to twice its power to target creature or planeswalker you don't control.
+
+CU08 Craftwork Delver
+type: Creature — Construct Scout => Creature — Visone Scout
+rules_text: As long as you control another Scout, this creature can't be blocked.
+{3}{U}, Exile this card from your graveyard: Draw a card. => As long as you control another Scout, this creature can't be blocked.
+Expressive {U} [i](When you discard this card, you may cast it from your graveyard for {U}. It can't block this turn. Sacrifice it when it deals damage.)[/i]
+
+UM01 Artful Aeronaut
+type: Creature — Construct Knight => Creature — Visone Knight
+rules_text: Sketch {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Flying, vigilance
+{T}: Draw a card, then discard a card. => Sculpt {2} [i](As an additional cost to cast this spell, you may pay an additional {2}. If you do, copy it, except its a noncreature artifact.)[/i]
+Flying, vigilance
+{T}: Draw a card, then discard a card.
+
+UM01 Deathmark Ritualist
+type: Creature — Construct Shaman => Creature — Visone Shaman
+rules_text: Deathtouch
+At the beginning of combat on your turn, you may sacrifice an artifact or creature. When you do, you may exile target noncreature, nonland card from your graveyard. You may cast a copy of it. [i](You still pay its costs.)[/i] => Deathtouch
+Whenever this creature enters, draw a card.
+Sacrifice an artifact or creature, Exile this card from your graveyard: You may cast a copy of this card. Activate only as a sorcery.
+
+UM01 Dark Brush Warrider
+
+UM01 Vividmane Prowler
+cost: {2}{R}{G} => {3}{R}{G}
+pt: 4/4 => 5/5
+
+UM01 Curious Fawn
+rules_text: When Curious Fawn enters, paint “Put a +1/+1 counter on a creature you control.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i]
+Whenever you paint or cast an enchantment spell, put a +1/+1 counter on a creature you control. => When Curious Fawn enters, paint “Put a +1/+1 counter on a creature you control.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+Whenever you paint or cast an enchantment spell, put a +1/+1 counter on a creature you control.
+
+UM01 Fallen Orator
+type: Creature — Construct Warlock => Creature — Visone Warlock
+
+UM01 Regal Raven
+rules_text: Flying, haste
+At the beginning of your upkeep, paint “Draw a card, then discard a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i]
+Whenever you discard a card, this creature gets +1/+1 until end of turn. => Flying, haste
+At the beginning of your upkeep, paint “Draw a card, then discard a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+Whenever you discard a card, this creature gets +1/+1 until end of turn.
+
+UM01 Young Adventurer
+type: Creature — Human Warrior Scout => Creature — Visone Warrior Scout
+cost: {1}{R}{W} => {R}{W}
+rules_text: This creature gets +X/+0, where X is the number of tokens you control.
+Whenever you attack, paint “Create a 1/1 white Construct creature token.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => During your turn, this creature has first strike.
+Whenever you attack, paint “Create a 1/1 white Visone creature token.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+pt: 0/3 => 2/2
+
+CA01 Exotic Vial
+rules_text: When this artifact leaves the battlefield, draw a card, then discard a card.
+{2}, Sacrifice this artifact: Paint “Search your library for a basic land card, reveal it, put it into your hand, then shuffle.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => When this artifact leaves the battlefield, draw a card, then discard a card.
+{2}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+CR15 Swift Brew
+type: Artifact — Ink => Instant
+rules_text: Flash
+When this artifact enters, target creature you control gets +1/+1 and gains first strike until end of turn.
+When this artifact leaves the battlefield, draw a card, then discard a card. => Target creature you control gets +1/+1 and gains first strike until end of turn.
+Create an Ink token. [i](It's an artifact token with “{3}: Sacrifice this token.” and “When this token leaves the battlefield, draw a card then discard a card.”)[/i]
+
+CG19 Guide to the Horizons
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.
+II — Scry 1.
+III — Put a +1/+1 counter on a creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.
+II — Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+III — Put a +1/+1 counter on a creature you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.
+II — Scry 1.
+III — Put a +1/+1 counter on a creature you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.
+II — Scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i]
+III — Put a +1/+1 counter on a creature you control.
+
+CL05 Inferno Falls
+rules_text: This land enters tapped.
+{T}: Add {B} or {R}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {B} or {R}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL04 Starlight Coast
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {U} or {B}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL09 Coastal Ridgeline
+rules_text: This land enters tapped.
+{T}: Add {U} or {R}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {U} or {R}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL10 Sunken Mire
+rules_text: This land enters tapped.
+{T}: Add {B} or {G}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {B} or {G}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL08 Inkland Marsh
+rules_text: This land enters tapped.
+{T}: Add {W} or {B}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {W} or {B}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL07 Winding Path
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {G} or {W}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL03 Frosted Lakefront
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {W} or {U}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL06 Cinder Forest
+rules_text: This land enters tapped.
+{T}: Add {R} or {G}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {R} or {G}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL12 Lush River
+rules_text: This land enters tapped.
+{T}: Add {G} or {U}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {G} or {U}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CL11 Sparse Prairie
+rules_text: This land enters tapped.
+{T}: Add {R} or {W}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => This land enters tapped.
+{T}: Add {R} or {W}.
+{T}, Sacrifice this land: Paint “Draw a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CW19 Weights of Finality
+rules_text: Enchant creature
+Enchanted creature cannot attack or block.
+{3}{W}, Exile this aura: Exile enchanted creature. Paint “Create a 1/1 white Construct creature token.” Activate only as a sorcery. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => Enchant creature
+Enchanted creature cannot attack or block.
+{3}{W}, Exile this aura: Exile enchanted creature. Paint “Create a 1/1 white Visone creature token.” Activate only as a sorcery. [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+CU15 Stuck In Place
+cost: {U} => {2}{U}
+rules_text: As an additional cost to cast this spell, discard a card or pay {2}.
+Enchant creature or artifact
+When this aura enters, tap enchanted permanent.
+Enchanted permanent can't become untapped. => Enchant creature or artifact
+When this aura enters, tap enchanted permanent.
+Enchanted permanent can't become untapped.
+
+CB19 Dark Gift
+rules_text: As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.
+Paint “Each opponent loses 2 life unless they discard a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters.)[/i] => As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.
+Paint “Each opponent loses 2 life unless they discard a card.” [i](Note the ability. When you have three or more, remove them to create a Saga token with those chapters in any order.)[/i]
+
+Painting
+
+CU07 Wayward Relicspeaker
+type: Creature — Construct Scout => Creature — Visone Scout
+
+CR16 Burn the City
+rules_text: This spell deals 2 damage to any target. If you created a token this turn, it deals 3 damage to that target instead. => This spell deals 2 damage to any target. If a token entered under your control this turn it deals 3 damage to that target instead.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
