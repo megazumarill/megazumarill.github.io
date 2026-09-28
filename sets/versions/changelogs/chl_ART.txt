@@ -1,4 +1,518 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Creative Conjurer added.
+Searcher of Horizons added.
+Levitation Mage added.
+Valiant Guardian added.
+Adventurous Lancer added.
+Noble Quickblade added.
+Lunarlight Owl added.
+Feline Mesmer added.
+Watercart Workhorse added.
+Crafttown Guard added.
+Inspiring Soldier added.
+Angel of Temperance added.
+Sunlight Muse added.
+Solar Raze added.
+Liquify added.
+Clouded Construction added.
+Starlight Crown added.
+The Prismatic Reunion added.
+Brushstroke Starling added.
+Weary Traveller added.
+Venturing Vagrants added.
+Creative Convoy added.
+Illuminating Merchant added.
+Soaring Swan added.
+Feaster of Skies added.
+Migrating Herd added.
+Moment of Levity added.
+Spelltide Denial added.
+Abstract Essence added.
+Icy Embrace added.
+Lost at Sea added.
+Auroral Unmaking added.
+Starlight Discovery added.
+Tidal Totem added.
+The Draconic Dawn added.
+Craftroot Talisman added.
+Speaker of the Shadelands added.
+Inklands Delver added.
+Blighted Inkling added.
+Blade of the Darkbrush added.
+Onyx Cockatrice added.
+Ambusher Scorpion added.
+Inkweaver Ambusher added.
+Craftwork Zealot added.
+Scavenging Hawk added.
+Inklands Demon added.
+Extract Inspiration added.
+Inkbulb Sprout added.
+Vanquish of the Beast added.
+Vivid Rebirth added.
+Snare the Fallen added.
+Spiraling Blight added.
+Spin Possibility added.
+Cover Decay added.
+Wrath of the Incomplete added.
+Novice Pyromancer added.
+Lightning Roller added.
+Bullheaded Goblin added.
+Pathblazer Captain added.
+Ceramic Crusader added.
+Outskirts Archer added.
+Intrepid Improviser added.
+Abstract Artisan added.
+Spearmaster Goblin added.
+Paperscale Dragon added.
+Forced Folding added.
+Corrupt Writings added.
+Demand Answers added.
+Exquisite Dragonfire added.
+Enraging Haze added.
+Unraveling Vortex added.
+Wildfire Meeting added.
+Inferno Genesis added.
+Vibrant Stag added.
+Forest Nurturer added.
+Wildland Explorer added.
+Lunging Lizards added.
+Craftfolk Gatherer added.
+Scenic Shrub added.
+Megafloral Crawler added.
+Vibrant Webweaver added.
+Wildglade Tender added.
+Riverland Seamstress added.
+Slippery Sludge added.
+Belligerent Burrower added.
+Sculpted Sting added.
+Caustic Wellspring added.
+Arboreal Armor added.
+Grasp of Vines added.
+Festive Fangs added.
+Regal Pegasus added.
+Silverspear Rallier added.
+Winterland Walker added.
+Auroral Fox added.
+Requiem Sprite added.
+Banisher Canine added.
+Reformed Inklander added.
+Twinblade Blessing added.
+Dance in the Moonlight added.
+Cosmic Blessing added.
+Radiant Recreation added.
+Horizon Sailor added.
+One with the Ink added.
+Playful Hatchling added.
+Tome of Construction added.
+Flightcrafter Expert added.
+Overeager Explorer added.
+Windcaller Mystic added.
+Disregard Derivity added.
+Craftwork Delver added.
+Chimeric Omenkeeper added.
+Relentless Battle Lizard added.
+Artificial Spinner added.
+Darkwing Moth added.
+Rootdrinker Tarantula added.
+Scrapyard Scavenger added.
+Inkdrinker added.
+Threads of Shadow added.
+Nightly Reaping added.
+Cut Down added.
+Mindlight Lantern added.
+Ironclad Brawler added.
+Rugged Wanderer added.
+Trumpeting Chorus added.
+Sunset Blademaster added.
+Ironcraft Sentinel added.
+Improvising Raider added.
+Goldsphere Dragon added.
+Roiling Starstorm added.
+Firelight Saber added.
+Molten Rose added.
+Cosmic Spark added.
+Clifftop Lookout added.
+Dismantling Dino added.
+Woodland Might added.
+Monumental Spinner added.
+Wildland Minstrel added.
+Messenger Fawn added.
+Watercolor Stallion added.
+Discover Tranquility added.
+Floral Writhing added.
+Radiant Presence added.
+Material Maximization added.
+Otherworldy Masterpiece added.
+Vios, Hopeful Herald added.
+Windward Mage added.
+Sheltering Pegasus added.
+Starlit Flare added.
+Heaventree's Blessing added.
+Shepherd of the Beyond added.
+Seinti, Intrepid Adventurer added.
+Dreaming Skywhale added.
+Inkland Scholar added.
+Take Up the Brush added.
+Draconic Maelstrom added.
+Reflective Masterpiece added.
+Skyswallower's Sigil added.
+Skulthax the Blighted added.
+Dark Genesis added.
+Sovereign of Dusk added.
+Piercing Glarestone added.
+Onthan's Unraveling added.
+Monstrous Soultrapper added.
+Infernal Masterpiece added.
+Smoldering Relic added.
+Combusting Components added.
+Reinin, Zenith Climber added.
+Suncaster Mage added.
+Fiery Flourish added.
+Transformative Masterpiece added.
+Frenzied Fighter added.
+Pridecaller Adept added.
+Voice of the Beautiful added.
+Griblim of Two Paths added.
+Generous Explorer added.
+Hydra's Cave added.
+Prismatic Masterpiece added.
+Alluring Sanctuary added.
+Archon of Innovation added.
+Ajani, Multiversal Guide added.
+Temporal Dissolution added.
+Seafoam Shaper added.
+Rexig, the Ink Demon added.
+Creativity added.
+Esip, Showbird Extraordinaire added.
+Passion added.
+Seek the Heaventree added.
+Wildlight Watcher added.
+Artful Aeronaut added.
+Deathmark Ritualist added.
+Darkbrush Warrider added.
+Vividmane Prowler added.
+Curious Fawn added.
+Fallen Orator added.
+Regal Raven added.
+Blighted Soulweaver added.
+Young Adventurer added.
+Veteran Scoutmaster added.
+Songstress of Storm added.
+Spectral Beckoner added.
+Flamepetal Lotus added.
+Wildfire Artist added.
+Worldwrecker Titan added.
+Darkbrush Elite added.
+Roiling Ideation added.
+Interwoven Corrosion added.
+Negative Landscape added.
+Shiov, Boundless Memory added.
+Exotic Vial added.
+Runic Recollector added.
+Gilded Jay added.
+Satchel of Energization added.
+Boxshield Guardian added.
+Shifting Keymaster added.
+Solemn Epitaph added.
+Colorful Components added.
+Wanderer's Staff added.
+Horizon Ring added.
+Prismatic Cliff added.
+Valley River added.
+Autumnnal Peak added.
+Arid Horizon added.
+Icy Horizon added.
+Windswept Horizon added.
+Wooded Horizon added.
+Tainted Horizon added.
+Local Market added.
+Awakened Archive added.
+Molten Wellspring added.
+Ornate Altar added.
+Spidersilk Thicket added.
+The Genesis of Reythul added.
+Feisi, Cultural Evangel added.
+Relib of the Titan's Web added.
+Onthan, Pained Portrait added.
+Onthan, Expressive Portrait added.
+Wanderlust added.
+Nostalgia added.
+Beauty added.
+Searing Wildfire added.
+Swift Brew added.
+Mystical Stream added.
+Guide to the Horizons added.
+Precipice of Potential added.
+Inferno Falls added.
+Starlight Coast added.
+Coastal Ridgeline added.
+Sunken Mire added.
+Inkland Marsh added.
+Winding Path added.
+Frosted Lakefront added.
+Cinder Forest added.
+Lush River added.
+Sparse Prairie added.
+Cardboard Cage added.
+Weights of Finality added.
+Ratify added.
+Stuck In Place added.
+Shadowy Guidestone added.
+Dark Gift added.
+Deep Caverns added.
+Geothermal Crevasse added.
+Bright Meadow added.
+Wayward Relicspeaker added.
+Render Incomplete added.
+Crafted Cephalopod added.
+Searing Illumination added.
+Burn the City added.
+Lamplight Wanderer added.
+Amethyst Sculptor added.
+Composer of Fear added.
+Shattered Relic added.
+Artist's Charm added.
+Tropical Revitalization added.
+Antique Altar added.
+Reimagine added.
+Arachnid Blightiller added.
+Marketplace Gathering added.
+Know the Horizon added.
+Flowering Heights added.
+The Velvet Convocation added.
+Grogim, Parapet Prowler added.
+Exquisite Dancer added.
+Budding Blight added.
+Celestial Cycling added.
+Infernal Aggression added.
+Drowned Pioneer added.
+Sixfold Seraphim added.
+Honored Heirloom added.
+The Blight of Ink added.
+The Whims of the Wind added.
+The Beauty of Reythul added.
+The Passion of the Visone added.
+Ajani, Multiversal Guide Emblem added.
+Onthan, Pained Portrait Emblem added.
+
+CW01 Creative Conjurer removed.
+CW02 Searcher of Horizons removed.
+CW03 Levitation Mage removed.
+CW04 Valiant Guardian removed.
+CW05 Adventurous Lancer removed.
+CW06 Noble Quickblade removed.
+CW07 Lunarlight Owl removed.
+CW08 Feline Mesmer removed.
+CW09 Watercart Workhorse removed.
+CW10 Crafttown Guard removed.
+CW11 Inspiring Soldier removed.
+CW12 Angel of Temperance removed.
+CW13 Sunlight Muse removed.
+CW14 Solar Raze removed.
+CW16 Liquify removed.
+UW13 Clouded Construction removed.
+CW18 Starlight Crown removed.
+CW17 The Prismatic Reunion removed.
+CU01 Brushstroke Starling removed.
+CU02 Weary Traveller removed.
+CU03 Venturing Vagrants removed.
+CU05 Creative Convoy removed.
+CU04 Illuminating Merchant removed.
+CU06 Soaring Swan removed.
+UU13 Feaster of Skies removed.
+CU09 Migrating Herd removed.
+CU10 Moment of Levity removed.
+CU11 Spelltide Denial removed.
+CU12 Abstract Essence removed.
+CU13 Mesmerizing Portrait (PH art) removed.
+CU14 Lost at Sea removed.
+UU11 Auroral Unmaking removed.
+CU16 Starlight Discovery removed.
+CU17 Tidal Totem removed.
+CU18 The Draconic Dawn removed.
+UU12 Craftroot Relic removed.
+CB01 Speaker of the Shadelands removed.
+CB02 Inklands Delver removed.
+CB03 Blighted Inkling removed.
+CB04 Blade of the Dark Brush removed.
+CB05 Onyx Cockatrice removed.
+CB06 Ambusher Scorpion removed.
+CB07 Inkweaver Ambusher removed.
+CB08 Craftwork Zealot removed.
+CB09 Scavenging Hawk removed.
+CB10 Inklands Demon removed.
+CB11 Extract Inspiration removed.
+CB12 Inkbulb Sprout removed.
+CB13 Vanquish of the Beast removed.
+CB14 Vivid Rebirth removed.
+CB15 Snare the Fallen removed.
+CB16 Spiraling Blight removed.
+CB17 Spin Possibility removed.
+UB12 Cover Decay removed.
+CB18 Wrath of the Incomplete removed.
+CR01 Novice Pyromancer removed.
+CR02 Lightning Roller removed.
+CR03 Bullheaded Goblin removed.
+CR04 Pathblazer Captain removed.
+CR08 Ceramic Crusader removed.
+CR06 Outskirts Archer removed.
+CR07 Intrepid Improviser removed.
+CR05 Abstract Artisan removed.
+CR09 Spearmaster Goblin removed.
+CR10 Paperscale Dragon removed.
+CR11 Forced Folding removed.
+CR12 Corrupt Writings removed.
+CR13 Demand Answers removed.
+CR14 Exquisite Dragonfire removed.
+UR12 Enraging Haze removed.
+CR17 Unraveling Vortex removed.
+CR18 Wildfire Meeting removed.
+CR19 Inferno Genesis removed.
+CG02 Vibrant Stag removed.
+CG01 Forest Nurturer removed.
+CG03 Wildland Explorer removed.
+CG04 Lunging Lizards removed.
+CG05 Craftfolk Gatherer removed.
+CG06 Scenic Shrub removed.
+CG10 Megafloral Crawler removed.
+CG08 Vibrant Webweaver removed.
+CG07 Wildglade Tender removed.
+CG11 Riverland Seamstress removed.
+CG09 Slippery Sludge removed.
+CG12 Belligerent Burrower removed.
+CG13 Sculpted Sting removed.
+CG14 Caustic Wellspring removed.
+CG15 Arboreal Armor removed.
+CG16 Grasp of Vines removed.
+CG18 Festive Fangs removed.
+UW01 Regal Pegasus removed.
+UW02 Silverspear Rallier removed.
+UW03 Winterland Walker removed.
+UW04 Auroral Fox removed.
+UW05 Requiem Sprite removed.
+UW06 Banisher Canine removed.
+UW07 Reformed Inklander removed.
+UW08 Twinblade Blessing removed.
+UW09 Dance in the Moonlight removed.
+UW10 Cosmic Blessing removed.
+UW12 Radiant Recreation removed.
+UU01 Horizon Sailor removed.
+UU02 One with the Ink removed.
+UU03 Playful Hatchling removed.
+UU04 Tome of Construction removed.
+UU05 Flightcrafter Expert removed.
+UU08 Overeager Explorer removed.
+UU10 Disregard Derivity removed.
+CU08 Craftwork Delver removed.
+UB01 Chimeric Omenkeeper removed.
+UB02 Relentless Battle Lizard removed.
+UB03 Artificial Spinner removed.
+UB04 Darkwing Moth removed.
+UB05 Rootdrinker Tarantula removed.
+UB06 Scrapyard Scavenger removed.
+UB07 Inkdrinker removed.
+UB08 Threads of Shadow removed.
+UB09 Nightly Reaping removed.
+UB10 Cut Down removed.
+UB11 Mindlight Lantern removed.
+UR02 Ironclad Brawler removed.
+UR01 Rugged Wanderer removed.
+UR06 Trumpeting Chorus removed.
+UR04 Sunset Blademaster removed.
+UR03 Ironcraft Sentinel removed.
+UR05 Improvising Raider removed.
+UR07 Goldsphere Dragon removed.
+UR08 Roiling Starstorm removed.
+UR09 Firelight Saber removed.
+UR10 Molten Rose removed.
+UR11 Cosmic Spark removed.
+UG01 Clifftop Lookout removed.
+UG02 Dismantling Dino removed.
+CG17 Woodland Might removed.
+UG04 Monumental Spinner removed.
+UG05 Wildland Minstrel removed.
+UG06 Messenger Fawn removed.
+UG07 Watercolor Stallion removed.
+UG08 Discover Tranquility removed.
+UG09 Floral Writhing removed.
+UG10 Radiant Presence removed.
+UG11 Material Maximization removed.
+UU09 Release to the Wind removed.
+UM01 Artful Aeronaut removed.
+UM01 Deathmark Ritualist removed.
+UM01 Dark Brush Warrider removed.
+UM01 Vividmane Prowler removed.
+UM01 Curious Fawn removed.
+UM01 Fallen Orator removed.
+UM01 Regal Raven removed.
+UM01 Blighted Soulweaver removed.
+UM01 Young Adventurer removed.
+UM01 Veteran Scoutmaster removed.
+CA01 Exotic Vial removed.
+CA02 Runic Recollector removed.
+CA03 Gilded Jay removed.
+CA04 Satchel of Energization removed.
+CA05 Boxshield Guardian removed.
+UA01 Shifting Beacon removed.
+UA02 Solemn Epitaph removed.
+UA03 Colorful Components removed.
+UA04 Wanderer's Staff removed.
+UA05 Horizon Ring removed.
+CL01 Prismatic Cliff removed.
+UX01 Arid Horizon removed.
+UX02 Icy Horizon removed.
+UX03 Windswept Horizon removed.
+UX04 Wooded Horizon removed.
+UX05 Tainted Horizon removed.
+UR13 Searing Wildfire removed.
+CR15 Swift Brew removed.
+UG12 Mystical Stream removed.
+CG19 Guide to the Horizons removed.
+CL02 Precipice of Potential removed.
+CL05 Inferno Falls removed.
+CL04 Starlight Coast removed.
+CL09 Coastal Ridgeline removed.
+CL10 Sunken Mire removed.
+CL08 Inkland Marsh removed.
+CL07 Winding Path removed.
+CL03 Frosted Lakefront removed.
+CL06 Cinder Forest removed.
+CL12 Lush River removed.
+CL11 Sparse Prairie removed.
+CW15 Cardboard Cage removed.
+CW19 Weights of Finality removed.
+CU19 Ratify removed.
+CU15 Stuck In Place removed.
+UB13 Shadowy Guidestone removed.
+CB19 Dark Gift removed.
+CU07 Wayward Relicspeaker removed.
+UU06 Flattering Imitator removed.
+UU07 Crafted Cephalopod removed.
+UW11 Searing Illumination removed.
+CR16 Burn the City removed.
+UG03 Lamplight Wanderer removed.
+UM02 Amethyst Sculptor removed.
+UM02 Composer of Fear removed.
+UM02 Shattered Relic removed.
+UM02 Artist's Charm removed.
+UM02 Tropical Revitalization removed.
+UM02 Antique Altar removed.
+UM02 Reimagine removed.
+UM02 Arachnid Blightiller removed.
+UM02 Marketplace Gathering removed.
+UM02 Know the Horizon removed.
+UG13 Flowering Heights removed.
+
+Sculpted Token
+type: Artifact => Token Artifact
+
+Ink
+type: Artifact — Ink => Token Artifact — Ink
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW09 Watercart Workhorse added.
